@@ -1,0 +1,20 @@
+{
+    "name": "magentoj/language-ja_jp",
+    "version": "0.0.1",
+    "type": "magento2-language",
+    "description": "ja_JP language package.",
+    "license": [
+        "proprietary"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
