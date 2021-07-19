@@ -7,5 +7,5 @@ declare(strict_types=1);
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'magentoj_ja_jp', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'aj-engineering_ja_jp', __DIR__);
 
