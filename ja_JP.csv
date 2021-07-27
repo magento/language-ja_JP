@@ -1,344 +1,3 @@
-"Cannot gather meta info! %1",メタ情報を収集できません。%1
-"The ""%1"" CSV handle is incorrect. Verify the handle and try again.",「%1」のCSVハンドルが正しくありません。ハンドルを確認し、もう一度試してください。
-"An error occurred during ""%1"" execution.","""%1""の実行中にエラーが発生しました。"
-"An error occurred during ""%1"" fileSeek execution.","""%1"" fileSeekの実行中にエラーが発生しました。"
-"An error occurred during ""%1"" fileFlush execution.","""%1"" fileFlushの実行中にエラーが発生しました。"
-"An error occurred during ""%1"" fileLock execution.","""%1"" fileLockの実行中にエラーが発生しました。"
-"An error occurred during ""%1"" fileUnlock execution.","""%1"" fileUnlockの実行中にエラーが発生しました。"
-"Bucket and region are required values",グループと地域は必須の値です
-"Content includes restricted HTML elements. %1",コンテンツには制限されたHTML要素が含まれます。%1
-"Invalid content",無効なコンテンツ
-"""itemModel"" should be a ""%instance"" instance","""itemModel""は""%instance ""インスタンスである必要があります"
-"No such option with ID %1","ID %1を持つオプションは存在しません"
-"`%1` and `%2` can't be used at the same time.",`%1`と`%2`を同時に使用することはできません。
-"Product search has been disabled.",製品検索は無効になっています。
-"Filename is too long; must be %1 characters or less",ファイル名が長すぎます。は%1文字以下にする必要があります
-"Code (%1) is a reserved key and cannot be used as attribute code.",コード(%1)は予約済みのキーなので、属性コードとして使用できません。
-"The specified Catalog media URL format is not supported.",指定したカタログメディアURLの形式はサポートされていません。
-"Using restricted HTML elements for ""%1"". %2","""%1""に対して制限されたHTML要素を使用しています。%2"
-"This customer is not authorized to access this list",この顧客は、このリストにアクセスする権限がありません
-"Image optimization based on query parameters",クエリパラメーターに基づく画像の最適化
-"Unique hash per image variant (Legacy mode)",画像のバリアントごとの一意のハッシュ（レガシーモード）
-"HTML is invalid",HTMLが無効です
-"Could not store billing/shipping information at the moment but you can proceed with the checkout",現在請求/配送情報を保存できませんが、チェックアウトを続行できます
-"The CMS block with identifier ""%identifier"" is not enabled.","識別子「%identifier 」のCMSブロックが有効になっていません。"
-"Content field contains restricted HTML elements. %1",コンテンツフィールドに制限されたHTML要素が含まれています。%1
-"Content HTML contains restricted elements. %1",コンテンツHTMLに制限された要素が含まれています。%1
-"Temporarily allowed to save HTML value that contains restricted elements. %1",制限された要素を含むHTML値の保存を一時的に許可します。%1
-"Invalid HTML provided",無効なHTMLが提供されました
-"Invalid html",無効なhtml
-"""Payment on Account"" is disabled.","「Payment on Account」は無効になっています。"
-"The company can not be saved.",会社を保存できません。
-"Value ""%1"" is incorrect.",値「%1」は正しくありません。
-"Invalid value of ""%1"" provided for the %2 field.",%2フィールドに指定した「%1」の値が無効です。
-"Company feature is not available.",会社機能を使用できません。
-"Customer is not a company user.",顧客は会社ユーザーではありません。
-"You do not have authorization to perform this action.",このアクションを実行するための権限がありません。
-"Required parameters are missing: %1.",必須のパラメーターがありません：%1。
-"Field name cannot be longer than ' . . ' characters","フィールド名は'以下にする必要があります。. '文字"
-"Invalid role permission resources: %1.",無効な役割権限リソース：%1。
-"Invalid value of ""%1"" provided for the name field.",名前フィールドに指定した「%1」の値が無効です。
-"You do not have permission to create a team from the specified target ID.",指定したターゲットIDからチームを作成する権限がありません。
-"You are not authorized to update the team.",チームを更新する権限がありません。
-"Company team name must not be more than %1 characters.",会社チーム名は%1文字以下にする必要があります。
-"No company assigned to this user found.",このユーザーに割り当てられている会社が見つかりません。
-"Meant to be initiated by a company customer",会社のお客様が開始する
-"Field ""id"" is not specified",フィールド「id」が指定されていません
-"Company with this email address already exists in the system.Enter a different email address to continue.",この電子メールアドレスを持つ会社は既にシステムに存在します。別の電子メールアドレスを入力して続行してください。
-"Required parameter ""id"" is missing",必須のパラメーター「id」がありません
-"Role with id ""%role_id"" does not exist.","ID「%role_id 」の役割は存在しません。"
-"root_id value must be greater or equal to 0.","root_id の値は、0以上である必要があります。"
-"depth value must be greater or equal to 0.",深さの値は0以上である必要があります。
-"Required parameter ""name"" is missing",必須のパラメーター「name」がありません
-"Company role name must not be more than %1 characters.",会社ロール名は%1文字以下にする必要があります。
-"Company is not enabled or registration not allowed.",会社が有効でないか、登録できません。
-"The company can not be created.",会社を作成できません。
-"Team could not be created",チームを作成できませんでした
-"You are not authorized to delete the team.",チームを削除する権限がありません。
-"Can not delete team with id ""%1""","IDが""%1""のチームを削除できません"
-"Company is not enabled.",会社が有効になっていません。
-"""input"" value should be specified.",「input」値を指定する必要があります。
-"Failed to update company structure.",会社構造を更新できませんでした。
-"Company could not be updated",会社を更新できませんでした
-"Company features are not enabled for a storefront.",ストアフロントでは、会社機能が有効になっていません。
-"%1 access denied.",%1へのアクセスが拒否されました。
-"%1's account has been set to Inactive.",%1のアカウントは非アクティブに設定されています。
-"""uid"" value must be specified.",「uid」の値を指定する必要があります。
-"""products"" value must be specified.","""products""の値を指定する必要があります。"
-"""uid"" value does not exist",「uid」値が存在しません
-"""uid"" value must be specified",「uid」値を指定する必要があります
-"Customer must be logged",お客様のログが必要
-"Something was wrong during assigning customer.",顧客の割り当て中に問題が発生しました。
-"Something was wrong during creating compare list",比較リストを作成中に問題が発生しました
-"Something was wrong during removing compare list",比較リストを削除中に問題が発生しました
-"Something was wrong during removing products from compare list",比較リストから製品を削除中にエラーが発生しました
-"The product with SKU %sku is out of stock.","SKU %sku の製品は在庫切れです。"
-"""itemModel"" should be a ""%instance"" instance","""itemModel""は""%instance ""インスタンスである必要があります"
-Today,今日
-"Address not found.",アドレスが見つかりません。
-"Provided customer ID ""%customer_id"" isn't related to current customer address.","指定された顧客ID「%customer_id 」は現在の顧客住所に関連付けられていません。"
-"File with an extension php is protected and cannot be uploaded",拡張子phpを持つファイルは保護されているため、アップロードできません
-"Customer does not exist",顧客が存在しません
-"""itemModel"" should be a ""%instance"" instance","""itemModel""は""%instance ""インスタンスである必要があります"
-"""itemModel"" should be a ""%instance"" instance","""itemModel""は""%instance ""インスタンスである必要があります"
-"Please add required gift card fields",必須のギフトカードフィールドを追加してください
-". ', e.g. <i>product_images</i>, <i>import_images/batch1</i>.<br><br>For example, in case <i>product_images</i>, files should be placed into <i>&lt;Magento root directory&gt;/' . . '/product_images</i> folder.<br><br>If remote storage is enabled, in case <i>product_images</i>, files should be placed into <i>&lt;Remote Storage&gt;/' . . '/product_images</i> folder.' 'i' 'br'",".'、例：<i>product_images</i> , <i>import_images/batch1</i> .<br><br>例えば、<i>product_images</i> の場合、ファイルは<i>&lt;Magentoのルートディレクトリ&gt;/'に置く必要があります。. '/product_images</i>  folder.<br><br>リモートストレージが有効な場合、<i>product_images</i> の場合は、ファイルを<i>&lt;Remoteストレージ&gt;/'に配置する必要があります。. '/product_images</i> フォルダー。' 'i' 'br'"
-"Content of uploaded file was changed, please re-upload the file",アップロードされたファイルのコンテンツが変更されました。ファイルを再度アップロードしてください
-"Something went wrong while updating the product(s) stock status.",製品の在庫状態を更新中にエラーが発生しました。
-"SelectBuilder must implement SelectBuilderInterface.",SelectBuilderはSelectBuilderInterfaceを実装する必要があります。
-"Customer with this ID no longer exists.",このIDを持つ顧客は既に存在しません。
-"Customer email provided does not exist",指定された顧客の電子メールが存在しません
-"Unable to generate tokens. Please wait and try again later.",トークンを生成できません。お待ちいただき、後で再試行してください。
-"Check input params.",入力パラメーターを確認してください。
-"Specify the ""customer email"" value.",「顧客の電子メール」値を指定します。
-"Allow remote shopping assistance is disabled.",リモートショッピングアシスタンスを許可しますが無効です。
-"Fail to get authentication data.",認証データを取得できませんでした。
-"The config value for %path is not saved to database.","%path の構成値はデータベースに保存されません。"
-"Cannot create rendition for media asset paths: %paths",メディアアセットパスのレンディションを作成できません：%paths
-"Media asset file %path does not exist!","メディアアセットファイル %path は存在しません。"
-"Could not create rendition for image, path is restricted: %path",画像のレンディションを作成できませんでした。パスが制限されています：%path
-"Could not create rendition for image, unsupported file type: %path.",画像のレンディションを作成できませんでした。サポートされていないファイルタイプ：%path。
-"Cannot create directory for rendition %path","レンディション %path のディレクトリを作成できません"
-"Incorrect rendition path provided for update: %path",更新用に指定されたレンディションパスが正しくありません：%path
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","パス""%value% ""に親ディレクトリトラバーサル(""../""、""..\")を含めることはできません。"
-"The multiple wishlist configuration is currently disabled.",複数のウィッシュリスト設定は現在無効になっています。
-"The destination wishlist was not found.",宛先のウィッシュリストが見つかりませんでした。
-"The source wishlist was not found.",ソースウィッシュリストが見つかりませんでした。
-"We can't update the wish list right now.",現在ウィッシュリストを更新できません。
-"The quantity %quantity is invalid.","数量 %quantity は無効です。"
-"The maximum quantity that can be copied for ""%sku"" is %quantity.","「%sku 」に対してコピーできる最大数量は %quantity です。"
-"The ""%product"" is already present in ""%wishlist""","「%product 」は「%wishlist 」に既に存在します"
-"The maximum quantity that can be moved for ""%sku"" is %quantity.","「%sku 」に対して移動できる最大数量は %quantity です。"
-"""%product"" is already present in %wishlist.","「%product 」は %wishlist に既に存在します。"
-"We cannot move %product.","%product を移動できません。"
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","New Relic統合にはnewrelic-php5エージェントが必要ですが、インストールされていません。詳細
-                        エージェントのインストールに関する情報は、<aターゲット=""_blank "" href=""%1"">ここ</a>にあります。"
-"Invalid IFRAME source provided",無効なIFRAMEソースが指定されました
-"A successful payment transaction has already been completed. Please, check if the order has been placed.",正常な支払いトランザクションが既に完了しています。ご注文が済んでいるか確認してください。
-"Approved - Pending Payment","承認済み — 支払い待ち"
-"Payment method code cannot be empty",支払い方法のコードを入力してください
-"You will be asked to enter your payment details after your purchase order has been approved.",発注書が承認された後、支払いの詳細を入力するよう求められます。
-"To proceed with this order, go to %1 page.",この注文を続行するには、%1ページに移動します。
-"This order could not be completed as some items are currently unavailable.",現在使用できない項目があるので、この注文を完了できませんでした。
-"This purchase order has been approved but the payment details must be updated.",この発注は承認されましたが、支払いの詳細を更新する必要があります。
-"Cannot update item list.",項目のリストを更新できません。
-"Entered list is empty.",入力したリストは空です。
-"You entered item(s) with an empty SKU.",空のSKUを使用して項目を入力しました。
-"Can't assign cart to store in different website.",買い物かごを別のWebサイトに保存するように割り当てることはできません。
-"`%1` and `%2` can't be used at the same time.",`%1`と`%2`を同時に使用することはできません。
-"Could not create empty cart for customer",顧客用の空の買い物かごを作成できませんでした
-"The parameter ""destination_cart_id"" cannot be empty","パラメーター「destination_cart_id 」は空にできません"
-"Remote Storage",リモートストレージ
-"Predis client is not installed",Predisクライアントがインストールされていません
-"Cache adapter %1 is not supported",キャッシュアダプタ%1はサポートされていません
-"Driver ""%1"" does not exist","ドライバ""%1""は存在しません"
-"Remote driver is not available.",リモートドライバが利用できません。
-"No such item(s) with ID(s) ""%1""","ID ""%1""を持つ項目は存在しません"
-"Unable to create the target Requisition list",ターゲット要求リストを作成できません
-"Unable to create requisition list",要求リストを作成できません
-"The current user cannot perform operations on requisition list",現在のユーザーは、要求リストに対する操作を実行できません
-"Unable to add Requisition list items to cart",買い物かごに購入リスト項目を追加できません
-"The SKU was not found.",SKUが見つかりませんでした。
-"%1 doesn't implement CustomizableOptionInterface",%1はCustomizableOptionInterfaceを実装しません
-"Quantity should be greater than 0",数量は0より大きい値にする必要があります
-"Unable to update Requisition list",要求リストを更新できません
-"Requisition List feature is not available.",購買依頼リスト機能が使用できません。
-"Required parameter ""cartUid"" is missing",必須パラメーター「cartUid」がありません
-"Specify the ""name"" value.",「name」値を指定します。
-"Specify the ""requisitionListUid"" value.",「requisitionListUid」値を指定します。
-"Required parameter ""requisitionListItems"" is missing",必須パラメーター「requisitionListItems」がありません
-"Required parameter ""requisitionListUid"" is missing",必須パラメーター「requisitionListUid」がありません
-"""requisitionListUid"" value should be specified","""requisitionListUid""の値を指定する必要があります"
-"""requisitionListItemUids"" value should be specified","""requisitionListItemUids""の値を指定する必要があります"
-"Specify the ""sourceRequisitionListUid"" value.",「sourceRequisitionListUid」値を指定します。
-"Specify the ""requisitionListItem"" value.",「requisitionListItem」値を指定します。
-"Specify the ""requisitionListItemUids"" value.",「requisitionListItemUids」値を指定します。
-"Missing key ""product"" in requisition data",要求データに主要「製品」がありません
-"""uid"" value should be specified",「uid」値を指定する必要があります
-"Address for returns is not configured in admin.",返送先のアドレスが管理者で設定されていません。
-"Please enter return_shipping_tracking_uid.","return_shipping_tracking_uid と入力してください。"
-"RMA is disabled.",RMAが無効です。
-"You cannot return",戻ることはできません
-"You cannot return less than 1 product.",1つ未満の製品は返送できません。
-"The coupon code has been removed.",クーポンコードは削除されました。
-"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.","タイプ「ローカルサーバー」では、Magentoのインストールに対する相対パス（var/export、var/import、var/export/some/dirなど）を使用します。リモートストレージが構成されている場合は、import_export/export 、import_export/import 、import_export/export /some/dirなどのパスを使用します。"
-"example: ""/media/sitemap/"" for base path (path must be writeable)","例：""/media/sitemap/"" （パスは書き込み可能である必要があります）"
-"Requested store is not found (%1)",要求されたストアが見つかりません(%1)
-"Theme not found: ""%1"".","テーマが見つかりません：""%1""。"
-"Status Updated On:",ステータス更新日：
-"Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?",警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>よろしいですか？
-"Warning!<br>This action will remove those users from already assigned roles.<br>Are you sure?",警告！<br>この操作を実行すると、既に割り当てられているロールからこれらのユーザーが削除されます。<br>よろしいですか？
-"Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?",警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>よろしいですか？
-"""model"" should be a ""%instance"" instance","「モデル」は「%instance 」インスタンスである必要があります"
-"The wishlist item with ID ""%id"" does not belong to the wishlist","IDが「%id 」のウィッシュリスト項目は、ウィッシュリストに属していません"
-"System Messages",システムメッセージ
-By,作成者
-"Open in Media Gallery",メディアギャラリーで開く
-"Save Licensed",ライセンスを保存
-"Similar Keywords",類似キーワード
-"View all",すべて表示
-"More from this series",このシリーズの他のアイテム
-"More from this model",このモデルの詳細
-"System Messages",システムメッセージ
-"User agent exceptions override product and CMS pages rules.",ユーザーエージェントの例外は、製品とCMSページの規則を上書きします。
-"Search strings are either normal strings or regular expressions (PCRE). They are matched in the same order as entered.","検索文字列は、通常の文字列または通常の式(PCRE)です。 入力した順に一致します。"
-Examples,例
-"Selected Attributes\:","選択された属性\ :"
-"Show Active Users",アクティブなユーザーを表示
-"Show Inactive Users",非アクティブなユーザーを表示
-"Show All Users",すべてのユーザーを表示
-"Click here or drag and drop to add files.",ファイルを追加するには、ここをクリックするかドラッグ&ドロップします。
-"Select Other",その他を選択
-"We were unable to find nearby locations for provided search query.",提供された検索クエリの近くの場所が見つかりませんでした。
-"Please provide postcode or city name to find nearest pickup locations.",最も近いピックアップの場所を検索するには、郵便番号または市区町村の名前を入力してください。
-"Location Details",場所の詳細
-"Show More",さらに表示
-"Add New Tag",追加新規タグ
-" after which time you can’t order the items in the quote. After the expiration,
-    you’ll have to negotiate the price with the seller again."," その後、見積もりのアイテムを並べ替えることはできません。有効期限が切れた後
-    もう一度売り手と価格を交渉しなければならない"
-"Show All Quotes",すべての引用符を表示
-"Show My Quotes",見積もりを表示
-"The shipping address specified on the quote was deleted from your Address Book.",見積もりで指定された配送先住所はアドレス帳から削除されました。
-"To proceed with the checkout, go ","チェックアウトを続行するには、次に移動します： "
-"back to the quote",引用に戻る
-" and update the shipping address."," および発送先住所を更新します。"
-"The shipping address specified on the quote was deleted from your Address Book. ","見積もりで指定された配送先住所はアドレス帳から削除されました。 "
-"To proceed with the checkout, update the shipping address.",チェックアウトを続行するには、発送先住所を更新します。
-"Your shipping address is locked. To change your shipping address, go ","配送先住所がロックされています。配送先住所を変更するには、次に移動します： "
-"Edit Banner Text",バナーテキストを編集
-"Grid Size",グリッドサイズ
-"Grid size determines the maximum number of columns available.",グリッドサイズによって、使用可能な列の最大数が決まります。
-"Select a value between 2 and","2 ～の値を選択"
-"Empty Column",空の列
-"Drag Row, Columns, Tabs, Block, Dynamic Block or HTML Code here",行、列、タブ、ブロック、ダイナミックブロックまたはHTMLコードをここにドラッグ
-"Drag content types or columns here",コンテンツタイプまたは列をここにドラッグ
-"Edit Slide Text",スライドテキストを編集
-"Edit Text",テキストを編集
-"Insert Image...",画像を挿入…
-"Save as Template",テンプレートとして保存
-"View your content for ","コンテンツの表示対象 "
-"You will receive an email at each approval stage. You will be asked to enter your payment details after the purchase order has been approved.",承認ステージごとに電子メールが送信されます。発注書が承認された後、支払いの詳細を入力するよう求められます。
-"Go to the Add Payment page to complete the order.",「支払い」ページ追加に移動して、注文を完了します。
-"<a href=""%purchase_order_add_payment_url"">Add Payment</a>","<a href=""%purchase_order_add_payment_url "">追加支払い</a>"
-"Purchase Order #%increment_id has been Created and Approved - Pending Payment","発注書 #%increment_id が作成され、承認されました — 支払い待ち"
-"<a href=""%pending_details_url"">Add payment</a>","<a href=""%pending_details_url "">追加支払い</a>"
-"You will be asked to enter your payment details after your Purchase Order has been approved.",発注書が承認された後、支払いの詳細を入力するよう求められます。
-"Show All Purchase Orders",すべての発注書を表示
-"Show My Purchase Orders",自分の発注書を表示
-"Selected Update\:","選択された更新\ :"
-"Starting\:","開始中\ :"
-"Ending\:","終了中\ :"
-"This update includes",この更新には次が含まれます：
-"To Start",開始へ
-"To End",終了まで
-"2FA - Duo Security","2FA - Duoセキュリティ"
-"2FA - U2F key verification","2FA - U2Fキーの検証"
-"Plug in your U2F key and follow instructions",U2Fキーを接続し、指示に従ってください
-"Try again",再試行
-"Redirecting to Magento Admin Panel...",Magento管理パネルにリダイレクトしています…
-"2FA - U2F key device registration","2FA - U2Fキー・デバイスの登録"
-"Click here or drag and drop to add files.",ファイルを追加するには、ここをクリックするかドラッグ&ドロップします。
-"All in Column",すべて列内
-"Please make corrections to the errors in the table below and re-submit.",以下の表のエラーを修正し、再度送信してください。
-"Save Edits",編集内容を保存
-"To Start",開始へ
-"To End",終了まで
-Past,過去
-"Set as Inactive",非アクティブに設定
-"Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set as Inactive to temporarily lock the user. The user’s content is still available to parent users.",ユーザーアカウントとコンテンツを完全に削除するには、「削除」を選択します。ユーザーの注文と見積もりは、マーチャントに対して引き続き表示されます。「非アクティブに設定」を選択して、ユーザーを一時的にロックします。ユーザーのコンテンツは、親ユーザーが引き続き使用できます。
-"Please enter a whole number.",整数を入力してください。
-"
-                        <p>Help us improve Magento Admin by allowing us to collect usage data.</p>
-                        <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin and related products and services.</p>
-                        <p>You can learn more and opt out at any time by following the instructions in <a href=""https://docs.magento.com/user-guide/stores/admin.html"" target=""_blank"" tabindex=""0"">merchant documentation</a>.</p>
-","
-                        <p>使用状況データの収集を許可して、Magento管理の改善にご協力ください。</p>
-                        <p>この目的のために収集されるすべての使用状況データは、お客様を個別に特定するために使用することはできません。また、Magento管理者および関連製品およびサービスの改善にのみ使用されます。</p>
-                        <p>詳しい情報は、<a href=""https://docs.magento.com/user-guide/stores/admin.html""ターゲット=""_blank "" tabindex=""0"">マーチャントのドキュメント</a>の指示に従っていつでも参照できます。</p>
-"
-"AWS S3","AWS S3"
-"Catalog media URL format",カタログメディアURLのフォーマット
-"Images should be optimized based on query parameters by your CDN or web server. Use the legacy mode for backward compatibility. <a href=""https://docs.magento.com/user-guide/configuration/general/web.html#url-options"">Learn more</a> about catalog URL formats.<br/><br/><strong style=""color:red"">Warning!</strong> If you switch back to legacy mode, you must <a href=""https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-images.html#resize-catalog-images"">use the CLI to regenerate images</a>.","画像は、CDNまたはWebサーバーのクエリパラメーターに基づいて最適化する必要があります。下位互換性を確保するには、レガシーモードを使用します。カタログURLの形式の<a href=""https://docs.magento.com/user-guide/configuration/general/web.html#url-options"">詳細情報</a>。<br/><br/><strong style=""color:red"">警告！</strong>レガシーモードに戻す場合は、<a href=""https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-images.html#resize-catalog-images"">CLIを使用して画像を再生成する必要があります。</a>"
-"The order was not successful!",オーダーが成功しませんでした。
-ALLOCATION,配分
-UPDATE,更新
-PURCHASE,購入
-REIMBURSEMENT,償還
-REFUND,返金
-REVERT,差し戻し
-ADMIN,管理者
-CUSTOMER,顧客
-ACTIVE,アクティブ
-INACTIVE,非アクティブ
-"– Please Select assets –"," — アセットを選択してください —"
-"Media Gallery Image Optimization",メディアギャラリー画像の最適化
-"Enable Image Optimization",画像の最適化を有効にする
-"Insert assets into the content",コンテンツにアセットを挿入
-"Upload assets",アセットをアップロード
-"Edit asset details",アセットの詳細を編集
-"Create folder",フォルダーを作成
-"Delete folder",フォルダーを削除
-"– Please Select assets –"," — アセットを選択してください —"
-"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes — Page Builder can be selected as the “input type” to design layouts and create content.","ページレイアウトの設計、Magentoコンテンツ(カテゴリデータ、CMSコンテンツおよびブロック)の追加、テキストの書式設定を行う高度なツールが含まれています。<br /><br />製品属性の場合：Page Builderは「入力タイプ」として選択してレイアウトを作成できます。"
-"
-                        
-                        <p>Style changes will only affect this breakpoint</p>
-                        
-                    ","
-                        
-                        <p>スタイルの変更はこのブレークポイントにのみ影響します</p>
-                        
-                    "
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing""ターゲット=""_blank "">資金調達を広告する理由</a><br/>
-                        <strong>資金調達を宣伝する際に、売り上げを押し上げます。</strong><br/>PayPalは、ブラウザーを資金調達で購入者に変えるのに役立ちます。
-                        PayPal Credit&#174；から。お客様は、お客様に対して支払いを行う時間が長く、お客様に対しては前払いを行う一方で、追加のコストはかかりません。
-                        PayPal Credit&#174をアドバタイズするPayPalの無料バナー広告を使用顧客がPayPalにチェックアウトする際の支払いオプションとしての融資。
-                        PayPal広告プログラムでは、追加購入を生み出すほか、消費者の平均購入規模を15%引き上げることが示されました。
-                        など。<a href=""https://financing.paypal.com/ppfinportal/content/forrester""ターゲット=""_blank "">詳細を表示</a>。"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing""ターゲット=""_blank "">資金調達を広告する理由</a><br/>
-                                            <strong>資金調達を宣伝する際に、売り上げを押し上げます。</strong><br/>PayPalは、ブラウザーを資金調達で購入者に変えるのに役立ちます。
-                                            PayPal Credit&#174；から。お客様は、お客様に対して支払いを行う時間が長く、お客様に対しては前払いを行う一方で、追加のコストはかかりません。
-                                            PayPal Credit&#174をアドバタイズするPayPalの無料バナー広告を使用顧客がPayPalにチェックアウトする際の支払いオプションとしての融資。
-                                            PayPal広告プログラムでは、追加購入を生み出すほか、消費者の平均購入規模を15%引き上げることが示されました。
-                                            など。<a href=""https://financing.paypal.com/ppfinportal/content/forrester""ターゲット=""_blank "">詳細を表示</a>。"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing""ターゲット=""_blank "">資金調達を広告する理由</a><br/>
-                            <strong>資金調達を宣伝する際に、売り上げを押し上げます。</strong><br/>PayPalは、ブラウザーを資金調達で購入者に変えるのに役立ちます。
-                            PayPal Credit&#174；から。お客様は、お客様に対して支払いを行う時間が長く、お客様に対しては前払いを行う一方で、追加のコストはかかりません。
-                            PayPal Credit&#174をアドバタイズするPayPalの無料バナー広告を使用顧客がPayPalにチェックアウトする際の支払いオプションとしての融資。
-                            PayPal広告プログラムでは、追加購入を生み出すほか、消費者の平均購入規模を15%引き上げることが示されました。
-                            など。<a href=""https://financing.paypal.com/ppfinportal/content/forrester""ターゲット=""_blank "">詳細を表示</a>。"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing""ターゲット=""_blank "">資金調達を広告する理由</a><br/>
-                                <strong>資金調達を宣伝する際に、売り上げを押し上げます。</strong><br/>PayPalは、ブラウザーを資金調達で購入者に変えるのに役立ちます。
-                                PayPal Credit&#174；から。お客様は、お客様に対して支払いを行う時間が長く、お客様に対しては前払いを行う一方で、追加のコストはかかりません。
-                                PayPal Credit&#174をアドバタイズするPayPalの無料バナー広告を使用顧客がPayPalにチェックアウトする際の支払いオプションとしての融資。
-                                PayPal広告プログラムでは、追加購入を生み出すほか、消費者の平均購入規模を15%引き上げることが示されました。
-                                など。<a href=""https://financing.paypal.com/ppfinportal/content/forrester""ターゲット=""_blank "">詳細を表示</a>。"
-"Created and requires payment details after Approval (to Buyer)",承認後に支払詳細が作成され、必要です（購入者）
-"Created and automatically approved, requires payment details (to Buyer)",作成および自動承認。支払詳細が必要（購入者）
-"Approved, requires payment details (to Buyer)",承認済、支払詳細が必要（購入者）
-"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","この機能の不正使用を防ぐため、<a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html""ターゲット=""_blank "">CAPTCHAソリューション</a>を有効にし、[友だちに電子メール]を有効にすることを強くお勧めします。"
 "
                                     Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
                                 ","
@@ -15159,6 +14818,339 @@ ZIP,郵便番号
 "Zip/Postal Code is Optional for",郵便番号が任意の国
 "ZIP/Postal Code:",郵便番号:
 "zlib gzcompress() && zlib gzuncompress() must be enabled in php configuration","zlib gzcompress() && zlib gzuncompress()はphp設定で有効にする必要があります。"
+"Cannot gather meta info! %1",メタ情報を収集できません。%1
+"The ""%1"" CSV handle is incorrect. Verify the handle and try again.",「%1」のCSVハンドルが正しくありません。ハンドルを確認し、もう一度試してください。
+"An error occurred during ""%1"" execution.",「%1」の実行中にエラーが発生しました。
+"An error occurred during ""%1"" fileSeek execution.","「%1」 fileSeekの実行中にエラーが発生しました。"
+"An error occurred during ""%1"" fileFlush execution.","「%1」 fileFlushの実行中にエラーが発生しました。"
+"An error occurred during ""%1"" fileLock execution.","「%1」 fileLockの実行中にエラーが発生しました。"
+"An error occurred during ""%1"" fileUnlock execution.","「%1」 fileUnlockの実行中にエラーが発生しました。"
+"Bucket and region are required values",グループと地域は必須の値です
+"Content includes restricted HTML elements. %1",コンテンツには制限されたHTML要素が含まれます。%1
+"Invalid content",無効なコンテンツ
+"""itemModel"" should be a ""%instance"" instance",「itemModel」は「%instance」インスタンスである必要があります
+"No such option with ID %1","ID %1を持つオプションは存在しません"
+"`%1` and `%2` can't be used at the same time.",「%1」と「%2」を同時に使用することはできません。
+"Product search has been disabled.",製品検索は無効になっています。
+"Filename is too long; must be %1 characters or less",ファイル名が長すぎます。は%1文字以下にする必要があります
+"Code (%1) is a reserved key and cannot be used as attribute code.",コード(%1)は予約済みのキーなので、属性コードとして使用できません。
+"The specified Catalog media URL format is not supported.","指定したカタログメディア URL の形式はサポートされていません。"
+"Using restricted HTML elements for ""%1"". %2","「%1」に対して制限された HTML 要素を使用しています。%2"
+"This customer is not authorized to access this list",この顧客は、このリストにアクセスする権限がありません
+"Image optimization based on query parameters",クエリパラメーターに基づく画像の最適化
+"Unique hash per image variant (Legacy mode)",画像のバリアントごとの一意のハッシュ（レガシーモード）
+"HTML is invalid","HTML が無効です"
+"Could not store billing/shipping information at the moment but you can proceed with the checkout",現在請求/配送情報を保存できませんが、チェックアウトを続行できます
+"The CMS block with identifier ""%identifier"" is not enabled.","識別子「%identifier 」のCMSブロックが有効になっていません。"
+"Content field contains restricted HTML elements. %1","コンテンツフィールドに制限された HTML 要素が含まれています。%1"
+"Content HTML contains restricted elements. %1","コンテンツ HTML に制限された要素が含まれています。%1"
+"Temporarily allowed to save HTML value that contains restricted elements. %1","制限された要素を含む HTML 値の保存を一時的に許可します。%1"
+"Invalid HTML provided","無効な HTML が指定されました"
+"Invalid html","無効な HTML"
+"""Payment on Account"" is disabled.","「Payment on Account」は無効になっています。"
+"The company can not be saved.",会社を保存できません。
+"Value ""%1"" is incorrect.",値「%1」は正しくありません。
+"Invalid value of ""%1"" provided for the %2 field.",%2フィールドに指定した「%1」の値が無効です。
+"Company feature is not available.",会社機能を使用できません。
+"Customer is not a company user.",顧客は会社ユーザーではありません。
+"You do not have authorization to perform this action.",このアクションを実行するための権限がありません。
+"Required parameters are missing: %1.",必須のパラメーターがありません：%1。
+"Field name cannot be longer than ' . . ' characters","フィールド名は「. .」文字以下にする必要があります。"
+"Invalid role permission resources: %1.",無効な役割権限リソース：%1。
+"Invalid value of ""%1"" provided for the name field.",名前フィールドに指定した「%1」の値が無効です。
+"You do not have permission to create a team from the specified target ID.","指定したターゲット ID からチームを作成する権限がありません。"
+"You are not authorized to update the team.",チームを更新する権限がありません。
+"Company team name must not be more than %1 characters.",会社チーム名は%1文字以下にする必要があります。
+"No company assigned to this user found.",このユーザーに割り当てられている会社が見つかりません。
+"Meant to be initiated by a company customer",会社のお客様が開始する
+"Field ""id"" is not specified",フィールド「id」が指定されていません
+"Company with this email address already exists in the system.Enter a different email address to continue.",このメールアドレスを持つ会社は既にシステムに存在します。別のメールアドレスを入力して続行してください。
+"Required parameter ""id"" is missing",必須のパラメーター「id」がありません
+"Role with id ""%role_id"" does not exist.","ID「%role_id 」の役割は存在しません。"
+"root_id value must be greater or equal to 0.","root_id の値は、0以上である必要があります。"
+"depth value must be greater or equal to 0.",深さの値は0以上である必要があります。
+"Required parameter ""name"" is missing",必須のパラメーター「name」がありません
+"Company role name must not be more than %1 characters.",会社ロール名は%1文字以下にする必要があります。
+"Company is not enabled or registration not allowed.",会社が有効でないか、登録できません。
+"The company can not be created.",会社を作成できません。
+"Team could not be created",チームを作成できませんでした
+"You are not authorized to delete the team.",チームを削除する権限がありません。
+"Can not delete team with id ""%1""","ID が「%1」のチームを削除できません"
+"Company is not enabled.",会社が有効になっていません。
+"""input"" value should be specified.",「input」値を指定する必要があります。
+"Failed to update company structure.",会社構造を更新できませんでした。
+"Company could not be updated",会社を更新できませんでした
+"Company features are not enabled for a storefront.",ストアフロントでは、会社機能が有効になっていません。
+"%1 access denied.",%1へのアクセスが拒否されました。
+"%1's account has been set to Inactive.",%1のアカウントは非アクティブに設定されています。
+"""uid"" value must be specified.",「uid」の値を指定する必要があります。
+"""products"" value must be specified.",「products」の値を指定する必要があります。
+"""uid"" value does not exist",「uid」値が存在しません
+"""uid"" value must be specified",「uid」値を指定する必要があります
+"Customer must be logged",お客様のログが必要
+"Something was wrong during assigning customer.",顧客の割り当て中に問題が発生しました。
+"Something was wrong during creating compare list",比較リストを作成中に問題が発生しました
+"Something was wrong during removing compare list",比較リストを削除中に問題が発生しました
+"Something was wrong during removing products from compare list",比較リストから製品を削除中にエラーが発生しました
+"The product with SKU %sku is out of stock.","SKU %sku の製品は在庫切れです。"
+"""itemModel"" should be a ""%instance"" instance",「itemModel」は「%instance」インスタンスである必要があります
+Today,今日
+"Address not found.",アドレスが見つかりません。
+"Provided customer ID ""%customer_id"" isn't related to current customer address.","指定された顧客ID「%customer_id 」は現在の顧客住所に関連付けられていません。"
+"File with an extension php is protected and cannot be uploaded",拡張子phpを持つファイルは保護されているため、アップロードできません
+"Customer does not exist",顧客が存在しません
+"""itemModel"" should be a ""%instance"" instance",「itemModel」は「%instance」インスタンスである必要があります
+"""itemModel"" should be a ""%instance"" instance",「itemModel」は「%instance」インスタンスである必要があります
+"Please add required gift card fields",必須のギフトカードフィールドを追加してください
+". ', e.g. <i>product_images</i>, <i>import_images/batch1</i>.<br><br>For example, in case <i>product_images</i>, files should be placed into <i>&lt;Magento root directory&gt;/' . . '/product_images</i> folder.<br><br>If remote storage is enabled, in case <i>product_images</i>, files should be placed into <i>&lt;Remote Storage&gt;/' . . '/product_images</i> folder.' 'i' 'br'",".'、例：<i>product_images</i> , <i>import_images/batch1</i> .<br><br>例えば、<i>product_images</i> の場合、ファイルは<i>&lt;Magentoのルートディレクトリ&gt;/'に置く必要があります。. '/product_images</i>  folder.<br><br>リモートストレージが有効な場合、<i>product_images</i> の場合は、ファイルを<i>&lt;Remoteストレージ&gt;/'に配置する必要があります。. '/product_images</i> フォルダー。' 'i' 'br'"
+"Content of uploaded file was changed, please re-upload the file",アップロードされたファイルのコンテンツが変更されました。ファイルを再度アップロードしてください
+"Something went wrong while updating the product(s) stock status.",製品の在庫状態を更新中にエラーが発生しました。
+"SelectBuilder must implement SelectBuilderInterface.",SelectBuilderはSelectBuilderInterfaceを実装する必要があります。
+"Customer with this ID no longer exists.","この ID を持つ顧客は既に存在しません。"
+"Customer email provided does not exist",指定された顧客のメールが存在しません
+"Unable to generate tokens. Please wait and try again later.",トークンを生成できません。お待ちいただき、後ほど再試行してください。
+"Check input params.",入力パラメーターを確認してください。
+"Specify the ""customer email"" value.",「顧客のメール」値を指定します。
+"Allow remote shopping assistance is disabled.",リモートショッピングアシスタンスを許可しますが無効です。
+"Fail to get authentication data.",認証データを取得できませんでした。
+"The config value for %path is not saved to database.","%path の構成値はデータベースに保存されません。"
+"Cannot create rendition for media asset paths: %paths",メディアアセットパスのレンディションを作成できません：%paths
+"Media asset file %path does not exist!","メディアアセットファイル %path は存在しません。"
+"Could not create rendition for image, path is restricted: %path",画像のレンディションを作成できませんでした。パスが制限されています：%path
+"Could not create rendition for image, unsupported file type: %path.",画像のレンディションを作成できませんでした。サポートされていないファイルタイプ：%path。
+"Cannot create directory for rendition %path","レンディション %path のディレクトリを作成できません"
+"Incorrect rendition path provided for update: %path",更新用に指定されたレンディションパスが正しくありません：%path
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\).""","パス「%value%」に親ディレクトリトラバーサル(「../」、「..\」)を含めることはできません。"
+"The multiple wishlist configuration is currently disabled.",複数のほしい物リスト設定は現在無効になっています。
+"The destination wishlist was not found.",宛先のほしい物リストが見つかりませんでした。
+"The source wishlist was not found.",ソースほしい物リストが見つかりませんでした。
+"We can't update the wish list right now.",現在ウィッシュリストを更新できません。
+"The quantity %quantity is invalid.","数量 %quantity は無効です。"
+"The maximum quantity that can be copied for ""%sku"" is %quantity.","「%sku 」に対してコピーできる最大数量は %quantity です。"
+"The ""%product"" is already present in ""%wishlist""","「%product 」は「%wishlist 」に既に存在します"
+"The maximum quantity that can be moved for ""%sku"" is %quantity.","「%sku 」に対して移動できる最大数量は %quantity です。"
+"""%product"" is already present in %wishlist.","「%product 」は %wishlist に既に存在します。"
+"We cannot move %product.","%product を移動できません。"
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","""New Relic 統合には newrelic-php5 エージェントが必要ですが、インストールされていません。詳細
+                        エージェントのインストールに関する情報は、<a target=""""_blank"""" href=""""%1"""">こちらにあります</a>."""
+"Invalid IFRAME source provided",無効なIFRAMEソースが指定されました
+"A successful payment transaction has already been completed. Please, check if the order has been placed.",正常な支払いトランザクションが既に完了しています。ご注文が済んでいるか確認してください。
+"Approved - Pending Payment","承認済み — 支払い待ち"
+"Payment method code cannot be empty",支払い方法のコードを入力してください
+"You will be asked to enter your payment details after your purchase order has been approved.",発注書が承認された後、支払いの詳細を入力するよう求められます。
+"To proceed with this order, go to %1 page.",この注文を続行するには、%1ページに移動します。
+"This order could not be completed as some items are currently unavailable.",現在使用できない項目があるので、この注文を完了できませんでした。
+"This purchase order has been approved but the payment details must be updated.",この発注は承認されましたが、支払いの詳細を更新する必要があります。
+"Cannot update item list.",項目のリストを更新できません。
+"Entered list is empty.",入力したリストは空です。
+"You entered item(s) with an empty SKU.",空のSKUを使用して項目を入力しました。
+"Can't assign cart to store in different website.","カートを別の Web サイトに保存するように割り当てることはできません。"
+"`%1` and `%2` can't be used at the same time.",「%1」と「%2」を同時に使用することはできません。
+"Could not create empty cart for customer",顧客用の空のカートを作成できませんでした
+"The parameter ""destination_cart_id"" cannot be empty","パラメーター「destination_cart_id 」は空にできません"
+"Remote Storage",リモートストレージ
+"Predis client is not installed",Predisクライアントがインストールされていません
+"Cache adapter %1 is not supported",キャッシュアダプタ%1はサポートされていません
+"Driver ""%1"" does not exist",ドライバ「%1」は存在しません
+"Remote driver is not available.",リモートドライバが利用できません。
+"No such item(s) with ID(s) ""%1""","ID 「%1」を持つ項目は存在しません"
+"Unable to create the target Requisition list",ターゲット要求リストを作成できません
+"Unable to create requisition list",要求リストを作成できません
+"The current user cannot perform operations on requisition list",現在のユーザーは、要求リストに対する操作を実行できません
+"Unable to add Requisition list items to cart",カートに購入リスト項目を追加できません
+"The SKU was not found.",SKUが見つかりませんでした。
+"%1 doesn't implement CustomizableOptionInterface","%1は CustomizableOptionInterface を実装しません"
+"Quantity should be greater than 0",数量は0より大きい値にする必要があります
+"Unable to update Requisition list",要求リストを更新できません
+"Requisition List feature is not available.",購買依頼リスト機能が使用できません。
+"Required parameter ""cartUid"" is missing",必須パラメーター「cartUid」がありません
+"Specify the ""name"" value.",「name」値を指定します。
+"Specify the ""requisitionListUid"" value.",「requisitionListUid」値を指定します。
+"Required parameter ""requisitionListItems"" is missing",必須パラメーター「requisitionListItems」がありません
+"Required parameter ""requisitionListUid"" is missing",必須パラメーター「requisitionListUid」がありません
+"""requisitionListUid"" value should be specified",「requisitionListUid」の値を指定する必要があります
+"""requisitionListItemUids"" value should be specified",「requisitionListItemUids」の値を指定する必要があります
+"Specify the ""sourceRequisitionListUid"" value.",「sourceRequisitionListUid」値を指定します。
+"Specify the ""requisitionListItem"" value.",「requisitionListItem」値を指定します。
+"Specify the ""requisitionListItemUids"" value.",「requisitionListItemUids」値を指定します。
+"Missing key ""product"" in requisition data",要求データに主要「製品」がありません
+"""uid"" value should be specified",「uid」値を指定する必要があります
+"Address for returns is not configured in admin.",返送先のアドレスが管理で設定されていません。
+"Please enter return_shipping_tracking_uid.","return_shipping_tracking_uid と入力してください。"
+"RMA is disabled.",RMAが無効です。
+"You cannot return",戻ることはできません
+"You cannot return less than 1 product.",1つ未満の製品は返送できません。
+"The coupon code has been removed.",クーポンコードは削除されました。
+"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.","タイプ「ローカルサーバー」では、Magentoのインストールに対する相対パス（var/export、var/import、var/export/some/dirなど）を使用します。リモートストレージが構成されている場合は、import_export/export 、import_export/import 、import_export/export /some/dirなどのパスを使用します。"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","例：「/media/sitemap/」 （パスは書き込み可能である必要があります）"
+"Requested store is not found (%1)",要求されたストアが見つかりません(%1)
+"Theme not found: ""%1"".","テーマが見つかりません：""%1""。"
+"Status Updated On:",ステータス更新日：
+"Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?",警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>よろしいですか？
+"Warning!<br>This action will remove those users from already assigned roles.<br>Are you sure?",警告！<br>この操作を実行すると、既に割り当てられているロールからこれらのユーザーが削除されます。<br>よろしいですか？
+"Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?",警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>よろしいですか？
+"""model"" should be a ""%instance"" instance","「モデル」は「%instance 」インスタンスである必要があります"
+"The wishlist item with ID ""%id"" does not belong to the wishlist","IDが「%id 」のほしい物項目は、ほしい物リストに属していません"
+"System Messages",システムメッセージ
+By,作成者
+"Open in Media Gallery",メディアギャラリーで開く
+"Save Licensed",ライセンスを保存
+"Similar Keywords",類似キーワード
+"View all",すべて表示
+"More from this series",このシリーズの他のアイテム
+"More from this model",このモデルの詳細
+"System Messages",システムメッセージ
+"User agent exceptions override product and CMS pages rules.",ユーザーエージェントの例外は、製品とCMSページの規則を上書きします。
+"Search strings are either normal strings or regular expressions (PCRE). They are matched in the same order as entered.","検索文字列は、通常の文字列または通常の式(PCRE)です。 入力した順に一致します。"
+Examples,例
+"Selected Attributes\:","選択された属性\ :"
+"Show Active Users",アクティブなユーザーを表示
+"Show Inactive Users",非アクティブなユーザーを表示
+"Show All Users",すべてのユーザーを表示
+"Click here or drag and drop to add files.",ファイルを追加するには、ここをクリックするかドラッグ&ドロップします。
+"Select Other",その他を選択
+"We were unable to find nearby locations for provided search query.",提供された検索クエリの近くの場所が見つかりませんでした。
+"Please provide postcode or city name to find nearest pickup locations.",最も近いピックアップの場所を検索するには、郵便番号または市区町村の名前を入力してください。
+"Location Details",場所の詳細
+"Show More",さらに表示
+"Add New Tag",新規タグを追加
+" after which time you can’t order the items in the quote. After the expiration,
+    you’ll have to negotiate the price with the seller again."," その期間を過ぎると、見積書のアイテムを注文することができません。期限が切れた後は
+    もう一度出品者と価格交渉をする必要があります。"
+"Show All Quotes",すべての見積もりを表示
+"Show My Quotes",自分の見積もりを表示
+"The shipping address specified on the quote was deleted from your Address Book.",見積もりで指定された配送先住所はアドレス帳から削除されました。
+"To proceed with the checkout, go ","チェックアウトを続行するには、次に移動します： "
+"back to the quote",見積もりに戻る
+" and update the shipping address."," および発送先住所を更新します。"
+"The shipping address specified on the quote was deleted from your Address Book. ","見積もりで指定された配送先住所はアドレス帳から削除されました。 "
+"To proceed with the checkout, update the shipping address.",チェックアウトを続行するには、発送先住所を更新します。
+"Your shipping address is locked. To change your shipping address, go ","配送先住所がロックされています。配送先住所を変更するには、次に移動します： "
+"Edit Banner Text",バナーテキストを編集
+"Grid Size",グリッドサイズ
+"Grid size determines the maximum number of columns available.",グリッドサイズによって、使用可能な列の最大数が決まります。
+"Select a value between 2 and","右の範囲内で値を選択 : 2 ～"
+"Empty Column",空の列
+"Drag Row, Columns, Tabs, Block, Dynamic Block or HTML Code here",行、列、タブ、ブロック、ダイナミックブロックまたはHTMLコードをここにドラッグ
+"Drag content types or columns here",コンテンツタイプまたは列をここにドラッグ
+"Edit Slide Text",スライドテキストを編集
+"Edit Text",テキストを編集
+"Insert Image...",画像を挿入…
+"Save as Template",テンプレートとして保存
+"View your content for ","コンテンツの表示対象 "
+"You will receive an email at each approval stage. You will be asked to enter your payment details after the purchase order has been approved.",承認ステージごとに電子メールが送信されます。発注書が承認された後、支払いの詳細を入力するよう求められます。
+"Go to the Add Payment page to complete the order.",「支払い」ページ追加に移動して、注文を完了します。
+"<a href=""%purchase_order_add_payment_url"">Add Payment</a>","<a href=""%purchase_order_add_payment_url "">追加支払い</a>"
+"Purchase Order #%increment_id has been Created and Approved - Pending Payment","発注書 #%increment_id が作成され、承認されました — 支払い待ち"
+"<a href=""%pending_details_url"">Add payment</a>","<a href=""%pending_details_url "">追加支払い</a>"
+"You will be asked to enter your payment details after your Purchase Order has been approved.",発注書が承認された後、支払いの詳細を入力するよう求められます。
+"Show All Purchase Orders",すべての発注書を表示
+"Show My Purchase Orders",自分の発注書を表示
+"Selected Update\:","選択された更新 \ :"
+"Starting\:","開始 \ :"
+"Ending\:","終了 \ :"
+"This update includes",この更新には次が含まれます：
+"To Start",開始へ
+"To End",終了へ
+"2FA - Duo Security","2FA - Duo セキュリティ"
+"2FA - U2F key verification","2FA - U2F キーの検証"
+"Plug in your U2F key and follow instructions","U2F キーを接続し、指示に従ってください"
+"Try again",再試行
+"Redirecting to Magento Admin Panel...",Magento管理パネルにリダイレクトしています…
+"2FA - U2F key device registration","2FA - U2F キーデバイスの登録"
+"Click here or drag and drop to add files.",ファイルを追加するには、ここをクリックするかドラッグ&ドロップします。
+"All in Column",すべて列内
+"Please make corrections to the errors in the table below and re-submit.",以下の表のエラーを修正し、再度送信してください。
+"Save Edits",編集内容を保存
+"To Start",開始へ
+"To End",終了へ
+Past,過去
+"Set as Inactive",非アクティブに設定
+"Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set as Inactive to temporarily lock the user. The user’s content is still available to parent users.",ユーザーアカウントとコンテンツを完全に削除するには、「削除」を選択します。ユーザーの注文と見積もりは、マーチャントに対して引き続き表示されます。「非アクティブに設定」を選択して、ユーザーを一時的にロックします。ユーザーのコンテンツは、親ユーザーが引き続き使用できます。
+"Please enter a whole number.",整数を入力してください。
+"
+                        <p>Help us improve Magento Admin by allowing us to collect usage data.</p>
+                        <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin and related products and services.</p>
+                        <p>You can learn more and opt out at any time by following the instructions in <a href=""https://docs.magento.com/user-guide/stores/admin.html"" target=""_blank"" tabindex=""0"">merchant documentation</a>.</p>
+","
+                        <p>使用状況データの収集を許可して、Magento管理の改善にご協力ください。</p>
+                        <p>この目的のために収集されるすべての使用状況データは、お客様を個別に特定するために使用することはできません。また、Magento管理者および関連製品およびサービスの改善にのみ使用されます。</p>
+                        <p>詳しい情報は、 <a href=""https://docs.magento.com/user-guide/stores/admin.html"" target=""_blank"" tabindex=""0"">マーチャントのドキュメントの指示に従っていつでも参照できます。</a>.</p>
+"
+"AWS S3","AWS S3"
+"Catalog media URL format","カタログメディア URL のフォーマット"
+"Images should be optimized based on query parameters by your CDN or web server. Use the legacy mode for backward compatibility. <a href=""https://docs.magento.com/user-guide/configuration/general/web.html#url-options"">Learn more</a> about catalog URL formats.<br/><br/><strong style=""color:red"">Warning!</strong> If you switch back to legacy mode, you must <a href=""https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-images.html#resize-catalog-images"">use the CLI to regenerate images</a>.","画像は、CDN または Web サーバーのクエリパラメーターに基づいて最適化する必要があります。下位互換性を確保するには、レガシーモードを使用します。カタログ URL の形式の <a href=""https://docs.magento.com/user-guide/configuration/general/web.html#url-options"">詳細情報</a>。<br/><br/><strong style=""color:red"">警告！</strong>レガシーモードに戻す場合は、<a href=""https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-images.html#resize-catalog-images"">CLI を使用して画像を再生成する必要があります。</a>"
+"The order was not successful!",オーダーが成功しませんでした。
+ALLOCATION,配分
+UPDATE,更新
+PURCHASE,購入
+REIMBURSEMENT,償還
+REFUND,返金
+REVERT,差し戻し
+ADMIN,管理者
+CUSTOMER,顧客
+ACTIVE,アクティブ
+INACTIVE,非アクティブ
+"– Please Select assets –"," — アセットを選択してください —"
+"Media Gallery Image Optimization",メディアギャラリー画像の最適化
+"Enable Image Optimization",画像の最適化を有効にする
+"Insert assets into the content",コンテンツにアセットを挿入
+"Upload assets",アセットをアップロード
+"Edit asset details",アセットの詳細を編集
+"Create folder",フォルダーを作成
+"Delete folder",フォルダーを削除
+"– Please Select assets –"," — アセットを選択してください —"
+"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes — Page Builder can be selected as the “input type” to design layouts and create content.","ページレイアウトの設計、Magentoコンテンツ(カテゴリデータ、CMSコンテンツおよびブロック)の追加、テキストの書式設定を行う高度なツールが含まれています。<br /><br />製品属性の場合：Page Builderは「入力タイプ」として選択してレイアウトを作成できます。"
+"
+                        
+                        <p>Style changes will only affect this breakpoint</p>
+                        
+                    ","
+                        
+                        <p>スタイルの変更はこのブレークポイントにのみ影響します</p>
+                        
+                    "
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">融資広告の理由</a><br/>
+                        <strong>融資の広告を出すことで、売上を伸ばすことができます。</strong><br/>PayPalは、PayPal Credit&#174により、ブラウザーを資金調達で購入者に変えるのに役立ちます。あなたのお客様は支払いするまでの時間が長く取れ、その一方でお客様に対して前払いを行い、追加の費用はかかりません。
+                        PayPalの無料バナー広告を利用して、PayPalクレジット&#174の広告を出す事ができ、あなたのお客様がPayPalでチェックアウトする際に、支払い方法として融資を受けることができます。
+                        PayPal 広告プログラムは、追加購入を生み出し、消費者の平均購入規模を15% 以上引き上げた事があります。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を表示</a>."
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">融資広告の理由</a><br/>
+                                            <strong>融資の広告を出すことで、売上を伸ばすことができます。</strong><br/>PayPalは、PayPal Credit&#174により、ブラウザーを資金調達で購入者に変えるのに役立ちます。あなたのお客様は支払いするまでの時間が長く取れ、その一方でお客様に対して前払いを行い、追加の費用はかかりません。
+                        PayPalの無料バナー広告を利用して、PayPalクレジット&#174の広告を出す事ができ、あなたのお客様がPayPalでチェックアウトする際に、支払い方法として融資を受けることができます。
+                        PayPal 広告プログラムは、追加購入を生み出し、消費者の平均購入規模を15% 以上引き上げた事があります。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を表示</a>."
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">融資広告の理由</a><br/>
+                            <strong>融資の広告を出すことで、売上を伸ばすことができます。</strong><br/>PayPalは、PayPal Credit&#174により、ブラウザーを資金調達で購入者に変えるのに役立ちます。あなたのお客様は支払いするまでの時間が長く取れ、その一方でお客様に対して前払いを行い、追加の費用はかかりません。
+                        PayPalの無料バナー広告を利用して、PayPalクレジット&#174の広告を出す事ができ、あなたのお客様がPayPalでチェックアウトする際に、支払い方法として融資を受けることができます。
+                        PayPal 広告プログラムは、追加購入を生み出し、消費者の平均購入規模を15% 以上引き上げた事があります。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を表示</a>."
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">融資広告の理由</a><br/>
+                            <strong>融資の広告を出すことで、売上を伸ばすことができます。</strong><br/>PayPalは、PayPal Credit&#174により、ブラウザーを資金調達で購入者に変えるのに役立ちます。あなたのお客様は支払いするまでの時間が長く取れ、その一方でお客様に対して前払いを行い、追加の費用はかかりません。
+                        PayPalの無料バナー広告を利用して、PayPalクレジット&#174の広告を出す事ができ、あなたのお客様がPayPalでチェックアウトする際に、支払い方法として融資を受けることができます。
+                        PayPal 広告プログラムは、追加購入を生み出し、消費者の平均購入規模を15% 以上引き上げた事があります。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を表示</a>."
+"Created and requires payment details after Approval (to Buyer)",作成済み、承認後に支払詳細が必要（購入者）
+"Created and automatically approved, requires payment details (to Buyer)",作成および自動承認済。支払詳細が必要（購入者）
+"Approved, requires payment details (to Buyer)",承認済、支払詳細が必要（購入者）
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","この機能の不正使用を防ぐため、<a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA ソリューション</a>を有効にし、「友だちにメール」を有効にすることを強くお勧めします。"
 "System Messages",システムメッセージ
 "Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","パス""%value% ""に親ディレクトリトラバーサル(""../""、""..\")を含めることはできません。"
 " after which time you can’t order the items in the quote. After the expiration,
