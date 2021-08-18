@@ -15196,3 +15196,176 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
 <br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
 PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
 PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
+"Adobe Api Key is required!","Adobe APIキーが必要です。"
+"Please enable your Store View before using this Web Site as Default","この Web サイトをデフォルトとして使用する前に、お使いのストア表示を有効にしてください"
+"Incorrect value of input.type","input.type の不正な値"
+"Product relations processor must implement %1.","製品関係プロセッサは %1 を実装する必要があります。"
+"configurableOptionValueUids values are incorrect","configurableOptionValueUids の値が正しくありません"
+"Excluded Website(s)",除外するWebサイト
+"Select websites you want to exclude from this customer group.","この顧客グループから除外する Web サイトを選択します。"
+"Could not delete customer group website with ID: %1","次の ID の顧客グループ Web サイトを削除できませんでした：%1"
+"Could not save customer group website to exclude with ID: %1","次の ID で除外する顧客グループ Web サイトを保存できませんでした：%1"
+"Could not save customer group website to exclude from customer group: ""%1""","次の顧客グループの Web サイトを保存して顧客グループから除外できませんでした：""%1"""
+"Could not retrieve excluded customer group websites by customer group: ""%1""","次の顧客グループ別に除外した顧客グループ Web サイトを取得できませんでした：""%1"""
+"Could not retrieve all excluded customer group websites.","除外したすべての顧客グループの Web サイトを取得できませんでした。"
+"Could not delete customer group with its excluded websites.","除外した Web サイトの顧客グループを削除できませんでした。"
+"Could not delete customer group excluded website by id.","除外した顧客グループの Webサイトを IDで削除できませんでした。"
+"This website is excluded from customer's group.","この Web サイトはお客様のグループから除外されます。"
+"Mapper %1 should implement %2","マッパー %1 は %2 を実装する必要があります"
+"Unable to send mail. Please try again later.",メールを送信できません。後で再試行してください。
+"value should be specified",値を指定する必要があります
+"The %1 ID is incorrect. Verify the ID and try again.","%1 IDが正しくありません。IDを確認して、もう一度実行してください。"
+"You can't add more than %1 recipients for this event.","このイベントには %1 件を超える受信者を追加できません。"
+"The %1 is not currently available.","%1 は現在使用できません。"
+"The current user cannot perform operations on %1","現在のユーザーは %1 に対して操作を実行できません"
+"Either address data or address ID should be provided.","住所データか住所 ID のいずれかを入力する必要があります。"
+"""%1"" value should be specified",「%1」の値を指定する必要があります
+"The giftRegistry doesn't have the correct mapped ""%1"" value.","giftRegistr に正しくマップされた「%1」値がありません。"
+"The ""%1"" giftRegistry doesn't have the correct mapped ""%2"" value.","「%1」 giftRegistryに正しくマップされた「%2」値がありません。"
+"The ""%1"" field is only available for owners.",「%1」フィールドは所有者のみが使用できます。
+"You don't allow to remove this gift registry.",このギフト登録を削除することはできません。
+"We couldn't delete this gift registry.",このギフト登録を削除できませんでした。
+"The ""%1"" ID is incorrect. Verify the ID and try again.","「%1」IDが正しくありません。ID を確認して、もう一度実行してください。"
+"We couldn't delete ""%1"" items.",「%1」アイテムを削除できませんでした。
+"The items ID(s)=""%1"" is not valid.",項目ID=「%1」は無効です。
+"The item(s) ""%1"" does not exist.",項目「%1」は存在しません。
+"We have encountered some problems removing the registrants.",登録者の削除中に問題が発生しました。
+"The registrant ID(s)=""%1"" is not valid.",登録者ID=「%1」は無効です。
+"The registrant(s) ""%1"" does not exist.",登録者「%1」は存在しません。
+"We couldn't update gift registry items.",ギフト登録項目を更新できませんでした。
+"The registrant with ID=%1 doesn't belong to the current gift registry.","ID = %1 の登録者は、現在のギフト登録に属していません。"
+"We can't add product to the gift registry right now.",現在、商品をギフト登録に追加することはできません。
+"The registrant with id=""%1"" was not found.","id =「%1」の登録者が見つかりませんでした。"
+"GiftRegistry item filters must implement %1.","GiftRegistry 項目のフィルターは %1 を実装する必要があります。"
+"Please specify id and qty for grouped options.","グループ化されたオプションの ID と数量を指定してください。"
+"Child process failed with message: %1",子プロセスが次のメッセージで失敗しました：%1
+"Assign sources is disabled for default stock",ソースはデフォルトの在庫に対して無効です
+"Database (Deprecated)",データベース（廃止）
+"""Could not close the negotiable quotes with the following UIDs: "" .","""次のUIDを持つ交渉可能な見積もりを閉じることができません：""."
+"The customer ID does not exist.",顧客IDが存在しません。
+"The current customer does not have permission to view negotiable quotes.",現在の顧客には、交渉可能な見積もりを表示する権限がありません。
+"The current customer does not have permission to manage negotiable quotes.",現在の顧客には、交渉可能な見積もりを管理する権限がありません。
+"The current user is not a registered customer and cannot perform operations on negotiable quotes.",現在のユーザーは登録済み顧客ではなく、交渉可能な見積もりに対する操作を実行できません。
+"The Negotiable Quote module is not enabled.",交渉可能な見積もりモジュールが有効になっていません。
+"The current customer does not belong to a company.",現在の顧客は会社に属していません。
+"Negotiable quotes are not enabled for the current customer's company.",現在の顧客の会社に対して、交渉可能見積もりが有効になっていません。
+"""Could not delete the negotiable quotes with the following UIDs: "" .","""次のUIDを持つ交渉可能な見積もりを削除できません：""."
+"The specified currentPage value %1 is greater than the number of pages available.","指定された currentPage の値 %1 は、使用可能なページ数を超えています。"
+"Invalid match filter.",無効な一致フィルタです。
+"""Could not find negotiable quotes with the following UIDs: "" .","""UID を持つ交渉可能な見積もりが見つかりません：""."
+"""The quotes with the following UIDs are not negotiable: "" .","""UID を持つ見積もりは交渉できません。""."
+"""The quotes with the following UIDs have a status that does not allow them to be edited "" . ""or submitted: "" .","""UID を持つ引用符のステータスは、「 . 」を編集したり送信したりできない状態です：""."
+"""The quotes with the following UIDs have a status that does not allow them to be closed: "" .","""次のUIDを持つ引用符は、閉じられない状態です：""."
+"""The quotes with the following UIDs have a status that does not allow them to be deleted: "" .","""次のUIDを持つ引用符のステータスは、削除を許可していません：""."
+"""The following item IDs were not found on the specified quote: "" .","""指定された見積もりに次の項目のIDが見つかりませんでした：""."
+"""Could not remove the items with the following IDs: "" .","""次のIDのアイテムを削除できませんでした："""
+"Cannot create a negotiable quote for an inactive cart.",非アクティブなカートの交渉可能な見積もりを作成できません。
+"Negotiable quote already exists for the specified UID.","指定された UID に対して既に交渉可能な見積もりが存在します。"
+"Cannot create a negotiable quote for an empty cart.",空のカートに対する交渉可能な見積もりを作成できません。
+"An error occurred while attempting to create the negotiable quote.",交渉可能な見積もりを作成中にエラーが発生しました。
+"'Could not find quotes with the following UIDs: ' .","""次の UID を持つ引用符が見つかりませんでした：""."
+"Failed to create quote id masks.","見積もり ID マスクを作成できませんでした。"
+"Failed to submit the negotiable quote for review.",レビュー用の交渉可能見積もりの送信に失敗しました。
+"Unable to set the shipping address on the specified negotiable quote.",指定された交渉可能な見積もりに配送先住所を設定できません。
+"""model"" value must be specified.",「model」値を指定する必要があります。
+"Required parameter ""quote_uids"" is missing.","必須のパラメーター「quote_uids 」がありません。"
+"""creator_type"" value must be specified.",「creator_type」の値を指定する必要があります。
+"uid value must be specified.","uid 値を指定する必要があります。"
+"""change_type"" value must be specified.",「change_type」の値を指定する必要があります。
+"""changes"" value must be specified.",「changes」の値を指定する必要があります。
+"Required parameter ""quote_uid"" is missing.","必須のパラメーター「quote_uid 」がありません。"
+"Required parameter ""quote_item_uids"" is missing.","必須のパラメーター「quote_item_uids 」がありません。"
+"Required parameter ""quote_name"" is missing.","必須のパラメーター「quote_name 」がありません。"
+"Required parameter ""comment"" is missing.",必須パラメーター「comment」がありません。
+"Required parameter ""customer_address_id"" is missing.","必須のパラメーター「customer_address_id 」がありません。"
+"""status"" value must be specified.",「status」の値を指定する必要があります。
+"Required parameter ""items"" is missing.",必須パラメーター「items」がありません。
+"'Quantity less than or equal to 0 is not allowed for item uids: ' .","""項目 ID には、0 以下の数量は指定できません：""."
+White,白
+"White No Border",白で境界なし
+Gray,グレー
+Monochrome,モノクロ
+Grayscale,グレースケール
+Alternative,代替案
+Sidebar,サイドバー
+Flex,Flex
+"ReCaptcha validation failed, please try again","ReCaptcha の検証に失敗しました。再試行してください"
+"ReCaptcha validation failed, please try again","ReCaptcha の検証に失敗しました。再試行してください"
+"Operation is available only to integrations",操作は統合に対してのみ使用できます
+"Sorry, something went wrong during rule usage update. Please see log for details.",ルール使用状況の更新中に問題が発生しました。詳しくはログを参照してください。
+"Rule processing: %1","ルールの処理 : %1"
+"This creditmemo no longer exists.",このクレジットメモは既に存在しません。
+"Add to address book",アドレス帳へ追加
+modal_title_text,modal_title_text
+": You are about to set max session size in admin to be lower than recommended default session size. Low max session size in admin could break admin functionalities such as admin panel login. Are you sure you want to make this change?",": 管理者のセッションの最大サイズを、推奨されるデフォルトのセッションサイズより小さく設定しようとしています。管理者の最大セッションサイズが小さいと、管理パネルのログインなどの管理機能が機能しなくなる可能性があります。この変更を行いますか？"
+": You are about to set max session size in storefront to be lower than  recommended default session size. Low max session size in storefront could break storefront functionalities such as customer login. Are you sure you want to make this change?",": ストアフロントの最大セッションサイズを、推奨されるデフォルトセッションサイズより小さく設定しようとしています。ストアフロントの最大セッションサイズが小さいと、お客様のログインなどのストアフロント機能が壊れる場合があります。この変更を行いますか？"
+"This shipment no longer exists.",この出荷は既に存在しません。
+"Are you sure you want to delete this card: %1?",このカードを削除してもよろしいですか：%1？
+"'The current request does not expect the next parameters: ' .",「現在のリクエストでは次のパラメーターが必要ではありません：」.
+"The wishlist configuration is currently disabled",ほしい物リスト設定は現在無効です
+"Could not find the specified wishlist",指定されたほしい物リストが見つかりませんでした
+"""wishlistId"" value should be specified",「wishlistId」の値を指定する必要があります
+"The wishlist item ids ""' . . '"" were not found.","ほしい物リスト項目 id「' . . '」が見つかりませんでした。"
+"The wishlist item with ID ""%1"" does not belong to the wishlist",IDが「%1」のほしい物リスト項目は、ほしい物リストに属していません
+"The quantity of a wishlist item cannot be 0","ほしい物リスト項目の数量は 0 にできません"
+"Could not find product for the wishlist item with ID ""%1""","ID が「%1」のほしい物リスト項目の製品が見つかりませんでした"
+"Could not prepare product for the wishlist item with ID %1","ID %1 のほしい物リスト項目の製品を準備できませんでした"
+" Item(s)"," 項目"
+"Items ","項目 "
+" to "," 宛先 "
+" total"," 合計"
+"Previous Page",前のページ
+"Next Page",次のページ
+"From ","送信者 "
+"Enter your billing address to get a tax estimate.",税見積を取得するには、請求先住所を入力してください。
+"From ","送信者 "
+"Show Password",パスワードを表示
+"From ","送信者 "
+"<strong>Registry Location:</strong> <a href='%registry_url'>%registry_url</a>","<strong>レジストリの場所：</strong> <a href='%registry_url'>%registry_url</a>"
+"From ","送信者 "
+"Source code: ","ソースコード： "
+"Search with postcode or city name...",郵便番号または市区町村名で検索…
+"Edit Heading Text",見出しテキストを編集
+...,...
+"Previous Page",前のページ
+"Next Page",次のページ
+"Close Full Screen",フルスクリーンを閉じる
+"Open in Full Screen",フルスクリーンで開く
+Objects,オブジェクト
+"Previous Page",前のページ
+"Next Page",次のページ
+"Save all changes",すべての変更を保存
+"Delete bookmark",ブックマークを削除
+"Edit bookmark",ブックマークを編集
+"Incl. tax",税込
+"Excl. tax",税抜
+"Total incl. tax",税込合計
+"Expiration Date Occurred",有効期限が発生しました
+"Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.","サイトに後で支払いのメッセージを表示し、3 で支払いのようなオファーを表示します。
+                                    これにより、お客様は 3 回の無料月額支払いを行うことができます。メッセージを表示
+                                    サイトでこの機能を昇格します。後日のオファーでは支払を昇格できません
+                                    その他のコンテンツ、マーケティングまたは資料と一緒に使用できます。"
+"Enable PayPal PayLater Experience","PayPal PayLater エクスペリエンスを有効にする"
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.","推奨。<strong> PayPal クレジットをアドバタイズ</strong>は廃止されました。
+                    PayPal PayLater の詳細とサポート地域のリストを表示する
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    こちら</a>."
+"Advertise PayPal PayLater","PayPal PayLater をアドバタイズ"
+"Enable PayPal PayLater","PayPal PayLater を有効にする"
+"Style Layout",スタイルのレイアウト
+"Logo Type",ロゴタイプ
+"Logo Position",ロゴの位置
+"Text Color",テキストカラー
+"Text Size",テキストサイズ
+Ratio,比率
+"Checkout Payment Step",チェックアウト支払いステップ
+"Enable for Checkout/Placing Order",チェックアウト/発注を有効にする
+"Max Session Size in Admin",管理での最大セッションサイズ
+"Max Session Size in Storefront",ストアフロントの最大セッションサイズ
+"New User Notification Template",新規ユーザー通知テンプレート
