@@ -15384,3 +15384,93 @@ Ratio,比率
 "Enabling or disabling the features listed below affects their visibility and/or behavior in the storefront only. In Admin, they are always available for management and configuration.",以下の機能を有効または無効にすると、ストアフロントでの>表示や動作にのみ影響します。管理画面では、これらの機能は常に管理および設定が可能です。
 "Resize images to improve performance and decrease the file size. When you use an image from Media Gallery on the storefront, the smaller image is generated and placed instead of the original. Changing these settings will update all generated images.",画像のサイズを変更して、パフォーマンスを向上させ、ファイルサイズを小さくすることができます。メディアギャラリーの画像をストアフロントで使用すると、オリジナルの画像の代わりに小さい画像が生成されて配置されます。これらの設定を変更すると、生成されたすべての画像が更新されます。
 "A technical problem with the server created an error. Try again to continue what you were doing. If the problem persists, try again later.","サーバー側でエラーが発生しました。 続けるには行おうとした操作をやり直してみてください。もしこの問題が継続するようであれば、後ほどやり直してみてください。"
+"Image File has invalid characters.",画像ファイルに無効な文字が含まれています。
+"Destination Path is too long; must be %1 characters or less","宛先パスが長すぎます。%1 文字以下でなければなりません"
+"Some Error",エラー
+"Error during placing order occurred",発注中にエラーが発生しました
+"'Error during placing order occurred. ' .",「発注中にエラーが発生しました。」
+"Order information is not available yet. Try again in a couple of minutes.",注文情報はまだ利用できません。数分後に再度お試しください。
+Received,受信日時
+"Add product of type",次のタイプの製品を追加
+"Edit ","編集 "
+"Some of the products are disabled.",一部の製品が無効です。
+"Save options",保存オプション
+"We cannot create the folder under the selected directory.",選択したディレクトリの下にフォルダーを作成できません。
+"We cannot delete the selected directory.",選択したディレクトリは削除できません。
+"We can't delete the file right now.",現在ファイルを削除できません。
+"We can't upload the file to the current folder right now. Please try another folder.",現在のフォルダーにファイルをアップロードできません。別のフォルダーを試してください。
+"Save options",保存オプション
+"Could not acquire lock for cron job: %1","cron ジョブのロックを取得できませんでした : %1"
+"Please enter an extension name with only alphanumeric characters.",拡張機能名は英数字のみで入力してください。
+"The session has expired, please login again.",セッションの有効期限が切れています。再度ログインしてください。
+"Copyright &copy; %1 Adobe. All rights reserved.","Copyright &copy; %1 Adobe. All rights reserved."
+"Adobe Commerce","Adobe Commerce"
+"Adobe Commerce Admin Panel","Adobe Commerce 管理パネル"
+"Failed to revoke customer's access tokens",顧客のアクセストークンを失効できませんでした
+"Magento Webapi","Magento Webapi"
+"User token has been revoked",ユーザートークンが失効しました
+"iptcembed() must be enabled in php configuration","iptcembed() は php の設定で有効にする必要があります。"
+"Wrong merchant signature.",マーチャントの署名が間違っています。
+"We were unable to save PayPal credentials. Please try again later.","PayPal の認証情報を保存できませんでした。後でもう一度お試しください。"
+"You saved PayPal credentials. Please enable PayPal Express Checkout.","PayPal の認証情報を保存しました。PayPal エクスプレスチェックアウトを有効にしてください。"
+"Something went wrong while saving credentials: %1","認証情報の保存中に問題が発生しました : %1"
+"PayPal On-boarding urls request; Response code: %1; Response body: %2","PayPal On-boarding URL には次の情報が必要です。Response code: %1; Response body: %2"
+"PayPal On-boarding urls response format is not JSON; Response body: %1","PayPal On-boarding URL のレスポンスフォーマットが JSON ではありません。Response body: %1"
+"PayPal On-boarding urls response should contain next fields: %1","PayPal On-boarding URL の レスポンスには次のフィールドが含まれている必要があります : %1"
+"Next fields are missed: %1","次のフィールドが見つかりません : %1"
+"Wrong merchant signature",マーチャントの署名が間違っています
+"Under PayPal Checkout buttons","PayPal チェックアウトボタンの下"
+"Product alerts are sent successfully.",製品アラートは正常に送信されました。
+"Sorry, something went wrong during mailing product alerts. Please see log for details.",申し訳ありませんが、製品アラートのメール送信中に問題が発生しました。詳細はログを参照してください。
+"Mailing of Product Alerts",製品アラートのメーリング
+"The billing address must contain either ""customer_address_id"", ""address"", or ""same_as_shipping"".",請求先住所には、「customer_address_id」、「address」または「same_as_shipping」のいずれかを含める必要があります。
+"Could not use the ""same_as_shipping"" option, because multiple shipping addresses have been set.",複数の配送先住所が設定されているため、「same_as_shipping」オプションを使用できませんでした。
+"Could not use the ""same_as_shipping"" option, because the shipping address has not been set.",配送先住所が設定されていないため、「same_as_shipping」オプションを使用できませんでした。
+"Could not use the ""use_for_shipping"" option, because multiple shipping addresses have already been set.",複数の配送先住所が既に設定されているため、「use_for_shipping」オプションを使用できませんでした。
+"An error occurred while processing the billing address.",請求先住所の処理中にエラーが発生しました。
+"Unable to assign the customer to the guest cart: %message","顧客をゲストカートに割り当てられません : %message"
+"Unable to place order: A server error stopped your order from being placed. Please try to place your order again","注文できません : サーバーエラーにより、注文が停止されました。再度、注文をお願いします。"
+"The rule coupon settings changed. Please save the rule before using auto-generation.",ルールクーポン設定が変更されました。自動生成を使用する前にルールを保存してください。
+"Skip to page %1","%1 ページにスキップ"
+"Because of its privacy settings, this video cannot be played here.",プライバシー設定により、このビデオをここでは再生できません。
+"Allow Adobe to collect usage data to improve user experience and offer in-product guidance",アドビが使用状況データを収集して、ユーザーエクスペリエンスの改善と製品内ガイダンスの提供をできるようにする
+"<p>By clicking on <b>Allow</b>, you agree that we may collect anonymous usage data from you to:</p> <ol class=""modal-list""> <li>Help us improve the Magento Admin user experience</li> <li>Provide interactive in-product guidance, such as technical support and tips to improve utilization of the product from within the Admin UI. This may include notifications of new features, product support/guidance, onboarding information, tooltips, and more.</li> </ol> <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin UI and related products and services.</p> <p>You can learn more and opt-out at any time by following the instructions in <a href=""https://docs.magento.com/user-guide/configuration/advanced/admin.html#admin-usage"">merchant documentation</a>.</p>","<p>「<b> 許可 </b>」をクリックすると、匿名の使用状況データを収集できることに同意したことになります。</p><ol class=""modal-list""><li>Magento 管理のユーザーエクスペリエンスの向上に役立つ </li><li> 管理 UI から製品の使用効率を高めるためのテクニカルサポートやヒントなど、インタラクティブな製品内ガイダンスを提供します。これには、新機能、製品サポート / ガイダンス、オンボーディング情報、ツールチップなどの通知が含まれる場合があります。</li> </ol> <p> この目的で収集されたすべての使用状況データは、個人を特定するために使用することはできず、Magento 管理 UI および関連する製品およびサービスの改善のためにのみ使用されます。</p> <p><a href=""https://docs.magento.com/user-guide/configuration/advanced/admin.html#admin-usage""> マーチャントドキュメント </a> の手順に従うことで、いつでも詳細およびオプトアウトできます。</p>"
+"Rejected Order",拒否された注文
+"Rejected Order Email Sender",拒否された注文メール送信者
+"Rejected Order Email Template",拒否された注文メールテンプレート
+"Rejected Order Email Template for Guest",ゲスト用の拒否された注文メールテンプレート
+"Send Rejected Order Email Copy To",拒否された注文メールコピーの送信先
+"Send Rejected Order Email Copy Method",拒否された注文メールコピーの送信方法
+"Mass Update Attributes",属性の一括更新
+"Note: Keyboard shortcut to activate editor help : Alt + 0 (Windows) or ?0 (MacOS)","注意 : エディターヘルプをアクティブにするためのキーボードショートカット : Alt + 0 (Windows) または ?0 (MacOS)"
+"TinyMCE 5","TinyMCE 5"
+"Note: Keyboard shortcut to activate editor help : Alt + 0 (Windows) or ?0 (MacOS)","注意 : エディターヘルプをアクティブにするためのキーボードショートカット : Alt + 0 (Windows) または ?0 (MacOS)"
+"GraphQl Input Limits","GraphQl の入力制限"
+"Enable Input Limits",入力制限を有効化
+"Maximum Page Size",最大ページサイズ
+"Maximum number of items allowed in a paginated search result.",ページ分割された検索結果で許可されるアイテムの最大数
+"Allow OAuth Access Tokens to be used as standalone Bearer tokens","OAuth アクセストークンをスタンドアロンのベアラートークンとして使用することを許可"
+"JWT Authentication","JWT 認証"
+"Algorithm to sign/encrypt JWTs used for authentication","認証に使用される JWT に署名 / 暗号化するアルゴリズム"
+"Selected algorithm will define JWT type used (JWS or JWE)","選択したアルゴリズムは、使用する JWT タイプを定義します (JWS または JWE)"
+"Content encryption algorithm for JWEs","JWE のコンテンツ暗号化アルゴリズム"
+"Encryption algorithm for JWT content to be used when JWE algorithm is selected","JWE アルゴリズムを選択した場合に使用される JWT コンテンツの暗号化アルゴリズム"
+"Customer JWT Expires In","顧客の JWT の有効期限 :"
+(minutes),(分)
+"Admin User JWT Expires In","管理者ユーザーの JWT の有効期限 :"
+"Store To Login To",ログイン先のストア
+"Buyer Country",購入者の国
+"Enable PayPal Pay Later Experience","PayPal Pay Later Experience を有効化"
+"Advertise PayPal Pay Later","PayPal Pay Later の広告"
+"Enable PayPal Pay Later","PayPal Pay Later を有効化"
+"Enable Inventory Check On Cart Load",買い物かごへの読み込み時に在庫チェックを有効化
+"Enable for Coupon Codes",クーポンコードの有効化
+"Delivery Methods Section",配送方法セクション
+"Web Api Input Limits","Web Api の入力制限"
+"Enable Input Limits",入力制限を有効化
+"Input List Limit",入力リストの制限
+"Maximum number of items allowed in an entity's array property.",エンティティの配列プロパティで許可されるアイテムの最大数
+"Maximum Page Size",最大ページサイズ
+"Maximum number of items allowed in a paginated search result.",ページ分割された検索結果で許可されるアイテムの最大数
+"Default Page Size",デフォルトのページサイズ
+"Default number of items a paginated search result.",ページ分割された検索結果のデフォルトのアイテム数
