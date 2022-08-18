@@ -15560,3 +15560,125 @@ Received,受信日時
 "Value passed as the API Key to the Commerce Services in sandbox environment.","サンドボックス環境で Commerce Services に API キーとして渡される値。"
 "Sandbox Private Key",サンドボックスプライベートキー
 "Used to sign requests to call Commerce Services in sandbox environment.","サンドボックス環境で Commerce Services を呼び出すリクエストに署名するために使用されます。"
+"Admin Adobe IMS integration is disabled","Admin Adobe IMS 統合が無効になっています"
+"Admin Adobe IMS integration is enabled","Admin Adobe IMS 統合が有効になっています"
+"The Client ID, Client Secret, Organization ID and 2FA are required when enabling the Admin Adobe IMS Module","Admin Adobe IMS モジュールを有効にする場合は、クライアント ID、クライアント秘密鍵、組織 ID および 2FA が必要です"
+"Module is disabled",モジュールが無効です
+"Admin Adobe IMS integration is %1","Admin Adobe IMS 統合は %1 です"
+"Adobe Sign-In is disabled.","アドビサインインが無効です。"
+"Could not connect to Adobe IMS Service: %1.","Adobe IMS サービスに接続できませんでした: %1。"
+"Could not get a valid response from Adobe IMS Service.","Adobe IMS サービスから有効な応答を取得できませんでした。"
+"Could not verify the access_token","access_token を確認できませんでした"
+"Profile body is empty",プロファイル本文が空です
+"Could not save ims token.","ims トークンを保存できませんでした。"
+"Could not find ims token id: %id.","ims トークン ID : %id が見つかりませんでした。"
+"Could not delete ims tokens for admin user id %1.","管理者ユーザー ID %1 の IMS トークンを削除できませんでした。"
+"Failed to get JWK","JWK を取得できませんでした"
+"Failed to read JWT token","JWT トークンを読み取れませんでした"
+"JWT does not contain claims","JWT にクレームが含まれていません"
+"created_at not provided by the received JWT","created_at  は受信した JWT から提供されていません"
+"expires_in not provided by the received JWT","expires_in  は受信した JWT から提供されていません"
+"Token has expired",トークンが期限切れです
+"Please sign in with Adobe ID","Adobe ID でサインインしてください"
+"Admin token generation is disabled. Please use Adobe IMS ACCESS_TOKEN.","管理トークンの生成が無効です。Adobe IMS ACCESS_TOKEN  を使用してください。"
+"Identity Verification",本人確認
+"Verify Identity with Adobe IMS","Adobe IMS で ID を検証"
+"Confirm Identity","ID を確認"
+"To apply changes you need to verify your Adobe identity.","変更を適用するには、Adobe ID を確認する必要があります。"
+"Identity Verified with Adobe IMS","Adobe IMS で検証された ID"
+"Please perform the AdobeIms reAuth and try again.","AdobeIms reAuth を実行し、再度お試しください。"
+"Use the same email user has in Adobe IMS organization.","Adobe IMS 組織と同じメールユーザーを使用します。"
+"No matching admin user found for Adobe ID.","Adobe ID に一致する管理者ユーザーが見つかりません。"
+"This field is required to enable the Admin Adobe IMS Module","Admin Adobe IMS モジュールを有効にするには、このフィールドが必要です"
+"No valid Organization ID provided","有効な組織 ID が指定されていません"
+"No valid Client ID provided","有効なクライアント ID が指定されていません"
+"No valid Client Secret provided",有効なクライアント秘密鍵が指定されていません
+"2FA is required when enabling the Admin Adobe IMS Module","Admin Adobe IMS モジュールを有効にする場合は 2FA が必要です"
+"Can't check user membership in organization.",組織のユーザーメンバーシップを確認できません。
+"Could not check Organization Membership. Response is empty.",組織メンバーシップを確認できませんでした。応答が空です。
+"User is not a member of configured Adobe Organization.",ユーザーは設定されたアドビ組織のメンバーではありません。
+"Organization Membership check can't be performed",組織のメンバーシップチェックを実行できません
+"The ims token wasn't found.","ims トークンが見つかりませんでした。"
+"Sign in to access the Adobe Commerce for your organization.","サインインして組織の Adobe Commerce にアクセスしてください。"
+"This Commerce instance is managed by an organization. Contact your organization administrator to request access.",このコマースインスタンスは組織によって管理されています。組織の管理者に連絡してアクセス権をリクエストしてください。
+"Sign in with Adobe ID","Adobe ID でサインイン"
+"Category image not found",カテゴリ画像が見つかりません
+"The URL key should consist of lowercase characters with hyphens to separate words.","URL キーは、小文字とハイフンで構成し、単語を区切る必要があります。"
+"Invalid Item Quantity Requested.",無効なアイテム数量が要求されました。
+"Filter %1 doesn't implement %2","フィルター %1 は %2 を実装していません"
+"Grid Filter Condition Type",グリッドフィルター条件タイプ
+"Select ""Full Match"" to equally compare the filter value with the attribute value.",「完全一致」を選択すると、フィルター値と属性値が等しく比較されます。
+"Store not found",ストアが見つかりません
+"Partial Match",部分一致
+"Prefix Match",前方一致
+"Full Match",完全一致
+"The attribute set couldn't be deleted due to an error. Try again ? if the error persists, please try again later.","エラーが発生したため、属性セットを削除できませんでした。再度お試し下さい。エラーが解決しない場合は、後でやり直してください。"
+"Google Analytics4","Google Analytics4"
+"Are code not set",コードが設定されていません
+"Associated to %1 stocks","%1 在庫に関連付け"
+"Quote id = %1, Coupon = %2 has been applied for customer id %3, email %4, ","見積もり ID = %1、クーポン = %2 が顧客 ID %3、メール %4 に適用されました。"
+"Quote id = %1, Item sku = %2, customer id %3, email %4, ","見積もり ID = %1、商品 SKU = %2、顧客 ID %3、メール %4、"
+"Save customer id = %1, email = %2, ","顧客 ID = %1、メール = %2 を保存"
+"Quote id = %1, Item sku = %2, Old qty = %3 has been set to %4 for customer id %5, email %6, ","見積もり ID = %1、商品 SKU = %2、古い数量 = %3 が顧客 ID %5、メール %6 に対して %4 に設定されています。"
+"Logged out from the customer account: id = %1, email = %2, ","顧客アカウントからログアウト済み : id = %1、メール = %2、"
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","パス""%value% ""に親ディレクトリトラバーサル (""../"", ""..\") を含めることはできません。"
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber_data.unsubscription_link}}"">
+                        {{var subscriber_data.unsubscription_link}}</a>","購読解除するにはこのリンクを辿って下さい <!-- This tag is for unsubscribe link  --><a href="{{var subscriber_data.unsubscription_link}}">
+                        {{var subscriber_data.unsubscription_link}}</a>"
+"Invalid Quote Item id %1","見積商品 ID %1 が無効です"
+"Sorry, something went wrong while triggering recollect totals for affected quotes. Please see log for details.",申し訳ありませんが、影響を受ける見積もりの合計を再収集する際に問題が発生しました。詳細はログを参照してください。
+"Trigger recollect totals for quotes by rule ID %1","ルール ID %1 による見積もりの再収集合計をトリガーします"
+"Sorry, something went wrong during update synchronization. Please see log for details.",申し訳ありませんが、更新の同期中に問題が発生しました。詳細はログを参照してください。
+"Synchronize staged entities periods",ステージ済みエンティティ期間を同期
+"""itemModel"" value should be specified",「itemModel」値を指定する必要があります
+"User Guides",ユーザーガイド
+Forums,フォーラム
+"%user_name, you now have access to Adobe Commerce","%user_name 様、Adobe Commerce にアクセスできるようになりました。"
+"Your administrator at %store_name has given you access to Adobe Commerce","%store_name の管理者によって Adobe Commerce へのアクセス権が付与されました"
+"Get started",はじめに
+"Here are a few links to help you get up and running:",ここでは、導入と稼働に役立つリンクをいくつかご紹介します。
+Documentation,ドキュメント
+"Release notes",リリースノート
+"If you have any questions about access to Adobe Commerce, contact your administrator or your Adobe account team for more information.","Adobe Commerce へのアクセスに関するご質問は、管理者またはアドビアカウントチームにお問い合わせください。"
+NOTE,注意
+"Please use only letters (a-z or A-Z), numbers (0-9), underscore (_) or hyphen (-) in this field. No spaces or other characters are allowed.","このフィールドには、文字 (a-z または A-Z)、数字 (0-9)、アンダースコア (_) またはハイフン (-) のみを使用してください。スペースやその他の文字は使用できません。"
+"Grid size cannot be smaller than the current total amount of columns, minus any empty columns.",グリッドサイズは、現在の列の合計量から空の列を引いた値より小さくすることはできません。
+"Please enter a value less than or equal to the Maximum Column Grid Size configuration.",列グリッドの最大サイズの設定値以下の値を入力してください。
+"Please enter a number 0 or greater, without comma in this field.","このフィールドには、0 以上の数値をカンマなしで入力してください。"
+"Please enter a number greater than 0, without comma in this field.","このフィールドには、0 より大きい数値をカンマなしで入力してください。"
+"Trailing hyphens are not allowed.",末尾のハイフンは使用できません。
+"Enable Logging for Admin Adobe IMS Module","Admin Adobe IMS モジュールのログを有効化"
+"Enabled Admin Adobe Ims","有効化された Admin Adobe Ims"
+"Google GTag","Google GTag"
+"Google Analytics4","Google Analytics4"
+"Measurement ID","測定 ID"
+"Measurement ID","測定 ID"
+"GraphQl Session Management","GraphQl セッション管理"
+"Disable session",セッションの無効化
+GraphQl,GraphQl
+"Include dynamic attributes as entity type fields",エンティティタイプフィールドとして動的属性を含める
+"Shipping Source Selection",配送倉庫の選択
+"Source Item Assigning",倉庫項目の割り当て
+"Low Quantity Notification",少量通知
+"Create low quantity notification",少量通知を作成
+"Remove low quantity notification",少量通知を削除
+"Inventory Source Selection",在庫倉庫選択
+"Source selection algorithm result",倉庫選択アルゴリズムの結果
+"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes ? Page Builder can be selected as the “input type” to design layouts and create content.","ページレイアウトのデザイン、Magento コンテンツ (商品およびカテゴリデータ、CMS コンテンツおよびブロック) の追加、テキストの書式設定を行うための高度なツールが含まれています。<br /><br /> 製品属性の場合 : ページビルダーを「入力タイプ」として選択して、レイアウトのデザインやコンテンツの作成を行うことができます。"
+"Column Line",列ライン
+"
+                        
+                        <p>Grid Size determines the maximum number of columns available.</p>
+                         <p>Select a value between 2 and the value set in Maximum Column Grid Size setting in Content Management configuration.</p>
+                        
+                    ","
+                        
+                        <p> グリッドサイズによって、使用可能な列の最大数が決まります。</p>
+                         <p>2 から、コンテンツ管理設定の「列のグリッドサイズの最大値」設定で設定した値までの値を選択します。</p>
+                        
+                    "
+"Enable for Gift Card",ギフトカード用に有効化
+"Enable for Invitation Create Account",招待状作成アカウントを有効化
+"Enable for Wishlist Sharing",ほしい物リスト共有を有効化
+"Additionally Show Order Total Without Tax",さらに税抜きの注文合計を表示
+
