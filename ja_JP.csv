@@ -15680,4 +15680,5 @@ Enable for Gift Card,ギフトカード用に有効化
 Enable for Invitation Create Account,招待状作成アカウント用に有効化
 Enable for Wishlist Sharing,ほしい物リスト共有用に有効化
 Additionally Show Order Total Without Tax,さらに税抜きの注文合計を表示
-,
+"Require email confirmation if email has been changed","メールアドレスが変更された場合、メールによる確認を必須にする"
+"Disabling inventory check skips pre validation of cart item data.","無効にすると、カート内の商品に対する在庫チェックをスキップします。"
