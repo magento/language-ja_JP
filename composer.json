@@ -1,6 +1,6 @@
 {
     "name": "magentoj/language-ja_jp",
-    "version": "1.1.4",
+    "version": "1.1.6",
     "type": "magento2-language",
     "description": "This module provides the Japanese translations of UI strings for Adobe Commerce 2.4.6-p2",
     "license": [
