@@ -15705,3 +15705,6 @@ Additionally Show Order Total Without Tax,さらに税抜きの注文合計を�
 "USPS API endpoint URL\'s must use usps.com or shippingapis.com","USPS API API エンドポイント URL は usps.com または shippingapis.com を使用しなければなりません。"
 "Handles params size","ハンドルパラメータサイズ"
 "Handles params size. For better performance use handles parameter size between 50 and 100.","ハンドルパラメータサイズ。良好なパフォーマンスのためにハンドルパラメータ数は50以上100以下を使用して下さい。"
+"Coupon quantity should be less than or equal to the coupon quantity in the store configuration.","クーポンの数量はストア設定値以下でなければなりません。"
+"Code Quantity Limit","クーポン数量上限値"
+"For better performance max value allowed is 250,000. Set 0 to disable it.","良好なパフォーマンスのために上限値は250,000となっています。0にすると無効にできます。"
