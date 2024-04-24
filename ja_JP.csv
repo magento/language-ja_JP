@@ -155,7 +155,7 @@ Auto-redirect to Base URL"""
                         Defines the default product price
                     ","
 
-デフォルトの製品価格を定義します。
+デフォルトの商品価格を定義します。
                     "
 "
                         If you select and save the rule you will be able to generate multiple coupon codes.
@@ -331,7 +331,7 @@ Auto-redirect to Base URL"""
                         ","<p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a>は、洗練されたソフトウェアと税務専門家の優れたチームを組み合わせて、Magento加盟店が売上税プロセスを簡素化し、刻々と変化する税法を順守できるよう支援します。商人は、Magento AdminからVertex Cloudに簡単にアクセスして設定し、複雑な税務上の課題に対応できます。</p>
 <ul>
 <li><span>シンプルで複雑な税務ニーズに対する受賞歴のあるサポートとのシームレスな統合。</span></li>
-<li><span>各製品およびすべての管轄区域の最新の税ルールを自動的に遵守します。</span></li>
+<li><span>各商品およびすべての管轄区域の最新の税ルールを自動的に遵守します。</span></li>
 <li><span>1つのソリューションで税計算を実行し、署名対応のPDFリターンを生成します。</span></li>
 <li><span>放棄されたカートからの税額の見積もりに対して提供者に罰則はありません。</span></li>
 <li><span>柔軟な展開オプションは、クラウドまたはオンプレミスの組織のニーズに適合します。</span></li>
@@ -469,7 +469,7 @@ dotmailer Email Marketing Automation。 Magento 2.2.2に含まれており、簡
 </p>
 <ul>
 <li><span>14日間の試用期間</span></li>
-<li><span>Magentoのライブストアデータを使用した自動化キャンペーンは、収益を促進し、放棄されたカート、放棄された閲覧、製品の補充などが含まれます。</span></li>
+<li><span>Magentoのライブストアデータを使用した自動化キャンペーンは、収益を促進し、放棄されたカート、放棄された閲覧、商品の補充などが含まれます。</span></li>
 <li><span>トランザクションメール用の組み込みソリューション。</span></li>
 <li><span>電話サポートとマーケティングの専門家からのアドバイスが含まれています。</span></li>
 </ul>
@@ -626,7 +626,7 @@ dotmailer Email Marketing Automation。 Magento 2.2.2に含まれており、簡
 ". ', e.g. <i>product_images</i>, <i>import_images/batch1</i>.<br><br>For example, in case <i>product_images</i>, files should be placed into <i>&lt;Magento root directory&gt;/' . . '/product_images</i> folder.' 'i' 'br'",".'、例：<i>product_images</i> , <i>import_images/batch1</i> .<br><br>例えば、<i>product_images</i> の場合、ファイルは<i>&lt;Magentoのルートディレクトリ&gt;/'に置く必要があります。. '/product_images</i> フォルダー。' 'i' 'br'"
 . ': %error_message',.':%error_message'
 . ':',.':'
-". "" which is inconsistent with state of scope resolver""",". "" スコープリゾルバのいずれかの状態に不整合があります"""
+". "" which is inconsistent with state of scope resolver""",". "" スコープリゾルバーのいずれかの状態に不整合があります"""
 ','
 '*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.,'*' - すべてにマッチ; 'xyz*' - 'xyz'で始まるものすべて、そして%1の長さ以下
 '%1' file extension is not supported,'%1'ファイル拡張子はサポートされていません
@@ -741,7 +741,7 @@ Validation Failed: ' .,'検証に失敗しました：' .
 """regionId"" is required. Enter and try again.","""regionId"" は必須です。入力して再度お試し下さい。"
 """Remember Me"" Default Value","""ログイン状態を維持する"" のデフォルト値"
 """selection_id"" value should be specified.","""selection_id ""の値を指定する必要があります。"
-"""Shipment Document Validation Error(s):\n"" .","""出荷文書検証エラー: \n""。"
+"""Shipment Document Validation Error(s):\n"" .","""配送文書検証エラー: \n""。"
 """sku"" value should be specified","""sku"" の値を指定する必要があります"
 """Static"" defines the expiration date as precisely when the balance increases. ""Dynamic"" does not have an expiration date, but calculates one when the balance is checked for expiry.",「固定」は、残高が増加したときの有効期限を正確に定義します。「動的」には有効期限はありませんが、残高の有効期限がチェックされているときに計算されます。
 """Street Address"" cannot contain more than %1 lines.","""番地""には%1行を超える行を含めることはできません。"
@@ -1268,7 +1268,7 @@ A product type is not defined for the indexer.,商品種別はインデクサー
 "A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be assigned to the new public shared catalog.",公開共有カタログがすでに存在します。 続行すると、既存の公開共有カタログがカスタムカタログに変換されます。 既存の公開共有カタログで定義されているすべての会社は、新しい公開共有カタログに割り当てられます。
 "A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be re-assigned to the new public shared catalog.",公開共有カタログがすでに存在します。 続行すると、既存の公開共有カタログがカスタムカタログに変換されます。 既存の公開共有カタログで定義されているすべての会社は、新しい公開共有カタログに再び割り当てられます。
 A quantity of %1 is greater than you can return.,%1の数量は返すことができます。
-A quantity you're trying to add exceeds the number of products we shipped.,追加しようとしている数量が、出荷された商品の数を超えています。
+A quantity you're trying to add exceeds the number of products we shipped.,追加しようとしている数量が、配送された商品の数を超えています。
 A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.,注文 %order_id で %refunded_amountの払い戻しが行われました。 この金額は会社のクレジットに適用されています。
 A region_id is required for the specified country code,指定した国コードには region_id が必要です。
 A required field is missing.,必須のフィールドがありません。
@@ -1280,7 +1280,7 @@ A reversal has occurred on this transaction due to your customer triggering a mo
 "A row with this email, website, and finance website combination already exists.",このメール、ウェブサイト、および財務のウェブサイトの組み合わせの行は既に存在します。
 A server error stopped your order from being placed. Please try to place your order again.,サーバーエラーにより、注文が中止されました。 もう一度注文して下さい。
 A shared catalog is linked to this customer group. You must delete the shared catalog before you can delete this customer group.,共有カタログはこの顧客グループにリンクされます。この顧客のグループを削除する前に、共有カタログを削除する必要があります。
-A shipment cannot be created when an order has a status of %1,オーダーのステータスが%1の場合、出荷を作成できません
+A shipment cannot be created when an order has a status of %1,オーダーのステータスが%1の場合、配送を作成できません
 A shipping selection is not applicable.,配送方法は適用されません。
 A template with this name already exists.,この名前のテンプレートが既に存在します。
 A token with consumer ID %1 does not exist,顧客ID %1 のトークンは存在しません
@@ -1350,7 +1350,7 @@ Access Token Expiration,アクセストークンの有効期限
 Access token has been revoked,アクセストークンは破棄されました
 Access Token Secret,アクセストークンシークレット
 Account,アカウント
-Account &amp; Shipping Information,アカウントと出荷情報
+Account &amp; Shipping Information,アカウントと配送情報
 Account Activity,アカウントアクティビティ
 Account already active,アカウントはすでにアクティブです。
 Account Created in,アカウント作成日
@@ -1657,7 +1657,7 @@ Admin User Data,管理者ユーザーデータ
 Admin User Emails,管理者メールアドレス
 Admin User ID,管理者ユーザーID
 Admin User Name,管理者ユーザー名
-Admin Webhook URL,管理者Webhook URL
+Admin Webhook URL,管理者ウェブフック URL
 Adminhtml Themes List,Adminhtmlのテーマリスト
 Administrator,管理者
 Adobe API Key is invalid!,AdobeAPIキーが無効です。
@@ -2568,7 +2568,7 @@ Bottom Right,右下
 Bottom/Left,下部/左
 Bottom/Right,下部/右
 Braintree,Braintree
-Braintree error response.,Braintreeのエラー応答。
+Braintree error response.,Braintreeのエラーレスポンス。
 Braintree Settlement,Braintree決済
 Braintree Settlement Report,Braintree決済報告書
 BraintreeTwo,BraintreeTwo
@@ -2597,8 +2597,8 @@ Bulk operation was successful: %count unassignments.,バルク処理が成功し
 Bulk source assignment,倉庫の一括割り当て
 Bulk source unassignment,倉庫の一括割り当て解除
 Bulk uuid %bulkUuid not exist,バルクUUID %bulkUuid は存在しません
-Bundle Items,セット商品
-Bundle Product,セット商品
+Bundle Items,バンドル商品
+Bundle Product,バンドル商品
 Bundle product could not contain another composite product,バンドル商品は別のコンポジット商品を含むことが出来ません。
 Business Intelligence,ビジネスインテリジェンス
 Business Service Center,ビジネスサービスセンター
@@ -2693,8 +2693,8 @@ Can not find original authorization transaction for partial capture,一部取り
 Can not initialize PayPal (Braintree),PayPal (Braintree)を初期化できません
 Can not open file,ファイルが開けません
 Can not register new customer due to restrictions are enabled.,制限が有効なため、新規顧客を登録できません。
-Can not resolve reCAPTCHA parameter.,reCAPTCHAパラメーターを解決できません。
-Can not resolve reCAPTCHA response.,reCAPTCHA応答を解決できません。
+Can not resolve reCAPTCHA parameter.,reCAPTCHA パラメーターを解決できません。
+Can not resolve reCAPTCHA response.,reCAPTCHA レスポンスを解決できません。
 Can not resolve Sales Channel for Website with id %1.,ID %1 のウェブサイトの販売チャネルを解決できません。
 Can not save empty config,空の設定を保存できません
 Can not save link related to Default Source or Default Stock,デフォルトの倉庫またはデフォルトの在庫に関連するリンクを保存できません
@@ -3116,7 +3116,7 @@ Choose Revision,リビジョンを選択
 Choose Store View:,ストアビューを選択:
 Choose this option to delete and replace extension data for all past configurations.,このオプションを選択して、過去の設定に関するエクステンションデータを削除または置換してください。
 Choose Website:,ウェブサイトを選択:
-"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",顧客 IP を注文、請求書、出荷、およびクレジットメモに表示するかどうかを選択します。
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",顧客 IP を注文、請求書、配送、およびクレジットメモに表示するかどうかを選択します。
 Choose...,選択してください...
 "Choosing yes will be used subtotal after discount, otherwise only subtotal will be used.",Yes を設定した場合、値引き後の小計が使用されます。そうでない場合は小計のみが使用されます。
 Circle,白丸
@@ -3326,13 +3326,13 @@ Configurable Product,コンフィグ商品
 Configurable Product Image,コンフィグ商品の画像
 "Configurable products allow customers to choose options (Ex: shirt color).
             You need to create a simple product for each configuration (Ex: a product for each color).","コンフィグ商品により、顧客はオプション（例：シャツの色）を選択できます。
-            各構成（例：各色の製品）ごとにシンプル製品を作成する必要があります。"
+            各構成（例：各色の商品）ごとにシンプル商品を作成する必要があります。"
 "Configurable products allow customers to choose options (Ex: shirt color).
 You need to create a simple product for each configuration (Ex: a product for each color).","コンフィグ商品により、顧客はオプション（例：シャツの色）を選択できます。
 各構成（例：各色の商品）ごとにシンプル商品を作成する必要があります。"
 "Configurable products allow customers to choose options (Ex: shirt color).
             You need to create a simple product for each configuration (Ex: a product for each color).","コンフィグ商品により、顧客はオプション（例：シャツの色）を選択できます。
-            各構成（例：各色の製品）ごとにシンプル製品を作成する必要があります。"
+            各構成（例：各色の商品）ごとにシンプル商品を作成する必要があります。"
 Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).,コンフィグ商品により、顧客はオプション（例：シャツの色）を選択できます。各構成（例：各色の商品）ごとにシンプルな商品を作成する必要があります。
 Configuration,設定
 Configuration Email URL for Web API,Web API の設定メール URL
@@ -3594,7 +3594,7 @@ Could not retrieve media assets,メディアアセットを取得できません
 Could not retrieve the asset.,アセットを取得できませんでした。
 Could not save,保存できません
 "Could not save a Creditmemo, see error log for details",クレジットメモを保存できませんでした。詳細はエラーログを参照してください
-"Could not save a shipment, see error log for details",出荷データを保管できませんでした。詳細はエラーログを参照してください。
+"Could not save a shipment, see error log for details",配送データを保管できませんでした。詳細はエラーログを参照してください。
 "Could not save an invoice, see error log for details",請求書を保存できませんでした。詳細はエラーログを参照してください
 Could not save asset keyword links,アセットキーワードのリンクを保存できませんでした
 Could not save category: %1,カテゴリは保存できませんでした: %1
@@ -4926,7 +4926,7 @@ Enabled for RMA,RMA 用に有効化
 Enabled for Storefront,ストアフロントで有効にする
 Enabled Template Path Hints for Admin,管理者ページでテンプレートパスヒントを有効
 Enabled Template Path Hints for Storefront,ストアフロントでテンプレートパスヒントを有効
-Enabled when authorized items require a new shipment.,許可されたアイテムが新しい出荷データを必要とするときに有効になります。
+Enabled when authorized items require a new shipment.,許可されたアイテムが新しい配送データを必要とするときに有効になります。
 "Enables Chapter/Section functionality for this node, its sub-nodes and pages",このノード、また、そのサブノードおよびページのチャプター/セクション機能を有効にします。
 Encryption,暗号化
 Encryption Key,暗号化キー
@@ -5572,7 +5572,7 @@ Gallery,ギャラリー
 Gateway error: %1,ゲートウェイエラー: %1
 Gateway processing error.,ゲートウェイ処理エラー。
 Gateway rejected,ゲートウェイで拒否されました
-Gateway response is not valid.,ゲートウェイの応答は無効です。
+Gateway response is not valid.,ゲートウェイのレスポンスは無効です。
 Gateway URL,ゲートウェイURL
 Gateway validation error,ゲートウェイの検証エラー
 Gateway XML URL,ゲートウェイXML URL
@@ -6310,7 +6310,7 @@ Invalid domain name: %1,不正なドメイン名: %1
 Invalid download link type.,不正なダウンロードリンクです。
 Invalid EAV attribute,不正なEAV属性です
 Invalid email address,不正なメールアドレス
-Invalid email format,無効なE メールフォーマット
+Invalid email format,無効なメールフォーマット
 Invalid entity supplied,不正なエンティティが提供されました
 Invalid entity supplied: %1,不正なエンティティが与えられました: %1
 Invalid entity type,不正なエンティティタイプです
@@ -6373,8 +6373,8 @@ Invalid Request,無効なリクエスト
 Invalid request to gateway.,ゲートウェイへの不正な要求です。
 "Invalid request, missing parameter list_id",無効なリクエストです。パラメーター list_id がありません
 "Invalid request, please try again.",無効なリクエストです。もう一度やり直してください。
-Invalid response,無効な応答
-Invalid response from carrier,キャリアからの応答が無効です
+Invalid response,無効なレスポンス
+Invalid response from carrier,キャリアからのレスポンスが無効です
 Invalid RMA,無効なRMA
 Invalid rollback file.,不正なロールバックファイルです。
 Invalid rotation mode type,不正なローテーションモード
@@ -6387,7 +6387,7 @@ Invalid sender data,不正な送信者データ
 Invalid Sender Email,無効な送信者メールです
 Invalid Sender Information,不正な送信者情報です。
 Invalid session %1 value.,不正なセッション %1 の値です。
-Invalid shipping method,不正な発送方法です
+Invalid shipping method,不正な配送方法です
 Invalid signature,不正なシグニチャー
 Invalid source attribute value,不正な倉庫属性値
 Invalid state change requested,無効なステート変更がリクエストされました
@@ -6426,7 +6426,7 @@ Invalid value in Store column (store does not exists?),ストア列に不正な�
 "Invalid value of ""%value"" provided for the %fieldName field. Possible values: %template1 or %template2.","%fieldNameフィールドに指定された ""%value"" の値が無効です。可能な値: %template1 または %template2"
 "Invalid value of ""%value"" provided for the email field.","メールフィールドに指定された ""%value"" の値が無効です。"
 "Invalid value. Because the request contains an unexpected value, a default value was substituted. Although the transact on can still be processed, examine the request carefully for abnormalities in the order",値が無効です。要求に予期しない値が含まれているため、デフォルト値が代入されました。取引は依然として処理することができますが、注文の異常値を慎重に検討してください
-Invalid value(s) for Qty to Ship,不正な出荷数量です
+Invalid value(s) for Qty to Ship,不正な配送数量です
 Invalid video url,無効なビデオ url
 Invalid XML,無効なXML
 Invalid XML in file %1:\n%2,ファイル %1:\n%2 内の無効な XML
@@ -7653,7 +7653,7 @@ Not a GIF image,GIF画像ではありません
 Not a JPEG image,JPEG画像ではありません
 Not a PNG image,PNG画像ではありません
 "Not a success, but no error codes received!",成功しませんでしたが、エラーコードが受信されませんでした。
-"Not able to assign ""%1"" to product ""%2"", as it is part of bundle product <a href=""%3"">""%4""</a> with shipment type ""Ship Together"" and has multiple sources or different source as other bundle selections.","""%1""を商品""%2""に割り当てられません。これは、出荷タイプ""Ship Together""のバンドル商品<a href=""%3"">""%4""</a>の一部であり、他のバンドル選択として複数の倉庫または異なる倉庫があるためです。"
+"Not able to assign ""%1"" to product ""%2"", as it is part of bundle product <a href=""%3"">""%4""</a> with shipment type ""Ship Together"" and has multiple sources or different source as other bundle selections.","""%1""を商品""%2""に割り当てられません。これは、配送タイプ""Ship Together""のバンドル商品<a href=""%3"">""%4""</a>の一部であり、他のバンドル選択として複数の倉庫または異なる倉庫があるためです。"
 Not able to create shipment with 'In Store Pick-Up' delivery method. Order should be notified as 'Ready For Pick-Up' instead.,'店頭引き取り' が配送方法の場合は配送データを作成できません。  '受け取り準備完了' ステータスを代わりにご使用ください。
 Not Activated,未アクティブ
 Not all browsers support all these formats!,これらのフォーマットはすべてのブラウザでサポートされているわけではありません。
@@ -7688,7 +7688,7 @@ Not Specified,未指定
 not subscribed,未購読
 Not supported,サポートされていません
 Not supported cipher version,サポートされてないサイファーのバージョンです
-Not supported response.,サポートされていない応答。
+Not supported response.,サポートされていないレスポンス。
 Not sure what PayPal payment method to use? Click,どのPayPal支払手段を使うかわかりません？ クリック
 Not sure what PayPal payment method to use? Click ,どのPayPal支払手段を使うかわかりません？ クリック
 Not valid cipher method.,有効でないサイファーメソッド
@@ -7826,7 +7826,7 @@ Only %1 left,%1のみ残っています
 Only %1 wish list(s) can be created.,%1 のほしい物リストのみ作成できます。
 Only %1%2%3 left in stock,%1%2%3 在庫が残っています
 "Only <span id=""%1_max_allowed"">%2</span> in stock","在庫の<span id = ""%1_max_allowed "">%2</ span>のみ"
-Only 1 shipping assignment can be set,出荷割り当ては1つしか設定できません
+Only 1 shipping assignment can be set,配送割り当ては1つしか設定できません
 Only Children,子要素のみ
 Only customers who have an account for a store view will receive emails related to that store view.,ストアビューのアカウントを持っている顧客のみが、そのストアビューに関連するメールを受信します。
 Only default scope allowed,デフォルトのスコープのみ許可されます
@@ -7933,14 +7933,14 @@ Order ID,注文 ID
 Order id cannot be null,注文IDにnullは使用できません
 Order Id is required for creditmemo document,クレジットメモ文書には注文IDが必要です
 Order Id is required for invoice document,請求書文書には受注IDが必要です
-Order Id is required for shipment document,出荷伝票に注文IDが必要です
+Order Id is required for shipment document,配送伝票に注文IDが必要です
 Order Information,注文情報
 Order Invoices,注文請求書
 Order is canceled. The order amount is not reverted to the company credit.,注文はキャンセルされます。 注文金額は会社のクレジットに戻されません。
 Order is canceled. We reverted %1 to the company credit.,注文はキャンセルされます。 %1を会社のクレジットに戻しました。
 Order is cancelled. The order amount is not reverted to the company credit because the company to which this customer belongs does not exist.,注文はキャンセルされます。 この顧客が所属する会社が存在しないため、注文金額は会社のクレジットに戻されません。
-Order is suspended as its authorizing amount %1 is suspected to be fraudulent.,注文は与信取得処理中断中です。 %1 が詐欺の疑いがあります。
-Order is suspended as its capture amount %1 is suspected to be fraudulent.,キャプチャー量%1は詐欺行為と疑われたため注文は一時停止になります
+Order is suspended as its authorizing amount %1 is suspected to be fraudulent.,注文は、承認額 %1 が不正と疑われるため、一時停止されています。
+Order is suspended as its capture amount %1 is suspected to be fraudulent.,注文は、キャプチャ額 %1 が不正と疑われるため、一時停止されています。
 Order item id cannot be null,商品IDにnullは使用できません
 Order Item Status to Enable Downloads,ダウンロード可能になる注文ステータス
 Order notified for pickup at: %1,店頭でのお受け取り準備ができました : %1
@@ -8006,8 +8006,8 @@ Orders Report,注文レポート
 "Orders, Invoices, Shipments, Credit Memos Archiving","注文, 請求, 配送, クレジットメモアーカイブ"
 Org Unit Id,組織単位ID
 Orientation,向き
-Origin,発送元
-Origin of the Shipment,発送元
+Origin,配送元
+Origin of the Shipment,配送元
 Origin source %sourceCode does not exist,接触チャネルソース %sourceCode が存在しません
 Original Price,原価
 Original price only,オリジナル価格のみ
@@ -8043,7 +8043,7 @@ Owner Name,オーナーの名前
 Owner Notification,所有者通知
 Package,小包
 Package Extensions,エクステンションパッケージ
-Package ready time after order submission (in hours),注文確定後に荷物が出荷可能になるまでの期間(時間)
+Package ready time after order submission (in hours),注文確定後に荷物配送可能になるまでの期間(時間)
 Package ready time after order submission (in hours).,注文後のパッケージの準備時間（時間）。
 Packages,パッケージ
 Packages Request Type,パッケージリクエストタイプ
@@ -8210,9 +8210,9 @@ Payment On Account cannot be used for this order because your order amount excee
 Payment Page,支払いページ
 Payment Refund initiated by merchant,マーチャントによる支払返金実行
 Payment refunding error.,支払い返金エラー
-Payment Response Password,支払い応答パスワード
+Payment Response Password,支払いレスポンスパスワード
 Payment Review,決済レビュー
-Payment Services,Paymentサービス
+Payment Services,支払いサービス
 Payment Token Build Error.,支払いトークンのビルドエラー。
 Payment Transaction Failed,支払トランザクション失敗
 Payment Transaction Failed Reminder,支払い処理の失敗通知
@@ -9064,7 +9064,7 @@ Problem with creating product update.,商品の更新の問題
 Proceed,続行
 Proceed through checkout faster,チェックアウトを通して早く処理する
 Proceed to Checkout,レジに進む
-Proceed to Shipment,出荷に進む
+Proceed to Shipment,配送に進む
 Proceed to Store Configuration?,ストア設定に進みますか？
 Process payments using your own internet merchant account.,自身のインターネットマーチャントアカウントを使って支払を処理する。
 Processed,処理完了
@@ -9078,7 +9078,7 @@ Processor declined,プロセッサによる拒否
 product,商品
 Product,商品
 Product -- Full Width,商品 -- フル幅
-"Product ""%1"" cannot be added to bundle product as bundle product has ""Ship Bundle Items Together"" and ""%1"" product assigned to multiple sources or has different source then rest of bundle items","複数の倉庫に割り当てられた""出荷バンドル品目同士""と""%1""の商品、または他のバンドル品目と異なる倉庫を持つ商品""%1""は、バンドル商品に追加できません"
+"Product ""%1"" cannot be added to bundle product as bundle product has ""Ship Bundle Items Together"" and ""%1"" product assigned to multiple sources or has different source then rest of bundle items","複数の倉庫に割り当てられた""配送バンドル品目同士""と""%1""の商品、または他のバンドル品目と異なる倉庫を持つ商品""%1""は、バンドル商品に追加できません"
 "Product ""%product_type"" type is not supported","""%product_type"" タイプの商品はサポートされていません"
 Product %1,商品 %1
 Product %1 doesn't have linked %2 as %3,商品 %1 は %3 として %2 に紐づいていません。
@@ -9224,8 +9224,7 @@ Products will be added to new sources with 0 quantity.,商品は数量0の新し
 Products will still be shown by direct product URLs.,商品は商品のURLで表示され続けます。
 Products with the following SKUs do not exist: %s,以下の SKU を持つ商品は存在しません: %s
 ProductSku should be specified,商品 SKUを指定する必要があります
-Profile ID,"プロフィールID
-Promo Section"""
+Profile ID,プロフィールID
 Profit,利益
 Promo,プロモーション
 Promo Section,プロモーションセクション
@@ -9338,8 +9337,8 @@ Qty Shipped,配送数
 Qty To Deduct,減算される数量
 Qty to Invoice,請求個数
 Qty to Refund,払戻数量
-Qty to Ship,出荷数量
-Qty To Ship,出荷数量
+Qty to Ship,配送数量
+Qty To Ship,配送数量
 Qty Uses Decimals,個数に小数表記を使う
 Qty:,個数:
 Qty: ,個数: 
@@ -9448,7 +9447,7 @@ Recalculate Quote,見積もりの再計算
 reCAPTCHA,reCAPTCHA
 reCAPTCHA '%1' form error: %2,reCAPTCHA '%1'フォームエラー：%2
 reCAPTCHA Failure Messages,reCAPTCHA 失敗メッセージ
-ReCAPTCHA response not provided.,ReCAPTCHA応答が指定されていません。
+ReCAPTCHA response not provided.,ReCAPTCHA レスポンスが指定されていません。
 reCAPTCHA Technical Failure Message,reCAPTCHA 技術的失敗メッセージ
 "reCAPTCHA v2 (""I am not a robot"")","reCAPTCHA v2 (""I am not a robot"")"
 reCAPTCHA v2 Invisible,reCAPTCHA v2 Invisible
@@ -10221,7 +10220,7 @@ Select a new payment method,新しいお支払い方法を選択する
 Select a page or node.,ページまたはノードを選択します。
 Select a shipping address from your address book or enter a new address.,アドレス帳から住所を選択するか、新しい住所を選択してください。
 Select a shipping address from your address book.,アドレス帳からお届け先住所を選択して下さい。
-Select a Source to Ship from,出荷する倉庫を選択
+Select a Source to Ship from,配送元の倉庫を選択
 Select Address,住所選択
 Select Addresses,住所選択
 select all,すべてを選択
@@ -10453,7 +10452,7 @@ Settlement declined,精算拒否
 Settlement of a chargeback.,入金取り消しの決済
 Settlement pending,精算保留
 Settlement Report Settings,決済レポート設定
-Settlement Response Text,決済応答テキスト
+Settlement Response Text,決済レスポンステキスト
 Settling,精算中
 Severity,重要度
 SFTP Credentials,SFTP証明書
@@ -10473,8 +10472,8 @@ Shared Catalogs,共有カタログ
 Sharing,共有
 Sharing Information,共有している情報
 Ship,配送
-Ship Bundle Items,セット商品の配送方法
-Ship Date,発送日
+Ship Bundle Items,バンドル商品の配送方法
+Ship Date,配送日
 Ship From,配送元
 Ship here,この住所にお届け
 Ship Here,この住所にお届け
@@ -10498,7 +10497,7 @@ Shipment Comment Email Sender,配送コメントメール送信者
 Shipment Comment Email Template,配送コメントメールテンプレート
 Shipment Comment Email Template for Guest,ゲスト用の配送コメントメールテンプレート
 Shipment Comments,配送コメント
-Shipment does not exists.,出荷は存在しません。
+Shipment does not exists.,配送は存在しません。
 Shipment Email Sender,配送メール送信者
 Shipment Email Template,配送メールテンプレート
 Shipment Email Template for Guest,ゲスト用の配送メールテンプレート
@@ -10522,7 +10521,7 @@ Shipping &amp; Handling Information,配送料と手数料情報
 Shipping address,お届け先住所
 Shipping Address,配送先住所
 Shipping address errors,配送先住所のエラー
-Shipping address is not allowed on cart: cart contains no items for shipment.,カートでは配送先住所は許可されていません：買い物かごには出荷する品目が含まれていません。
+Shipping address is not allowed on cart: cart contains no items for shipment.,カートでは配送先住所は許可されていません：買い物かごには配送する品目が含まれていません。
 Shipping address is not defined for instance purchase.,配送先住所は、インスタンス購入のために定義されていません。
 Shipping address is not set,商品送付先住所が設定されていません
 Shipping address not set.,送付アドレスがセットされていません
@@ -10678,7 +10677,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 <p>Benefits:<ul>
 <li>Grow your business without fear of fraud</li>
 <li>Accept more orders and maximize your revenue</li>
-<li>Automate order review and shift fraud off your plate</li></ul></p>","Signifydは詐欺のために注文を自動的に見直し、発送する注文と拒否する注文を秒単位で通知します。
+<li>Automate order review and shift fraud off your plate</li></ul></p>","Signifydは詐欺のために注文を自動的に見直し、配送する注文と拒否する注文を秒単位で通知します。
 我々は100%チャージバックプロテクションを使用して承認を戻し、不正なチャージバックを受け取った場合はフルオーダー額と料金を払い戻します。
 <p>メリット<ul>
 <li>詐欺の恐れなしにビジネスを成長</li>
@@ -10689,7 +10688,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
                     <p>Benefits:<ul>
                     <li>Grow your business without fear of fraud</li>
                     <li>Accept more orders and maximize your revenue</li>
-                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifydは注文の不正行為を自動的に確認し、発送する注文と拒否する注文を数秒で通知します。
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifydは注文の不正行為を自動的に確認し、配送する注文と拒否する注文を数秒で通知します。
                     私達のサービスはすべての注文データに対してチャージバック保証をつけた状態で審査結果ステータスを返却します。もし我々が詐欺注文を見逃してしまった場合、注文金額と審査に伴うシステム利用料金を返金いたします。
                     <p>メリット<ul>
                     <li>詐欺注文のリスクを回避しつつ、ビジネスを成長できる</li>
@@ -11941,7 +11940,7 @@ The order can't be submitted in preview mode.,プレビューモードでは、�
 The order confirmation email is not sent,注文確認メールが送られていません
 The order confirmation email was sent,注文確認メールが送られました
 The order does not allow a creditmemo to be created.,この注文では、クレジットメモを作成することはできません。
-The order does not allow a shipment to be created.,この注文書では、出荷を作成することはできません。
+The order does not allow a shipment to be created.,この注文書では、配送を作成することはできません。
 The order does not allow an invoice to be created.,注文は領収書を作成することを許可しません
 The order doesn't exist.,オーダーが存在しません。
 The order is not ready for pickup,この注文はまだお受け取りいただけません
@@ -12030,7 +12029,7 @@ The product wasn't found. Verify the product and try again.,商品が見つか�
 The product wasn't registered.,商品が登録されていません。
 The product will be removed from the update and all scheduled changes will be lost.,アップデートと予定された変更が削除されると、関連する商品が削除されます
 "The Product with the ""%1"" SKU doesn't exist.","SKU ""%1"" の商品は存在しません。"
-"The product with the ""%1"" SKU isn't a bundle product.","SKU ""%1"" の商品はセット商品ではありません。"
+"The product with the ""%1"" SKU isn't a bundle product.","SKU ""%1"" の商品はバンドル商品ではありません。"
 "The product with the ""%1"" SKU isn't a configurable product.","SKU ""%1"" の商品はコンフィグ商品ではありません。"
 The product you chose is not associated with the selected store or category.,選択した商品は選択したストアやカテゴリに紐付いていません。
 The product's required option(s) weren't entered. Make sure the options are entered and try again.,商品の必須オプションが入力されていません。 オプションが入力されていることを確認して、再度お試し下さい。
@@ -12046,7 +12045,7 @@ The quantity of a wish list item cannot be 0,ほしい物リストアイテム�
 "The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU ""%1"".","クレジットメモへの数量は、商品 SKU ""%1"" の払い戻されていない数量を超えてはいけません。"
 "The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","請求書の数量は、商品 SKU ""%1"" の無認可数量を超えてはいけません。"
 The quantity to refund must not be greater than the unrefunded quantity.,払い戻す数量は、払い戻しされない数量を超えてはいけません。
-"The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","出荷する数量は、商品 SKU ""%1"" の未出荷数量を超えてはいけません。"
+"The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","配送する数量は、商品 SKU ""%1"" の未配送数量を超えてはいけません。"
 The quote,見積もり
 The quote ,見積もり 
 The quote %quoteId is currently locked and cannot be closed.,見積もり %quoteId は現在ロックされており、クローズできません。
@@ -12100,8 +12099,8 @@ The requisition list does not exist.,要求リストが存在しません。
 The resource isn't set.,リソースが設定されていません。
 The response is in the wrong format,回答のフォーマットが間違っています
 The response is in wrong format.,レスポンスが不正なフォーマットです。
-The response is no longer valid: either is too old or has been used previously.,応答は既に無効です：が古すぎるか、以前に使用されています。
-The response parameter is invalid or malformed.,応答パラメーターが無効か、形式が正しくありません。
+The response is no longer valid: either is too old or has been used previously.,レスポンスは無効です：古すぎるか、以前に使用されています。
+The response parameter is invalid or malformed.,レスポンスパラメーターが無効か、形式が正しくありません。
 The response type is incorrect. Verify the type and try again.,レスポンスの種類が正しくありません。種類を確認して再度お試し下さい。
 The return to stock argument contains product item that is not part of the original order.,在庫引数への返品は元の注文の一部ではない商品の項目が含まれています。
 The review has been deleted.,レビューは削除されました
@@ -12145,7 +12144,7 @@ The seller responded to your quote ,販売者が見積もりに返信しまし�
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","送信者名 ""%1"" は無効です。キャラクターとスペースのみ使用してください。"
 The service is unknown. Verify the service and try again.,サービスが不明です。サービスを確認して再度お試し下さい。
 The shared catalog was deleted successfully.,共有カタログが削除されました。
-"The shipment contains product SKU ""%1"" that is not part of the original order.","出荷には元の注文の一部ではない商品 SKU ""%1"" が含まれています。"
+"The shipment contains product SKU ""%1"" that is not part of the original order.","配送には元の注文の一部ではない商品 SKU ""%1"" が含まれています。"
 The shipment couldn't be deleted.,配送が削除できませんでした。
 The shipment couldn't be saved.,配送を保存できませんでした。
 the shipment email is not sent,配送メールは未送信です。
@@ -12655,7 +12654,7 @@ terms and conditions</a>.","このサービスは、動的な一連のレポー�
                 「詳細なレポートに移動する」のリンクをクリックすることで、管理パネル外のパーソナライズされたダッシュボードで、レポートに安全にアクセスできます。</br>
                 詳細については、<a href=""https://magento.com/legal/terms/cloud-terms"">契約条件をご覧下さい。</a>"
 This sets whether catalog prices entered from Magento Admin include tax.,これは、Magento 管理画面から入力されたカタログ価格が税込価格であるかどうかを設定します。
-This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.,これは、Magento 管理画面から入力した出荷額と、ゲートウェイから取得した出荷額のどちらが税込であるかを設定します。
+This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.,これは、Magento 管理画面から入力した配送額と、ゲートウェイから取得した配送額のどちらが税込であるかを設定します。
 This setting will be applied when all prices in the specific price interval are equal.,この設定はすべての商品が特定の価格帯にある場合に適用されます。
 This setting will not be taken into account if system has more than one store view.,システムに1つ以上のストアビューがある場合、この設定は考慮されません。
 This shipping method is not available. Please specify the zip code.,この配送方法は有効ではありません。郵便番号を指定してください
@@ -12813,7 +12812,7 @@ Total Amount,合計金額
 Total Cost,合計コスト
 Total Due,合計
 Total for this address,このアドレスへの合計
-Total Fulfilled Quantity,合計出荷済数
+Total Fulfilled Quantity,合計配送済数
 Total Incl. Tax,税含む合計
 Total Invoiced,請求額合計
 Total Invoiced VS Paid Report,請求額と支払額のレポート
@@ -12992,7 +12991,7 @@ Unable to remove rule %1,ルール %1 を削除できません
 Unable to remove Stock Status for product %1,商品 %1 の在庫状況を削除できません
 "Unable to remove Stock with id ""%1""","ID ""%1"" のを取り在庫を除くことができません"
 Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.,現在通貨レートを取得できません。再度お試しいただくか、ストア管理者にお問い合わせください。
-Unable to retrieve shipping label,出荷ラベルの取り出しができません
+Unable to retrieve shipping label,配送ラベルの取り出しができません
 Unable to retrieve tracking,トラッキングを読み込みできません
 Unable to save address. Please check input data.,住所を保存できません。 入力データを確認してください。
 "Unable to save address. Please, check input data.",住所を保存できません。入力データを確認してください。
@@ -13161,10 +13160,10 @@ Update Shopping Cart,ショッピングカートを更新
 Update State,状態を更新する
 Update Status,ステータスを更新
 Update the Product,商品を更新
-Update to your %store_name credit memo,%store_name クレジットメモへの更新
-Update to your %store_name invoice,%store_name 請求書への更新
+Update to your %store_name credit memo,%store_name クレジットメモを更新
+Update to your %store_name invoice,%store_name 請求書を更新
 Update to your %store_name order,%store_name 注文を更新
-Update to your %store_name shipment,%store_name 出荷データへの更新
+Update to your %store_name shipment,%store_name 配送データを更新
 Update Totals,合計更新
 Update Wish List,ほしい物リストを更新
 "Update with id ""%1"" does not exist.","ID ""%1"" の更新は存在しません。"
@@ -13643,7 +13642,7 @@ We can't create a backup right now. Please try again later.,現在バックア�
 We can't create a billing agreement for this order.,この注文のための支払契約を作成できません。
 We can't create a return right now. Please try again later.,今すぐ返品をすることはできません。 後でもう一度お試しください。
 We can't create a return transaction for order #%1.,注文 #%1 の返品取引を作成することはできません。
-We can't create a shipping label right now.,今は出荷ラベルを作成できません。
+We can't create a shipping label right now.,今は配送ラベルを作成できません。
 We can't create credit memo for the order.,この注文へのクレジットメモを作成できません。
 We can't create creditmemo for the invoice.,請求書のクレジットメモを作成することはできません。
 "We can't create directory ""%1""","ディレクトリ ""%1"" を作成することはできません"
@@ -14025,8 +14024,8 @@ WebAPI Actions,WebAPIアクション
 WebApi Challenge Domain,WebApiチャレンジドメイン
 "WebapiAsync config for ""%lookupKey"" does not exist.","""%lookupKey"" に対する WebapiAsync設定が存在しません。"
 "WebapiAsync config for ""%topicName"" does not exist.","""%topicName""のWebapiAsyncの設定が存在しません。"
-Webhook URL,Webhook URL
-Webhook URL should be set in your Cybersource account as Transaction Response Page.,Webhook URL をお使いのCybersource アカウントにトランザクションレスポンスページとしてセットしてください。
+Webhook URL,ウェブフック URL
+Webhook URL should be set in your Cybersource account as Transaction Response Page.,ウェブフック URL をお使いの Cybersource アカウントにトランザクションレスポンスページとしてセットしてください。
 Webservicex,WebserviceX
 Website,ウェブサイト
 Website 1,ウェブサイト 1
@@ -14083,7 +14082,7 @@ When you enable this option your site may slow down.,このオプションを有
 "Whether to create a billing agreement, if there are no active billing agreements available.",利用できる支払契約がない場合は、支払契約を作成する
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown","""Show X Per Page""ドロップダウン内にて""All""を表示するかどうか"
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown.",「表示件数」ドロップダウンに「すべて」のオプションを表示するかを指定します。
-Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic),国内以外の出荷に対してドキュメントサービスまたは非ドキュメントサービスを使用するかどうか。（EU内の出荷は国内出荷と区分される）
+Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic),国内以外の配送に対してドキュメントサービスまたは非ドキュメントサービスを使用するかどうか。（EU内の配送は国内配送と区分される）
 which means all admin users will be required to configure an available method before they can login.,つまり、すべての管理者ユーザーは、ログインする前に使用可能な方法を設定する必要があります。
 Widget,ウィジェット
 "Widget ""%1""","ウィジェット ""%1"""
@@ -14266,7 +14265,7 @@ You can't add this many to your cart.,カートに多く商品を追加するこ
 You can't change status of cache type(s) in production mode,プロダクションモードでキャッシュタイプの状態を変更できません。
 "You can't configure ""%field"" because you have chosen Global Shipping configuration.","グローバル配送の設定を選択したので、""%field ""を設定できません。"
 You can't create a creditmemo without products.,商品なしでクレジットメモを作成することはできません。
-You can't create a shipment without products.,商品を持たない出荷データは作成できません。
+You can't create a shipment without products.,商品を持たない配送データは作成できません。
 You can't create an invoice without products.,商品なしに請求書を作成できません。
 "You can't delete group ""%1"".","グループ""%1""は削除できません。"
 You can't delete the default wish list.,デフォルトのほしい物リストは削除できません。
@@ -14608,10 +14607,10 @@ You sent %1 of %2 invitation(s).,あなたは %2 の招待状の %1 を送りま
 You sent the invitation for %1.,%1 の招待状を送信しました。
 You sent the message.,メッセージを送りました。
 You sent the order email.,注文メールを送信しました
-You sent the shipment.,荷物を発送しました。
+You sent the shipment.,荷物を配送しました。
 You shared the gift registry for %1 emails.,%1 のメールのギフトレジストリを共有しました。
 You should correct the quantity for the product.,商品の数量を修正してください。
-You should select one or more items to ship.,出荷する1つ以上の品目を選択する必要があります。
+You should select one or more items to ship.,配送する1つ以上の品目を選択する必要があります。
 You submitted Return #%1.,返品 #%1 を提出しました。
 You submitted the RMA request.,RMAリクエストを提出しました。
 You submitted your review for moderation.,リビューを投稿しました。
@@ -14664,7 +14663,7 @@ You’re no longer Company Admin,会社管理者ではなくなりました
 Your %store_name email and password has been changed,%store_name のメールアドレスとパスワードが変更されました
 Your %store_name email has been changed,%store_name のメールアドレスが変更されました
 Your %store_name order confirmation,あなたの %store_name 注文の確認
-Your %store_name order has shipped,%store_name 注文が出荷されました
+Your %store_name order has shipped,%store_name 注文が配送されました
 Your %store_name order is ready for pickup,%store_name でのご注文がご指定の店舗でお受取り頂ける状態になりました
 Your %store_name password has been changed,%store_name のパスワードが変更されました
 "Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.",あなたのアカウントは非アクティブに設定されており、現在会社アカウントにアクセスすることができません。 間違いだと思われる場合は、マネージャーに詳細をお問い合わせください。
@@ -14808,7 +14807,7 @@ Your subscription has been confirmed.,ニュースレター購読登録を完了
 Your Tax ID cannot be validated.,税IDは承認できません。
 Your VAT ID was successfully validated.,VAT IDは問題なく認証されました。
 Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.,ウェブサーバーは誤って設定されており重要なファイルに権限のないアクセスを許可します。 ホストプロバイダーに連絡してください。
-"Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Webhook URLを <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">設定画面</a>で設定し、Signifydにより保証されたWebhookをご利用ください。Webhookは、Signifiedの保証契約をMagentoに同期するために使用されます。"
+"Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","ウェブフック URL を <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">設定画面</a>で設定し、Signifyd により保証されたウェブフックをご利用ください。ウェブフックは、Signified の保証契約を Magento に同期するために使用されます。"
 Your wish list has been shared.,ほしい物リストは共有されました。
 Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx,郵便番号は 902xx-xxxx から 905-xx-xxxx の間でなければなりません
 YouTube and Vimeo supported.,YouTubeとビデオはサポートされます
@@ -14841,7 +14840,7 @@ Invalid content,無効なコンテンツ
 """itemModel"" should be a ""%instance"" instance",「itemModel」は「%instance」インスタンスである必要があります
 No such option with ID %1,ID %1を持つオプションは存在しません
 `%1` and `%2` can't be used at the same time.,「%1」と「%2」を同時に使用することはできません。
-Product search has been disabled.,製品検索は無効になっています。
+Product search has been disabled.,商品検索は無効になっています。
 Filename is too long; must be %1 characters or less,ファイル名が長すぎます。は%1文字以下にする必要があります
 Code (%1) is a reserved key and cannot be used as attribute code.,コード(%1)は予約済みのキーなので、属性コードとして使用できません。
 The specified Catalog media URL format is not supported.,指定したカタログメディア URL の形式はサポートされていません。
@@ -14901,8 +14900,8 @@ Customer must be logged,お客様のログが必要
 Something was wrong during assigning customer.,顧客の割り当て中に問題が発生しました。
 Something was wrong during creating compare list,比較リストを作成中に問題が発生しました
 Something was wrong during removing compare list,比較リストを削除中に問題が発生しました
-Something was wrong during removing products from compare list,比較リストから製品を削除中にエラーが発生しました
-The product with SKU %sku is out of stock.,SKU %sku の製品は在庫切れです。
+Something was wrong during removing products from compare list,比較リストから商品を削除中にエラーが発生しました
+The product with SKU %sku is out of stock.,SKU %sku の商品は在庫切れです。
 """itemModel"" should be a ""%instance"" instance",「itemModel」は「%instance」インスタンスである必要があります
 Today,今日
 Address not found.,アドレスが見つかりません。
@@ -14914,7 +14913,7 @@ Customer does not exist,顧客が存在しません
 Please add required gift card fields,必須のギフトカードフィールドを追加してください
 ". ', e.g. <i>product_images</i>, <i>import_images/batch1</i>.<br><br>For example, in case <i>product_images</i>, files should be placed into <i>&lt;Magento root directory&gt;/' . . '/product_images</i> folder.<br><br>If remote storage is enabled, in case <i>product_images</i>, files should be placed into <i>&lt;Remote Storage&gt;/' . . '/product_images</i> folder.' 'i' 'br'",".'、例：<i>product_images</i> , <i>import_images/batch1</i> .<br><br>例えば、<i>product_images</i> の場合、ファイルは<i>&lt;Magentoのルートディレクトリ&gt;/'に置く必要があります。. '/product_images</i>  folder.<br><br>リモートストレージが有効な場合、<i>product_images</i> の場合は、ファイルを<i>&lt;Remoteストレージ&gt;/'に配置する必要があります。. '/product_images</i> フォルダー。' 'i' 'br'"
 "Content of uploaded file was changed, please re-upload the file",アップロードされたファイルのコンテンツが変更されました。ファイルを再度アップロードしてください
-Something went wrong while updating the product(s) stock status.,製品の在庫状態を更新中にエラーが発生しました。
+Something went wrong while updating the product(s) stock status.,商品の在庫状態を更新中にエラーが発生しました。
 SelectBuilder must implement SelectBuilderInterface.,SelectBuilderはSelectBuilderInterfaceを実装する必要があります。
 Customer with this ID no longer exists.,この ID を持つ顧客は既に存在しません。
 Customer email provided does not exist,指定された顧客のメールが存在しません
@@ -14983,13 +14982,13 @@ Requisition List feature is not available.,購買依頼リスト機能が使用�
 "Specify the ""sourceRequisitionListUid"" value.",「sourceRequisitionListUid」値を指定します。
 "Specify the ""requisitionListItem"" value.",「requisitionListItem」値を指定します。
 "Specify the ""requisitionListItemUids"" value.",「requisitionListItemUids」値を指定します。
-"Missing key ""product"" in requisition data",要求データに主要「製品」がありません
+"Missing key ""product"" in requisition data",要求データに主要「商品」がありません
 """uid"" value should be specified",「uid」値を指定する必要があります
 Address for returns is not configured in admin.,返送先のアドレスが管理で設定されていません。
 Please enter return_shipping_tracking_uid.,return_shipping_tracking_uid と入力してください。
 RMA is disabled.,RMAが無効です。
 You cannot return,戻ることはできません
-You cannot return less than 1 product.,1つ未満の製品は返送できません。
+You cannot return less than 1 product.,1つ未満の商品は返送できません。
 The coupon code has been removed.,クーポンコードは削除されました。
 "For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.",タイプ「ローカルサーバー」では、Magentoのインストールに対する相対パス（var/export、var/import、var/export/some/dirなど）を使用します。リモートストレージが構成されている場合は、import_export/export 、import_export/import 、import_export/export/some/dirなどのパスを使用します。
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.",タイプ「ローカルサーバー」では、Magentoのインストールに対する相対パス（var/export、var/import、var/export/some/dirなど）を使用します。リモートストレージが構成されている場合は、import_export/export 、import_export/import 、import_export/export/some/dirなどのパスを使用します。
@@ -15011,7 +15010,7 @@ View all,すべて表示
 More from this series,このシリーズの他のアイテム
 More from this model,このモデルの詳細
 System Messages,システムメッセージ
-User agent exceptions override product and CMS pages rules.,ユーザーエージェントの例外は、製品とCMSページの規則を上書きします。
+User agent exceptions override product and CMS pages rules.,ユーザーエージェントの例外は、商品とCMSページの規則を上書きします。
 Search strings are either normal strings or regular expressions (PCRE). They are matched in the same order as entered.,検索文字列は、通常の文字列または通常の式(PCRE)です。 入力した順に一致します。
 Examples,例
 Selected Attributes\:,選択された属性\ :
@@ -15033,9 +15032,9 @@ Show My Quotes,自分の見積もりを表示
 The shipping address specified on the quote was deleted from your Address Book.,見積もりで指定された配送先住所はアドレス帳から削除されました。
 "To proceed with the checkout, go ",チェックアウトを続行するには、次に移動します： 
 back to the quote,見積もりに戻る
- and update the shipping address., および発送先住所を更新します。
+ and update the shipping address., および配送先住所を更新します。
 The shipping address specified on the quote was deleted from your Address Book. ,見積もりで指定された配送先住所はアドレス帳から削除されました。 
-"To proceed with the checkout, update the shipping address.",チェックアウトを続行するには、発送先住所を更新します。
+"To proceed with the checkout, update the shipping address.",チェックアウトを続行するには、配送先住所を更新します。
 "Your shipping address is locked. To change your shipping address, go ",配送先住所がロックされています。配送先住所を変更するには、次に移動します： 
 Edit Banner Text,バナーテキストを編集
 Grid Size,グリッドサイズ
@@ -15111,7 +15110,7 @@ Edit asset details,アセットの詳細を編集
 Create folder,フォルダーを作成
 Delete folder,フォルダーを削除
 – Please Select assets –, - アセットを選択してください -
-"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes ? Page Builder can be selected as the “input type” to design layouts and create content.",ページレイアウトの設計、Magentoコンテンツ(カテゴリデータ、CMSコンテンツおよびブロック)の追加、テキストの書式設定を行う高度なツールが含まれています。<br /><br />製品属性の場合：Page Builderは「入力タイプ」として選択してレイアウトを作成できます。
+"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes ? Page Builder can be selected as the “input type” to design layouts and create content.",ページレイアウトの設計、Magentoコンテンツ(カテゴリデータ、CMSコンテンツおよびブロック)の追加、テキストの書式設定を行う高度なツールが含まれています。<br /><br />商品属性の場合：Page Builderは「入力タイプ」として選択してレイアウトを作成できます。
 "
                         
                         <p>Style changes will only affect this breakpoint</p>
@@ -15204,7 +15203,7 @@ System Messages,システムメッセージ
 Adobe Api Key is required!,Adobe APIキーが必要です。
 Please enable your Store View before using this Web Site as Default,この Web サイトをデフォルトとして使用する前に、お使いのストア表示を有効にしてください
 Incorrect value of input.type,input.type の不正な値
-Product relations processor must implement %1.,製品関係プロセッサは %1 を実装する必要があります。
+Product relations processor must implement %1.,商品関係プロセッサは %1 を実装する必要があります。
 configurableOptionValueUids values are incorrect,configurableOptionValueUids の値が正しくありません
 Excluded Website(s),除外するWebサイト
 Select websites you want to exclude from this customer group.,この顧客グループから除外する Web サイトを選択します。
@@ -15304,7 +15303,7 @@ Add to address book,アドレス帳へ追加
 modal_title_text,modal_title_text
 : You are about to set max session size in admin to be lower than recommended default session size. Low max session size in admin could break admin functionalities such as admin panel login. Are you sure you want to make this change?,: 管理者のセッションの最大サイズを、推奨されるデフォルトのセッションサイズより小さく設定しようとしています。管理者の最大セッションサイズが小さいと、管理パネルのログインなどの管理機能が機能しなくなる可能性があります。この変更を行いますか？
 : You are about to set max session size in storefront to be lower than  recommended default session size. Low max session size in storefront could break storefront functionalities such as customer login. Are you sure you want to make this change?,: ストアフロントの最大セッションサイズを、推奨されるデフォルトセッションサイズより小さく設定しようとしています。ストアフロントの最大セッションサイズが小さいと、お客様のログインなどのストアフロント機能が壊れる場合があります。この変更を行いますか？
-This shipment no longer exists.,この出荷は既に存在しません。
+This shipment no longer exists.,この配送は既に存在しません。
 Are you sure you want to delete this card: %1?,このカードを削除してもよろしいですか：%1？
 'The current request does not expect the next parameters: ' .,「現在のリクエストでは次のパラメーターが必要ではありません：」.
 The wishlist configuration is currently disabled,ほしい物リスト設定は現在無効です
@@ -15313,8 +15312,8 @@ Could not find the specified wishlist,指定されたほしい物リストが見
 "The wishlist item ids ""' . . '"" were not found.",ほしい物リスト項目 id「' . . '」が見つかりませんでした。
 "The wishlist item with ID ""%1"" does not belong to the wishlist",IDが「%1」のほしい物リスト項目は、ほしい物リストに属していません
 The quantity of a wishlist item cannot be 0,ほしい物リスト項目の数量は 0 にできません
-"Could not find product for the wishlist item with ID ""%1""",ID が「%1」のほしい物リスト項目の製品が見つかりませんでした
-Could not prepare product for the wishlist item with ID %1,ID %1 のほしい物リスト項目の製品を準備できませんでした
+"Could not find product for the wishlist item with ID ""%1""",ID が「%1」のほしい物リスト項目の商品が見つかりませんでした
+Could not prepare product for the wishlist item with ID %1,ID %1 のほしい物リスト項目の商品を準備できませんでした
  Item(s), 項目
 Items ,項目 
  to , 宛先 
@@ -15401,9 +15400,9 @@ Error during placing order occurred,発注中にエラーが発生しました
 'Error during placing order occurred. ' .,「発注中にエラーが発生しました。」
 Order information is not available yet. Try again in a couple of minutes.,注文情報はまだ利用できません。数分後に再度お試しください。
 Received,受信日時
-Add product of type,次のタイプの製品を追加
+Add product of type,次のタイプの商品を追加
 Edit ,編集 
-Some of the products are disabled.,一部の製品が無効です。
+Some of the products are disabled.,一部の商品が無効です。
 Save options,保存オプション
 We cannot create the folder under the selected directory.,選択したディレクトリの下にフォルダーを作成できません。
 We cannot delete the selected directory.,選択したディレクトリは削除できません。
@@ -15430,9 +15429,9 @@ PayPal On-boarding urls response should contain next fields: %1,PayPal On-boardi
 Next fields are missed: %1,次のフィールドが見つかりません : %1
 Wrong merchant signature,マーチャントの署名が間違っています
 Under PayPal Checkout buttons,PayPal チェックアウトボタンの下
-Product alerts are sent successfully.,製品アラートは正常に送信されました。
-"Sorry, something went wrong during mailing product alerts. Please see log for details.",申し訳ありませんが、製品アラートのメール送信中に問題が発生しました。詳細はログを参照してください。
-Mailing of Product Alerts,製品アラートのメーリング
+Product alerts are sent successfully.,商品アラートは正常に送信されました。
+"Sorry, something went wrong during mailing product alerts. Please see log for details.",申し訳ありませんが、商品アラートのメール送信中に問題が発生しました。詳細はログを参照してください。
+Mailing of Product Alerts,商品アラートのメーリング
 "The billing address must contain either ""customer_address_id"", ""address"", or ""same_as_shipping"".",請求先住所には、「customer_address_id」、「address」または「same_as_shipping」のいずれかを含める必要があります。
 "Could not use the ""same_as_shipping"" option, because multiple shipping addresses have been set.",複数の配送先住所が設定されているため、「same_as_shipping」オプションを使用できませんでした。
 "Could not use the ""same_as_shipping"" option, because the shipping address has not been set.",配送先住所が設定されていないため、「same_as_shipping」オプションを使用できませんでした。
@@ -15502,10 +15501,10 @@ The quote has a status that does not allow it to be deleted.,見積もりは削�
 "The billing address cannot contain ""customer_address_uid"" and ""address"" at the same time.",請求先住所に「customer_address_uid」と「address」を同時に含めることはできません。
 The current customer does not have permission to set payment method on the negotiable quote.,現在の顧客は、交渉可能な見積もりに支払方法を設定する権限がありません。
 "The quote %quoteId is currently locked, and you cannot set the payment method at the moment.",見積もり %quoteId  は現在ロックされているため、現時点では支払方法を設定できません。
-"The shipping address must contain either ""customer_address_uid"" or ""address"".",発送先住所には「customer_address_uid」または「address」が含まれている必要があります。
-"The shipping address cannot contain ""customer_address_uid"" and ""address"" at the same time.",発送先住所に「customer_address_uid」と「address」を同時に含めることはできません。
-The current customer does not have permission to set shipping method on the negotiable quote.,現在の顧客は、交渉可能な見積もりに発送方法を設定する権限がありません。
-"The quote %quoteId is currently locked, and you cannot set the shipping method at the moment.",見積もり %quoteId  は現在ロックされているため、現時点では発送方法を設定できません。
+"The shipping address must contain either ""customer_address_uid"" or ""address"".",配送先住所には「customer_address_uid」または「address」が含まれている必要があります。
+"The shipping address cannot contain ""customer_address_uid"" and ""address"" at the same time.",配送先住所に「customer_address_uid」と「address」を同時に含めることはできません。
+The current customer does not have permission to set shipping method on the negotiable quote.,現在の顧客は、交渉可能な見積もりに配送方法を設定する権限がありません。
+"The quote %quoteId is currently locked, and you cannot set the shipping method at the moment.",見積もり %quoteId  は現在ロックされているため、現時点では配送方法を設定できません。
 "Missing key ""model"" in negotiable quote address data",交渉可能な見積もりの住所データにキー「model」がありません
 Unsupported negotiable quote address type,サポートされていない交渉可能な見積もりの住所タイプです
 "Required parameter ""quote_uid"" is missing",必須パラメーター「quote_uid」がありません
@@ -15578,7 +15577,7 @@ Module is disabled,モジュールが無効です
 Admin Adobe IMS integration is %1,Admin Adobe IMS 統合は %1 です
 Adobe Sign-In is disabled.,アドビサインインが無効です。
 Could not connect to Adobe IMS Service: %1.,Adobe IMS サービスに接続できませんでした: %1。
-Could not get a valid response from Adobe IMS Service.,Adobe IMS サービスから有効な応答を取得できませんでした。
+Could not get a valid response from Adobe IMS Service.,Adobe IMS サービスから有効なレスポンスを取得できませんでした。
 Could not verify the access_token,access_token を確認できませんでした
 Profile body is empty,プロファイル本文が空です
 Could not save ims token.,ims トークンを保存できませんでした。
@@ -15606,7 +15605,7 @@ No valid Client ID provided,有効なクライアント ID が指定されてい
 No valid Client Secret provided,有効なクライアント秘密鍵が指定されていません
 2FA is required when enabling the Admin Adobe IMS Module,Admin Adobe IMS モジュールを有効にする場合は 2FA が必要です
 Can't check user membership in organization.,組織のユーザーメンバーシップを確認できません。
-Could not check Organization Membership. Response is empty.,組織メンバーシップを確認できませんでした。応答が空です。
+Could not check Organization Membership. Response is empty.,組織メンバーシップを確認できませんでした。レスポンスが空です。
 User is not a member of configured Adobe Organization.,ユーザーは設定されたアドビ組織のメンバーではありません。
 Organization Membership check can't be performed,組織のメンバーシップチェックを実行できません
 The ims token wasn't found.,ims トークンが見つかりませんでした。
@@ -15673,7 +15672,7 @@ Create low quantity notification,少量通知を作成
 Remove low quantity notification,少量通知を削除
 Inventory Source Selection,在庫倉庫選択
 Source selection algorithm result,倉庫選択アルゴリズムの結果
-"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes ? Page Builder can be selected as the “input type” to design layouts and create content.",ページレイアウトのデザイン、Magento コンテンツ (商品およびカテゴリデータ、CMS コンテンツおよびブロック) の追加、テキストの書式設定を行うための高度なツールが含まれています。<br /><br /> 製品属性の場合 : ページビルダーを「入力タイプ」として選択して、レイアウトのデザインやコンテンツの作成を行うことができます。
+"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes ? Page Builder can be selected as the “input type” to design layouts and create content.",ページレイアウトのデザイン、Magento コンテンツ (商品およびカテゴリデータ、CMS コンテンツおよびブロック) の追加、テキストの書式設定を行うための高度なツールが含まれています。<br /><br /> 商品属性の場合 : ページビルダーを「入力タイプ」として選択して、レイアウトのデザインやコンテンツの作成を行うことができます。
 Column Line,列ライン
 "
                         
@@ -15696,7 +15695,7 @@ Additionally Show Order Total Without Tax,さらに税抜きの注文合計を�
 "The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.","エラーが発生したため、属性セットを削除できませんでした。再度お試し下さい — エラーが解決しない場合は、後でやり直してください。"
 "'Validation Failed: ' .","'検証に失敗しました：' ."
 "Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","パス""%value% ""に親ディレクトリトラバーサル (""../"", ""..\") を含めることはできません。"
-"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes — Page Builder can be selected as the “input type” to design layouts and create content.","ページレイアウトのデザイン、Magento コンテンツ (商品およびカテゴリデータ、CMS コンテンツおよびブロック) の追加、テキストの書式設定を行うための高度なツールが含まれています。<br /><br /> 製品属性の場合 : ページビルダーを「入力タイプ」として選択して、レイアウトのデザインやコンテンツの作成を行うことができます。"
+"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes — Page Builder can be selected as the “input type” to design layouts and create content.","ページレイアウトのデザイン、Magento コンテンツ (商品およびカテゴリデータ、CMS コンテンツおよびブロック) の追加、テキストの書式設定を行うための高度なツールが含まれています。<br /><br /> 商品属性の場合 : ページビルダーを「入力タイプ」として選択して、レイアウトのデザインやコンテンツの作成を行うことができます。"
 "The url has invalid characters. Please correct and try again.","このURLには不正な文字列が含まれています。修正してやり直してください。"
 "Enable Guest Checkout Login","ゲストチェックアウトログインを有効にする"
 "Enabling this setting will allow unauthenticated users to query if an e-mail address is already associated with a customer account. This can be used to enhance the checkout workflow for guests that do not realize they already have an account but comes at the cost of exposing information to unauthenticated users.","この設定を有効にすると、未認証のユーザーが、メールアドレスがすでに顧客アカウントと関連付けられているかどうかを照会できるようになります。この機能は、すでにアカウントを持っていることに気づいていないゲストの購入ワークフローを強化するために使用できますが、未認証のユーザーに情報を公開する代償を伴います。"
@@ -15708,3 +15707,569 @@ Additionally Show Order Total Without Tax,さらに税抜きの注文合計を�
 "Coupon quantity should be less than or equal to the coupon quantity in the store configuration.","クーポンの数量はストア設定のクーポンの数量以下でなければなりません。"
 "Code Quantity Limit","クーポン数量の上限"
 "For better performance max value allowed is 250,000. Set 0 to disable it.","良好なパフォーマンスのために上限値は250,000となっています。0にすると無効にできます。"
+"Invalid state returned in callback from IMS.","IMS からのコールバックで無効なステートが返されました。"
+"Invalid state returned from IMS","IMS から無効なステートが返されました"
+"Send Test Event",テストイベントを送信
+"Instance ID contains invalid characters. Only alphanumeric characters, underscores, and hyphens are allowed.","インスタンス ID に無効な文字が含まれています。英数字、アンダースコア、ハイフンのみを使用できます。"
+"'Workspace Configuration has the wrong format: ' .","'ワークスペース設定のフォーマットが正しくありません： ' 。"
+"Workspace Configuration has the wrong format. Missed the required properties.","ワークスペース設定のフォーマットが正しくありません。必要なプロパティが見つかりません。"
+"Event list",イベントリスト
+"All elements in excludedMethods must be type of the string.","excludedMethods のすべての要素は、文字列の型である必要があります。"
+"Could not fetch namespace from the file: %1","ファイルから名前空間を取得できませんでした： %1"
+"Could not fetch Class or Interface name from the file: %1","ファイルからクラス名またはインターフェイス名を取得できませんでした： %1"
+"Event prefix name cannot be fetched from the file: %1","イベントプレフィックス名をファイルから取得できません： %1"
+"Wrong type of input argument",入力引数のタイプが正しくありません
+"Cannot get details for event %1","イベント %1 の詳細を取得できません"
+"Cannot get details about event %1","イベント %1 の詳細を取得できません"
+"Wrong configuration in ""%1"" section of app/etc/config.php file for the event ""%2"". The configuration must be in array format with at least one field configured.","イベント「%2」の app/etc/config.php ファイルの「%1」セクションの設定が間違っています。設定は、少なくとも 1 つのフィールドが設定された配列形式である必要があります。"
+"The event storage writer class is not registered for the destination: %1","イベントストレージライタークラスが宛先に登録されていません： %1"
+"No event provider is configured. Please configure the event provider before subscribing to events.",イベントプロバイダーが構成されていません。イベントを購読する前に、イベントプロバイダーを設定してください。
+"Instance of ""%1"" is expected, got ""%2"" instead.",「%1」のインスタンスが必要です。代わりに「%2」を取得しました。
+"Input data must be in string format or can be converted to string",入力データは、文字列形式である必要があります。または、文字列に変換できます
+"Operator %1 is not registered","オペレーター %1 は登録されていません"
+"Regex operation failed: %1","正規表現の操作に失敗しました： %1"
+"Can't create a processor class ""%1"" for Event ""%2"". %3","イベント「%2」のプロセッサクラス「%1」を作成できません。%3"
+"Processor class ""%1"" for Event ""%2"" does not implement EventDataProcessorInterface","イベント「%2」のプロセッサクラス「%1」に EventDataProcessorInterface が実装されていません"
+"Field name must be contained in the field options value for converter ""%1""","コンバータ「%1」のフィールドオプション値にフィールド名を含める必要があります"
+"Field ""%1"" can not be provided twice in the event subscription","フィールド「%1」をイベント配信登録で 2 回指定することはできません"
+"Can't create a converter class ""%1"" for field ""%2"". Error: %3","フィールド「%2」のコンバータクラス「%1」を作成できません。エラー： %3"
+"Converter class ""%1"" for field ""%2"" does not implement FieldConverterInterface","フィールド「%2」のコンバータクラス「%1」は FieldConverterInterface を実装していません"
+"Only the following properties are allowed for an event field: %1","イベントフィールドには次のプロパティのみを使用できます： %1"
+"The destination ""%1"" is not registered. The list of registered destinations: [%2]","宛先""%1""が登録されていません。登録された宛先の一覧： [%2]"
+"Event ""%1"" is not defined in the list of supported events","サポートされているイベントのリストにイベント""%1""が定義されていません"
+"Event code must consist of a type label and an event code separated by a dot: ""<type>.<event_code>"". Valid types: %1","イベントコードは、タイプラベルとイベントコードをドット <type>.<event_code> で区切って指定する必要があります。有効な種類： %1"
+"Invalid event type ""%1"". Valid types: %2","イベントタイプ""%1""が無効です。有効な種類： %2"
+"""%1"" cannot be used as the event code for a rule-based event. This event code is already used by a supported event.","""%1""は、ルールベースのイベントのイベントコードとして使用できません。このイベントコードはサポートされているイベントで既に使用されています。"
+"Event is already subscribed ""%1"" ","イベントはすでに""%1""を購読しています。 "
+"Could not register event ""%1"" because the required classes have not been generated. ' . . 'You can use the --force option to suppress this error. You must subsequently generate the events module and perform dependency injection compilation.","必要なクラスが生成されていないため、イベント""%1""を登録できませんでした。' . . 'このエラーを抑制するには、—force オプションを使用できます。その後、イベントモジュールを生成し、依存性注入コンパイルを実行する必要があります。"
+"Cannot unsubscribe ""%1"" because it is not registered in the ""%2"" section of the config.php file.","「%1」は、config.php ファイルの「%2」セクションに登録されていないため、購読解除できません。"
+"The ""%1"" event is not registered. You cannot unsubscribe from it.",「%1」イベントは登録されていません。この配信は購読解除できません。
+"The ""%1"" event has already been unsubscribed.",「%1」イベントは既に購読解除されています。
+"At least one field must be configured for the event.","イベントには少なくとも 1 つのフィールドを設定する必要があります。"
+"""%1"" is an invalid event rule operator name","""%1""は無効なイベントルール演算子名です"
+"Cannot decode data",データをデコードできません
+"Cannot encode data",データをエンコードできません
+"Cannot decode message metadata",メッセージメタデータをデコードできません
+"Cannot encode message metadata",メッセージメタデータをエンコードできません
+"wrong json format","不正な JSON フォーマット"
+"validation error",検証エラー
+"Wrong event prefix",不正なイベントプレフィックス
+"Failed to convert data",データを変換できませんでした
+"operator error happened",オペレーターエラーが発生しました
+"Class ' . . ' does not exist","クラス「 . . 」が存在しません"
+"All elements in excludedMethods must be type of the string.","excludedMethods のすべての要素は、文字列の型である必要があります。"
+"Could not fetch namespace from the file: %1","ファイルから名前空間を取得できませんでした： %1"
+"Could not fetch Class or Interface name from the file: %1","ファイルからクラス名またはインターフェイス名を取得できませんでした： %1"
+"Event prefix name cannot be fetched from the file: %1","イベントプレフィックス名をファイルから取得できません： %1"
+"Edit hook: %name","フックを編集： %name"
+"A hook with id ""%value"" can not be loaded. Error: ""%error"".","ID が「%value」のフックはロードできません。エラー： %error"
+"Hook with id ""%value"" does not exist.","ID「%value」のフックは存在しません。"
+Webhooks,ウェブフック
+"New Webhook",新規ウェブフック
+"The plugin for the webhook ""%1"" could not be found. Run ""%2"" CLI command to generate module with required plugins.","ウェブフック「%1」のプラグインが見つかりませんでした。「%2」 CLI コマンドを実行して、必要なプラグインを含むモジュールを生成します。"
+"The hook has been saved.",フックは保存されました。
+"A hook with the same name, method and batch already exists.",同じ名前、同じメソッド、同じバッチを持つフックがすでに存在します。
+"The webhook with the specified method name does not exist: %1","指定されたメソッド名のウェブフックは存在しません： %1"
+"Cannot deserialize hook data for hook with id '%1'.","ID 「%1」のフックのフックデータを逆シリアル化できません。"
+"Hook data for hook with id '%1' has an unexpected type. Expected an array.","ID 「%1」のフックのフックデータに予期しない型があります。配列が必要です。"
+"Edit hook: %1","フックを編集： %1"
+"Invalid config",無効な設定
+"connection is not defined",接続が定義されていません
+"Class ' . . ' does not exist","クラス「 . . 」が存在しません"
+"Can't create field converter class ""%1"": ""%2""","フィールドコンバータクラス「%1」を作成できません： 「%2」"
+"Converter class ""%1"" does not implement ""%2""","コンバータクラス「%1」は「%2」を実装していません"
+"Input data must be in string format or can be converted to string",入力データは、文字列形式である必要があります。または、文字列に変換できます
+"Regex operation failed: %1","正規表現の操作に失敗しました： %1"
+"Operator %1 is not registered","オペレーター %1 は登録されていません"
+"Can't create resolver class ""%1"": ""%2""","リゾルバークラス「%1」を作成できません： 「%2」"
+"Resolver class ""%1"" doesn't implement ""%2""","リゾルバークラス「%1」は「%2」を実装していません"
+"Wrong webhook prefix. Supported webhooks must have names starting with [%1]","ウェブフックプレフィックスが正しくありません。サポートされているウェブフックには [%1] で始まる名前が必要です"
+"Can't get info about webhook %1. Error: %2","ウェブフック %1 に関する情報を取得できません。エラー： %2"
+"Cannot get details about webhook %1","ウェブフック %1 の詳細を取得できません"
+"Unable to add the value by path ""%1"" for hook ""%2""","フック「%2」のパス「%1」で値を追加できません"
+"The path part ""%1"" does not exist.","パス部分「%1」は存在しません。"
+"Unable to remove a value with path ""%1"" for hook ""%2""","フック「%2」のパス「%1」の値を削除できません"
+"Unable to replace the value by path ""%1"" for hook ""%2""","値をフック「%2」のパス「%1」で置き換えることができません"
+"Failed to create an instance of %1: %2","%1 のインスタンスを作成できませんでした： %2"
+"Operation %1 is not registered","操作 %1 は登録されていません"
+"The required parameters are missed in the webhook response: %1","必要なパラメーターが ウェブフックレスポンスに見つかりません： %1"
+"Response status is not success: %1, %2","レスポンスステータスが成功ではありません： %1、%2"
+"Unable to parse response %1","レスポンス %1 を解析できません"
+"The response has a wrong format",レスポンスのフォーマットが正しくありません
+"The response has a wrong format. Unable to read operation value.",レスポンスのフォーマットが正しくありません。操作値を読み取れません。
+"The response must contain at least one operation.","レスポンスには少なくとも 1 つの操作が含まれている必要があります。"
+"Can not process the response: %1","レスポンスを処理できません： %1"
+"Operation ""not-registered"" is not registered",操作「未登録」は登録されていません
+"The required parameters are missed in the webhook response: path","必要なパラメーターがウェブフックレスポンスに見つかりません：パス"
+"Instance ID not found in configuration","設定にインスタンス ID が見つかりません"
+"Private Key not found in configuration",秘密鍵が設定に見つかりません
+"Could not find Adobe I/O Workspace Configuration information","構成ワークスペースの Adobe I/O 情報が見つかりません"
+"Could not fetch Adobe I/O Workspace Configuration: %1","次の Adobe I/O ワークスペース構成を取得できませんでした： %1"
+"Adobe I/O Workspace Configuration has the wrong format","Adobe I/O ワークスペース設定のフォーマットが正しくありません"
+"Environment with type ""%1"" does not exist. Available environment types are: ""%2""","タイプ「%1」の環境は存在しません。使用可能な環境の種類： 「%2」"
+"Credentials with type %1 are not registered","種類が %1 の認証情報は登録されていません"
+"Jwt credentials is not found in the Adobe I/O Workspace Configuration","Adobe I/O ワークスペース設定に JWT 認証情報が見つかりません"
+"OAuth credentials is not found in the Adobe I/O Workspace Configuration","Adobe I/O ワークスペース設定に OAuth 認証情報が見つかりません"
+"Adobe I/O Workspace Configuration does not contain credentials","Adobe I/O ワークスペース設定に認証情報が含まれていません"
+"Could not process Adobe I/O Workspace Configuration: %1","ワークスペースの Adobe I/O 構成を処理できませんでした： %1"
+"Unable to authorize",認証できません
+"Event Metadata list was not found",イベントメタデータリストが見つかりませんでした
+"An event provider with the same instance ID already exists.","同じインスタンス ID のイベントプロバイダーがすでに存在します。"
+"Unexpected provider details response: %1","予期しないプロバイダー詳細のレスポンス： %1"
+"Event Registration list was not found",イベント登録リストが見つかりませんでした
+"Service Account Private Key is invalid. Error: %1","サービスアカウントの秘密鍵が無効です。エラー： %1"
+"Profile information for %1","%1 のプロファイル情報"
+"Profile information",プロファイル情報
+"Configuration changes will be applied by consumer soon.",設定の変更は、まもなくコンシューマーによって適用されます。
+"Not Started",未開始
+"In Progress",処理中
+"Finished Successfully",正常に完了しました
+"Finished with Failure",エラーで終了
+"Admin user",管理者ユーザー
+Integration,統合
+"User type not defined",ユーザータイプが定義されていません
+"Failed to extract remote address",リモートアドレスを抽出できませんでした
+"Invalid file open mode ""%1"".","ファイルオープンモード「%1」が無効です。"
+"Cannot create shipment as bundle product ""%1"" has shipment type ""%2"". %3 should be shipped instead.","バンドル商品「%1」には配送タイプ「%2」があるため、配送を作成できません。%3 を代わりに配送する必要があります。"
+"Cannot create shipment as bundle product %1 should be included as well.","バンドル商品 %1 も含める必要があるため、出荷を作成できません。"
+"Cannot create shipment as bundle product ""%1"" has shipment type ""%2"". Shipment should also incorporate bundle options.","バンドル商品「%1」の配送タイプが「%2」であるため、出荷を作成できません。出荷には、バンドルオプションも組み込む必要があります。"
+"No category with the provided `%1` was found",指定された「%1」のカテゴリが見つかりませんでした
+"Unknown Product Type",不明な商品タイプ
+"Directory '%1' could not be created.",ディレクトリ「%1」を作成できませんでした。
+"The ""%1"" value is invalid for stock item ID. Enter either null or a number greater than zero to try again.","在庫品目 ID に対して「%1」値は無効です。null または 0 より大きい数値を入力して再試行してください。"
+"10 is the highest priority/heaviest weighting.","10 は最も高い優先度/重み付けです。"
+"Synchronize website specific attributes values","Web サイト固有の属性値の同期"
+"The ""%1"" attribute value is empty.","「%1」属性値が空です。"
+"The linked product SKU is invalid. Verify the data and try again.","リンクされた商品 SKU が無効です。データを確認し、再度お試しください。"
+"""%field"" is required","「%field」は必須です"
+"""%field"" must be an array","「%field」は配列でなければなりません"
+"Cannot delete non-empty dir.",空でないディレクトリは削除できません。
+"Please select maximum %1 order(s) before executing this mass action.","このマスアクションを実行する前に最大 %1 件の注文を選択してください。"
+"Please select maximum %1 product(s) before executing this mass action.","このマスアクションを実行する前に最大 %1 個の商品を選択してください。"
+"Unexpected data format",予期しないデータフォーマット
+"Something went wrong while saving this configuration.",この設定の保存中にエラーが発生しました。
+"The sender name ""%1"" is not valid. The colon character is not allowed.","送信者名「%1」は無効です。コロンは使用できません。"
+"Invalid file name",無効なファイル名
+"The product with the SKU ""%1"" couldn't be added to the current update.","SKU が「%1」の商品を現在の更新に追加できませんでした。"
+"Name field is required.",名前フィールドは必須です。
+"Comment field is required.",コメントフィールドは必須です。
+"The contact form is unavailable.",連絡先フォームを使用できません。
+"Matched Registered Customers (%1)","一致した登録済み顧客 (%1)"
+"The %fieldName value is invalid. Set the correct value and try again.","%fieldName の値が無効です。正しい値を設定し、再度お試しください。"
+"""%field"" value is required to create an attribute","属性を作成するには「%field」の値が必要です"
+"Data mismatch in query ""%1"", expected indexField: ""%2"". row: ""%3"". Verify query.xml configuration and clean data cache.","クエリ「%1」のデータが一致しません。予期される indexField: 「%2」 行： 「%3」 query.xml の設定を確認し、データキャッシュを消去します。"
+"Update on Save (realtime) is not allowed for this indexer: %1","このインデクサーでは、保存時（リアルタイム）の更新は許可されていません： %1"
+"Mview fail %1","Mview が失敗しました %1"
+"UUID already exists for given records","指定されたレコードには UUID が既に存在します"
+"Directory '%1' could not be created.",ディレクトリ「%1」を作成できませんでした。
+"Configured attribute selected option data providers should implement
+                GetAttributeSelectedOptionInterface","選択したオプションデータプロバイダーが実装する必要がある設定属性
+                GetAttributeSelectedOptionInterface"
+"Configured attribute data providers should implement GetAttributeValueInterface","設定された属性データプロバイダーは、GetAttributeValueInterface を実装する必要があります"
+"Configured attribute data providers should implement GetAttributesFormInterface","設定された属性データプロバイダーは、GetAttributesFormInterface を実装する必要があります"
+"Entity ""%entity"" could not be found.","エンティティ「%entity」が見つかりませんでした。"
+"Attribute code ""%code"" could not be found.","属性コード「%code」が見つかりませんでした。"
+"Configured attribute data providers should implement GetAttributeDataInterface","設定された属性データプロバイダーは、GetAttributeDataInterface を実装する必要があります"
+"Configured attribute selected option data providers should implement
+                    GetAttributeSelectedOptionInterface","選択したオプションデータプロバイダーが実装する必要がある設定属性
+                    GetAttributeSelectedOptionInterface"
+"Required parameter ""%1"" of type string.","文字列型の必須パラメーター「1」。"
+"Form ""%form"" could not be found.","フォーム「%form」が見つかりませんでした。"
+"Required parameters ""attribute_code"" and ""entity_type"" of type String.","文字列型の必須パラメーター「attribute_code」および「entity_type」。"
+"The attribute_code is required to retrieve the metadata","メタデータを取得するには attribute_code が必要です"
+"The entity_type is required to retrieve the metadata","メタデータを取得するには entity_type が必要です"
+"Cannot filter by ""%filter"" as that field does not belong to ""%entity"".","「%filter」でフィルタリングできません。そのフィールドは「%entity」に属していません。"
+"""%field"" value is required to create an attribute","属性を作成するには「%field」の値が必要です"
+"""%field"" value is required to create an attribute option","属性オプションを作成するには「%field」の値が必要です"
+NONE,なし
+PLAIN,プレーン
+LOGIN,ログイン
+SSL,SSL
+TLS,TLS
+Sendmail,Sendmail
+SMTP,SMTP
+"Contact Fedex to Schedule","Fedex に連絡して予定を調整"
+"DropOff at Fedex Location","Fedex でドロップオフ"
+"Use Scheduled Pickup",定期ピックアップを使用
+"On Call",通話中
+"Package Return Program",パッケージ返品プログラム
+"Regular Stop",通常の停止
+Tag,タグ
+"Authentication keys are missing.",認証キーがありません。
+"Authorization Error. No Access Token found with given credentials.",認証エラー。指定された認証情報を持つアクセストークンが見つかりません。
+"Fedex API endpoint URL's must use fedex.com","Fedex API エンドポイント URL ではfedex.comを使用する必要があります。"
+"Specified balance should be a numeric value.",指定された残高は数値でなければなりません。
+"Can't load message for order item",注文項目のメッセージを読み込めません
+"Hydrator %1 configured for resolver %2 must implement %3.","リゾルバー %2 用に構成されたハイドレーター %1 は %3 を実装する必要があります。"
+"Dehydrator %1 configured for resolver %2 must implement %3.","リゾルバー %2 に対して構成されたディハイドレーター %1 は %3 を実装する必要があります。"
+"Too Many Requests",リクエストが多すぎます
+"Entities Processed: %1","処理されたエンティティ： %1"
+"Row %1: %2","行 %1: %2"
+"Import id","インポート ID"
+"The import was not successful.",インポートに失敗しました。
+"There are no valid rows to import.",インポートできる有効な行がありません。
+"Row %1: %2","行 %1: %2"
+"Entities Processed: %1","処理されたエンティティ： %1"
+Suspended,保留中
+"has been rebuilt successfully in %1:%2:%3","%1:%2:%3 で正常に再構築されました"
+"%1 indexer(s) have been updated to ""Update by Schedule"" mode. 
+                        %2 skipped because there was nothing to change.","%1 個のインデクサーが「スケジュールで更新」モードに更新されました。 
+                        変更するものがなかったため、%2 はスキップされました。"
+"%1 indexer(s) have been updated to ""Update on Save"" mode. 
+                        %2 skipped because there was nothing to change.","%1 個のインデクサーが「逐次更新」モードに更新されました。 
+                        変更するものがなかったため、%2 はスキップされました。"
+"Exception while indexer status update.",インデクサーステータス更新中に例外が発生しました。
+"%1 must implement %2.","%1 は %2 を実装しなければなりません。"
+"""%field"" can not contain leading or trailing spaces.","「%field」の先頭または末尾にスペースを含めることはできません。"
+"Maximum allowed number of applied coupons was exceeded.",適用されたクーポンの最大許容数を超えました。
+"The following coupon codes could not be applied: ""' . . '"".","次のクーポンコードを適用できませんでした： 「 . . 」"
+"Maximum allowed number of applied coupons was exceeded.",適用されたクーポンの最大許容数を超えました。
+"Cart does not contain products.",カートに商品が含まれていません。
+"Current user is not authorized to cancel this order",現在のユーザーには、この注文をキャンセルする権限がありません
+"Order already closed, complete, cancelled or on hold",注文は既にクローズ済み、完了済み、キャンセル済みまたは保留中です
+"Order with one or more items shipped cannot be cancelled","1 つ以上の商品が配送された注文はキャンセルできません"
+"Order cancellation is not enabled for requested store.",要求されたストアでは注文のキャンセルが有効になっていません。
+"CancelOrderInput is missing.","CancelOrderInput がありません。"
+"Required parameter ""%field"" is missing or incorrect.","必須パラメーター「%field」がないか、正しくありません。"
+"Cancel order",オーダーをキャンセル
+"Provide a cancellation reason:",キャンセルの理由を入力してください：
+"Cancel Order",注文のキャンセル
+"Add Reason",理由を追加
+"Order %1 was cancelled","注文 %1 がキャンセルされました"
+"At least one reason value is required","理由の値が少なくとも 1 つ必要です"
+"""code"" value should be specified",「code」の値を指定する必要があります"
+"Accept popular payment methods—credit/debit cards, PayPal, Apple Pay, Google Pay, and Venmo—and deliver your customers a smooth checkout experience.","一般的な支払い方法 (クレジットカード/デビットカード、PayPal、Apple Pay、Google Pay、Venmo) に対応し、顧客にスムーズなチェックアウト体験を提供します。"
+"A fully-integrated payment experience",完全に統合された支払い体験
+"Competitive processing fees",競争力のある処理手数料
+"Advanced financial reporting capabilities",高度な財務報告機能
+"Secure and up-to-date extension with SaaS","SaaS によるセキュアで最新の拡張"
+Sandbox,サンドボックス
+Production,実稼動
+"Note: More configuration options are available in Payment Service's %1.","注意：支払いサービスの %1 では、より多くの構成オプションを利用できます。"
+"Your session has expired. Please refresh the page and try again.",セッションの有効期限が切れました。ページを再読み込みし、再度お試しください。
+"Product is out of stock. Please try again later.",商品の在庫がありません。後ほど再試行してください。
+"We can't add this item to your shopping cart right now. Please try again later.",現在、このアイテムをカートに追加できません。後ほど再試行してください。
+"Can't create PayPal order. Please try again.","PayPal 注文を作成できません。再度お試しください。"
+"We can't process the order right now. Please try again later.",現在、注文を処理できません。後ほど再試行してください。
+"Can't update shipping method. Please try again.",配送方法を更新できません。再度お試しください。
+"Can't update quote. Please try again.",見積もりを更新できません。再度お試しください。
+"Not logged in",ログインしていません
+"Your payment was not successful. Ensure you have entered your details correctly and try again, or try a different payment method. If you have continued problems, contact the issuing bank for your payment method.",支払いが失敗しました。詳細が正しく入力されていることを確認してから、もう一度やり直すか、別の支払い方法をお試しください。問題が続く場合は、発行銀行にお問い合わせください。
+"Error happened when processing the request. Please try again later.",リクエストの処理中にエラーが発生しました。後ほど再試行してください。
+Buy,購入
+Plain,プレーン
+blue,ブルー
+gold,ゴールド
+silver,シルバー
+white,ホワイト
+black,ブラック
+vertical,垂直方向
+horizontal,水平
+rectangular,長方形
+pill,ピル
+"When Required",必要な場合
+"Configuration not found",設定が見つかりません
+"Order auto-canceled due to technical issues.",技術的な問題により、注文が自動キャンセルされました。
+"Invalid methodCode","無効な methodCode"
+"Can't initialize checkout. Please try again.",チェックアウトを初期化できません。再度お試しください。
+"Payment Services can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",支払いサービスは、未払い残高がゼロの注文を処理できません。購入を完了するには、通常のチェックアウトプロセスを実行してください。
+"Your payment was not successful. Try again.",お支払いが失敗しました。再度お試しください。
+"Secure transaction",安全な取引
+"Card Security Code",カードのセキュリティコード
+"Required parameter ""uid"" is missing.",必須パラメーター「uid」がありません。
+"The order has already been placed and is currently processing.",注文はすでに受け付けられ、現在処理中です。
+"Could not acquire lock for the quote id: %1","見積もり ID %1 のロックを取得できませんでした"
+"`%1` and `%2` can't be used for CustomizableOptionInput object at the same time.","「%1」と「%2」を CustomizableOptionInput オブジェクトに同時に使用することはできません。"
+"Use `Query.customerCart` for logged in customer.",ログインした顧客に「Query.customerCart」を使用します。
+"Could not find a cart with ID ""%masked_id""","ID「%masked_id」のカートが見つかりませんでした"
+"Required parameter ""country_code"" is missing","必須パラメーター「country_code」がありません"
+"Missing parameter(s) for region input",地域入力のパラメータがありません
+"Number above 0 is required for the limit","制限には 0 より大きい数が必要です"
+"Please select a valid rate limit period in seconds: %1","有効なレート制限期間（秒）を選択してください： %1"
+"Identity type not found","ID タイプが見つかりません"
+"""%field"" is required","「%field」は必須です"
+"Invalid status provided: %1","無効な状態が提供されました： %1"
+"""%field"" value is required to create an attribute","属性を作成するには「%field」の値が必要です"
+"""%field"" value is required to create a RMA item","RMA アイテムを作成するには「%field」の値が必要です"
+"SKU not found","SKU が見つかりません"
+"Instance of ""%1"" is expected, got ""%2"" instead.",「%1」のインスタンスが必要です。代わりに「%2」を取得しました。
+"We could not archive the order. Please try again later.",注文をアーカイブできませんでした。後ほど再試行してください。
+"We couldn't locate an order with the information provided.",指定された情報では注文が見つかりませんでした。
+"Please login to view the order.",注文を表示するには、ログインしてください。
+"Missing key ""associatedProduct"" in Order Item value data",注文アイテムの値データにキー「associatedProduct」がありません
+"""discount_model"" value should be specified","「discount_model」の値を指定する必要があります"
+"""quote_model"" value should be specified","「quote_model」の値を指定する必要があります"
+"When coupon quantity exceeds %1, the coupon code length must be minimum %2","クーポン数量が %1 を超える場合、クーポンコードの長さは最小 %2 である必要があります"
+"Something went wrong while validating coupon code length. Please review the log and try again.",クーポンコードの長さの検証中にエラーが発生しました。ログを確認し、再度お試しください。
+"Message is added to queue, wait to get your coupons soon.",メッセージがキューに追加されました。すぐにクーポンを取得するのを待ちます。
+"total amount (excl. tax)",合計金額（税別）
+"total amount (incl. tax)",合計金額（税込）
+"Coupon qty should be less than or equal to the coupon qty in the store configuration.",クーポン数量は、ストア構成のクーポン数量以下である必要があります。
+"View Credit Memo for #%1","#%1 のクレジットメモの表示"
+"View Credit Memo #%1","クレジットメモ #%1 の表示"
+"View Invoice #%1","請求書 #%1 の表示"
+"We found an invalid order to refund.",払い戻しの無効な注文が見つかりました。
+"Unable to add comment: The status ""%1"" is not part of the order
+                 status history.","コメントを追加できません：ステータス「%1」は注文ステータス履歴に含まれていません。"
+"Unable to add comment: The status ""%1"" is not part of the order
+            status history.","コメントを追加できません：ステータス「%1」は注文ステータス履歴に含まれていません。"
+"Credit Memo Information",クレジットメモ情報
+"The credit memo confirmation email was sent","クレジットメモ確認メールが送信されました"
+"The credit memo confirmation email is not sent","クレジットメモ確認メールは送信されません"
+"Memo # %1","メモ # %1"
+"Credit Memo Date",クレジットメモの日付
+"Invoice Information",請求書情報
+"The invoice confirmation email was sent","請求書確認メールが送信されました"
+"The invoice confirmation email is not sent","請求書確認メールは送信されません"
+"Invoice # %1",請求書 # %1
+"A status change or comment text is required to submit a comment.",コメントを送信するには、ステータス変更またはコメントテキストが必要です。
+"Invalid characters are not allowed as the file path.",ファイルパスに無効な文字は使用できません。
+"Commerce Services Connector Setup","Commerce Services Connector の設定"
+"View Shipment #%1","配送 #%1 の表示"
+"Shipment Information",配送情報
+"The shipment confirmation email was sent","配送確認メールが送信されました"
+"The shipment confirmation email is not sent","配送確認メールは送信されません"
+"Shipment # %1",配送番号 # %1
+"Shipment Date",配送日
+"Operation not allowed",操作が許可されていません
+"Browse CSS File","CSS ファイルを参照"
+"Browse JS Files","JS ファイルを参照"
+"The store will not work correctly when cookies are disabled.","cookie が無効になっている場合、ストアは正しく機能しません。"
+"United Parcel Service REST","United Parcel Service REST"
+"Error occurred: %1","エラーが発生しました： %1"
+"Ground Advantage™",Ground Advantage™
+"Ground Advantage™ HAZMAT","Ground Advantage™ HAZMAT"
+"Ground Advantage™ Parcel locker",Ground Advantage™ Parcel locker
+"Ground Advantage™ Hold for pickup","Ground Advantage™ Hold for pickup"
+"Ground Advantage™ Cubic HAZMAT",Ground Advantage™ Cubic HAZMAT
+"Ground Advantage™ Cubic",Ground Advantage™ Cubic
+"Ground Advantage™ Cubic Hold for pickup","Ground Advantage™ Cubic Hold for pickup"
+"Ground Advantage™ Cubic Parcel locker",Ground Advantage™ Cubic Parcel locker
+"USPS API endpoint URL's must use usps.com or shippingapis.com","USPS API エンドポイント URL ではusps.comまたはshippingapis.comを使用する必要があります"
+Deprecated,廃止
+"Too Many Requests",リクエストが多すぎます
+"Credentials type not set",資格情報タイプが設定されていません
+"Securely store your credit card information for future use.",クレジットカード情報を安全に保管し、将来使用することができます。
+"Error! Your browser does not support WebAuthn or you are not using a secure connection","エラー！お使いのブラウザーが WebAuthn をサポートしていないか、セキュリティで保護された接続を使用していません"
+"Resolver cannot be set if a Name or Value is set.",名前または値が設定されている場合、リゾルバーは設定できません。
+"Value cannot be set if a Resolver is set.",リゾルバーが設定されている場合は、値を設定できません。
+"A Name for this Header must be set.",このヘッダーの名前を設定する必要があります。
+"Name cannot be set if a Resolver is set.",リゾルバーが設定されている場合は、名前を設定できません。
+"A Value for this Header must be set.",このヘッダーの値を設定する必要があります。
+"Resolver class must exist and implement the required interface.",リゾルバークラスが存在し、必要なインターフェイスを実装する必要があります。
+"Unable to validate resolver. See logs for details.",リゾルバーを検証できません。詳しくはログを参照してください。
+"The field can contain only alphanumeric characters and underscores.",フィールドに含めることができるのは、英数字とアンダースコアのみです。
+"The field can contain only alphanumeric characters, underscores and dots.",フィールドに含めることができるのは、英数字、アンダースコアおよびドットのみです。
+"Unable to validate if hook exists. See logs for details.",フックが存在する場合、検証できません。詳しくはログを参照してください。
+"Instance ID can contain only alphanumeric characters, underscores, and hyphens.","インスタンス ID に含めることができるのは、英数字、アンダースコア、ハイフンのみです。"
+"Workspace configuration file must have project, workspace and credentials details",ワークスペース設定ファイルには、プロジェクト、ワークスペース、資格情報の詳細が必要です
+"Are you sure you want to leave the page?",このページから移動してもよろしいですか？
+"Changes you made to the cart will not be saved.",カートに加えた変更は保存されません。
+Leave,移動
+"An error occurred. Refresh the page and try again.",エラーが発生しました。ページを更新して再度お試しください。
+"This payment option is currently unavailable.",この支払いオプションは現在利用できません。
+"Failed to place order. Try again or refresh the page if that does not resolve the issue.",注文できませんでした。もう一度試すか、それでも問題が解決されない場合はページを更新してください。
+"City is required.",市区町村は必須です。
+"Pay with Google Pay","Google Payで支払い"
+"Pay with Apple Pay","Apple Payで支払い"
+"Please enter a valid credit card security code.",有効なクレジットカードのセキュリティコードを入力してください。
+"Pay with credit card",クレジットカードで支払う
+"The card security code is a three or four digit number printed on a credit card. Visa, Mastercard, and Discover cards have a three digit code on the card back. American Express cards have a four digit code on the card front.","カードのセキュリティコードは、クレジットカードに印刷された 3 桁または 4 桁の番号です。Visa、Mastercard、および Discover カードは、カード背面に 3 桁のコードを持っています。American Express カードのカードの前面には 4 桁のコードが付いています。"
+"Your payment was not successful. Ensure you have entered your details correctly and try again, or try a different payment method. If you have continued problems, contact the issuing bank for your payment method.",お支払いが失敗しました。詳細が正しく入力されていることを確認してから、もう一度やり直すか、別の支払い方法をお試しください。問題が続く場合は、発行銀行にお問い合わせください。
+"Stored Cards",保存済みカード
+"<p>By clicking on <b>Allow</b>, you agree that we may collect anonymous usage data from you to:</p> <ol class=""modal-list""> <li>Help us improve the Magento Admin user experience</li> <li>Provide interactive in-product guidance, such as technical support and tips to improve utilization of the product from within the Admin UI. This may include notifications of new features, product support/guidance, onboarding information, tooltips, and more.</li> </ol> <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin UI and related products and services.</p> <p>You can learn more and opt-out at any time by following the instructions in <a href=""https://experienceleague.adobe.com/docs/commerce-admin/config/advanced/admin.html"">merchant documentation</a>.</p>","<p>「<b> 許可 </b>」をクリックすると、匿名の使用状況データを収集できることに同意したことになります。</p><ol class=""modal-list""><li>Magento管理のユーザーエクスペリエンスの向上に役立つ </li><li> 管理 UI から製品の使用効率を高めるためのテクニカルサポートやヒントなど、インタラクティブな製品内ガイダンスを提供します。これには、新機能、製品サポート/ガイダンス、オンボーディング情報、ツールチップなどの通知が含まれる場合があります。</li> </ol> <p> この目的で収集されたすべての使用状況データは、個人を特定するために使用することはできず、Magento管理 UI および関連する製品およびサービスの改善のためにのみ使用されます。</p> <p><a href=""https://experienceleague.adobe.com/docs/commerce-admin/config/advanced/admin.html""> マーチャントドキュメント </a> の手順に従うことで、いつでも詳細およびオプトアウトできます。</p>"
+"Eventing Framework","Eventing Framework"
+"Event List",イベントリスト
+"Test Eventing Connection",イベンティング接続のテスト
+"Subscribe to an event",イベントの購読
+"Configuration Update",設定の更新
+"Commerce events","Commerce events"
+"Environment ID","環境 ID"
+"Maximum retries to send events",イベント送信の最大再試行数
+"Event retention time (in days)",イベント保持時間（日数）
+"Webhooks Grid",ウェブフックグリッド
+"Webhooks Edit",ウェブフックの編集
+"Hook Information",フック情報
+"Hook settings",フック設定
+"Webhook Method","ウェブフックメソッド"
+"Webhook Type",ウェブフックタイプ
+"Batch Name",バッチ名
+"Hook Name",フック名
+Timeout,Timeout
+"Soft timeout",ソフトタイムアウト
+"Cache ttl","キャッシュ ttl"
+"Fallback error message",フォールバックエラーメッセージ
+"Hook Fields",フックフィールド
+"Add Field",フィールドを追加
+Converter,コンバータ
+"Hook Headers",フックヘッダー
+"Add Header",ヘッダーを追加
+Resolver,リゾルバー
+"Hook Rules",フックルール
+"Add New Webhook",新規ウェブフックを追加
+"Batch name",バッチ名
+"Soft Timeout",ソフトタイムアウト
+"Hard Timeout",ハードタイムアウト
+"Cache TTL","キャッシュ TTL"
+"HTTP Method","HTTP メソッド"
+"Is Optional",オプション
+"Webhooks Response Cache",ウェブフックレスポンスキャッシュ
+"Caches responses to webhook requests","ウェブフックリクエストへのレスポンスをキャッシュします"
+"Adobe IO Events Configuration","AdobeI/O イベントの設定"
+"Configuration Check",設定チェック
+"Adobe Services","Adobe Services"
+"General configuration",一般設定
+select,選択
+"Service Account Private Key",サービスアカウント秘密鍵
+"Adobe I/O Workspace Configuration","Adobe I/O ワークスペース設定"
+"Adobe Commerce Instance ID","Adobe Commerce インスタンス ID"
+"Adobe I/O Event Provider ID","Adobe I/O イベントプロバイダー ID"
+"Adobe I/O Event Provider Metadata","Adobe I/O イベントプロバイダーメタデータ"
+"Adobe I/O Environment","Adobe I/O 環境"
+"User Type",ユーザータイプ
+Transport,輸送
+"For SMTP and Windows server only.","SMTP および Windows サーバーのみ。"
+"Please enter at least 0 and at most 65535 (For SMTP and Windows server only).","0 以上、65535以下の値を入力してください（SMTP および Windows サーバーのみ）。"
+Auth,認証
+SSL,SSL
+"Admin Grids",管理グリッド
+"Limit Number of Products in Grid",グリッド内の商品数の制限
+"Limit total number of products in grid collection.",グリッドコレクション内の商品の合計数を制限します。
+"Records Limit",レコード数の制限
+"Limit total number of products in grid collection if their number is greater than this value. Minimum value: 20000.","グリッドコレクション内の商品の合計数が、この値より大きい場合に合計数を制限します。最小値： 20000。"
+"Images should be optimized based on query parameters by your CDN or web server. Use the legacy mode for backward compatibility. <a href=""https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html"">Learn more</a> about catalog URL formats.<br/><br/><strong style=""color:red"">Warning!</strong> If you switch back to legacy mode, you must <a href=""https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/#resize-catalog-images"">use the CLI to regenerate images</a>.","画像は、CDN または Web サーバーによるクエリパラメーターに基づいて最適化する必要があります。下位互換性を確保するためにレガシーモードを使用します。カタログ URL の形式について <a href=""https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html""> 詳細 </a> を確認してください。<br/><br/><strong style=""color:red""> 警告！</strong> レガシーモードに戻す場合は、<a href=""https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/#resize-catalog-images"">CLI を使用して画像を再生成する </a> 必要があります。"
+"Storefront > One Page Checkout",ストアフロント > ワンページチェックアウト
+"Report URI","レポート URI"
+"Selected shipping method is not available. Please select another shipping method for this order.",選択した配送方法は使用できません。この注文には別の配送方法を選択してください。
+"Adobe Services","Adobe Services"
+"General configuration",一般設定
+"Enable Admin UI SDK","管理 UI SDK の有効化"
+"Enable the AdobeAdminIms module to use the Admin UI SDK.","AdobeAdminIms モジュールで 管理 UI SDK の使用を有効にします。"
+"Local testing",ローカルテスト
+"Enable Local Testing",ローカルテストを有効にする
+"Local Server Base URL","ローカルサーバーのベース URL"
+"Mock AdobeAdminIms Module","モック AdobeAdminIms モジュール"
+"Mock IMS Token","モック IMS トークン"
+"Mock IMS Org ID","モック IMS 組織 ID"
+"Admin UI SDK Cache","管理 UI SDK キャッシュ"
+"Caches Apps customizations to the Admin Panel",管理パネルにアプリのカスタマイズをキャッシュ
+"<div id=""uix-page-content""/>","<div id=""uix-page-content""/>"
+"<div id=""uix-order-view-button""/>","<div id=""uix-order-view-button""/>"
+"<div id=""uix-mass-action""/>","<div id=""uix-mass-action""/>"
+"CSP Configuration","CSP 設定"
+"Content Security Policy (CSP)","コンテンツセキュリティポリシー (CSP)"
+"Storefront Default","ストアフロントデフォルト"
+"Report URI","レポート URI"
+"Admin Default","管理者デフォルト"
+"Real-time Check if Customer is Matched by Segment",顧客がセグメントと一致するかどうかをリアルタイムで確認
+"Real-time check works with split database and when there are no registered customers, but it impacts performance.",リアルタイムチェックは分割データベースで機能し、登録された顧客がいない場合にも機能しますが、パフォーマンスに影響を与えます。
+"Fixer.io (legacy)","Fixer.io （レガシー）"
+"Fixer Api (APILayer)","フィクサー Api (APILayer)"
+"Api Key","API キー"
+"PickUp Type",受け取りタイプ
+"GraphQL Query Resolver Results","GraphQL クエリリゾルバーの結果"
+"Results from resolvers in GraphQL queries",GraphQLクエリでのリゾルバーの結果
+"Admin GraphQl Server","GraphQl サーバーを管理"
+"API Import","API インポート"
+"API Import","API インポート"
+"OAuth Configuration","OAuth 設定"
+"Mass Status Update",一括ステータス更新
+"Export XML","XML をエクスポート"
+"Apply Filter",フィルターを適用
+Listing,リスト
+"Multicoupon Settings",マルチクーポン設定
+"Maximum number of coupons per order",注文あたりのクーポンの最大数
+"Wish List Info",ほしい物リスト情報
+"Order results",注文の結果
+"Send each Magento Area Code as Separate App",各 Magento エリアコードを別々のアプリとして送信
+"In addition to the main app (which includes all PHP execution), separate apps for each Magento area code (adminhtml, frontend, ...) will be created. Requires New Relic Application Name to be set.","メインアプリ（PHP の実行をすべて含む）に加えて、Magento エリアコード（adminhtml、frontend など）ごとに別のアプリが作成されます。New Relic Application Name を設定する必要があります。"
+"OpenSearch Server Hostname","OpenSearch サーバーのホスト名"
+"OpenSearch Server Port","OpenSearch サーバーポート"
+"OpenSearch Index Prefix","OpenSearch インデックスプレフィックス"
+"Enable OpenSearch HTTP Auth","OpenSearch HTTP 認証を有効化"
+"OpenSearch HTTP Username","OpenSearch HTTP ユーザー名"
+"OpenSearch HTTP Password","OpenSearch HTTP パスワード"
+"OpenSearch Server Timeout","OpenSearch サーバータイムアウト"
+"Order cancellation",注文のキャンセル
+"Order cancellation through GraphQL",GraphQL を使用した注文のキャンセル
+"Order cancellation reasons",注文のキャンセル理由
+"Featured Adobe Payment solution:",注目の Adobe Payment ソリューション：
+"Accept debit/credit cards with Payment Services",支払いサービスでデビットカード/クレジットカードを受け入れる
+"Payment Services is your turnkey integrated solution for providing secure payment processing, robust reporting, and optimized online order payments.",支払いサービスは、安全な支払い処理、堅牢なレポート作成、最適化されたオンライン注文支払いを提供するためのターンキー統合ソリューションです。
+"General Configuration",一般設定
+"Sandbox Merchant ID","サンドボックスマーチャント ID"
+"Production Merchant ID","生産マーチャント ID"
+"Payment Services is your turnkey integrated solution for providing secure payment processing, robust reporting, and optimized online order payments. Payment Services can be configured in the settings page under <b>Sales > Payment Services</b>.","支払いサービスは、安全な支払い処理、堅牢なレポート作成、最適化されたオンライン注文支払いを提供するためのターンキー統合ソリューションです。支払いサービスは、<b> セールス > 支払いサービス </b> の設定ページで設定できます。"
+"Go to Payment Services",支払いサービスに移動
+"Pay with Payment Services",支払いサービスによる支払い
+"Soft Descriptor",ソフト記述子
+"Enable asynchronous status updates",非同期ステータス更新を有効にする
+"Credit Card Fields",クレジットカードフィールド
+"Show on checkout page",チェックアウトページに表示
+"Vault Enabled in Admin","管理で Vault が有効になっています"
+"3D Secure authentication","3D セキュア認証"
+"Use <b>When Required</b> to comply with EU regulations. Use <b>Always</b> for extra fraud protection. <a href=""https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/security.html#3ds"" target=""_blank"">More information</a>","EU 規制に準拠するには、<b> 必要な場合 </b> に使用します。さらなる不正対策には <b> 常に </b> を使用してください。<a href=""https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/security.html#3ds"" target=""_blank ""> 詳細情報 </a>"
+"Apple Pay","Apple Pay"
+"Show Apple Pay on checkout page",Apple Pay をチェックアウトページに表示
+"Show Apple Pay on product detail page","Apple Pay を商品詳細ページに表示"
+"Show Apple Pay in mini cart preview","Apple Pay をミニカートプレビューに表示"
+"Show Apple Pay on cart page","Apple Pay をカートページに表示"
+"Google Pay","Google Pay"
+"Show Google Pay on checkout page",Google Payをチェックアウトページに表示
+"Show Google Pay on product detail page","Google Pay を商品詳細ページに表示"
+"Show Google Pay in mini cart preview","Google Pay をミニカートプレビューに表示"
+"Show Google Pay on cart page","Google Pay をカートページに表示"
+"Button Color",ボタンカラー
+"Button type",ボタンタイプ
+"PayPal Smart Buttons","PayPal スマートボタン"
+"Display Pay Later Message",後払いメッセージの表示
+"Displays Pay Later messaging for available offers. Restrictions apply. <a href=""https://developer.paypal.com/docs/business/pay-later/us/"" target=""_blank"">Learn more</a>","使用可能なオファーに関する後払いメッセージを表示します。制限が適用されます。<a href=""https://developer.paypal.com/docs/business/pay-later/us/"" target=""_blank ""> 詳細 </a>"
+"Show buttons on checkout page",ボタンをチェックアウトページに表示
+"Show buttons on product detail page",ボタンを商品詳細ページに表示
+"Show buttons in mini cart preview",ボタンをミニカートプレビューに表示
+"Show buttons on cart page",ボタンをカートページに表示
+"Venmo Enabled","Venmo 有効"
+"Credit and Debit Card Enabled",クレジットおよびデビットカードが有効
+"PayPal Pay Later Enabled","PayPal 後払いが有効"
+"Button Style",ボタンのスタイル
+"Use Default Height",デフォルトの高さを使用
+Tagline,タグライン
+"Stored Credit Card",保存されているクレジットカード
+PayLater,PayLater
+Venmo,Venmo
+"Rate limiting",レート制限
+"Enable rate limiting for placing orders",発注のレート制限を有効にする
+"Requests limit per authenticated customer",認証済み顧客ごとのリクエスト制限
+"Requests limit per guest",ゲストあたりのリクエスト制限
+"Counter resets in a ...",... でカウンターがリセットされます。
+"
+                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
+                        <p>To learn more about new features, see our latest Release Notes in
+                        <a href=""hhttps://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html""
+                        target=""_blank"">DevDocs' Release Information</a>.
+                        </p>","
+                        <p> 次回 Magento 管理画面にサインインするときに、もう一度表示します。</p>
+                        <p> 新機能の詳細については、次の最新のリリースノートを参照してください：
+                        <a href=""hhttps://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html""
+                        target=""_blank "">DevDocs' のリリース情報</a>。
+                        </p>"
+"Sales Order Feed",注文フィード
+"Collects data for a Sales Order Feed",注文フィードのデータを収集します
+"Sales Order Statuses Feed",注文ステータスフィード
+"Collects data for a Sales Service Order Statuses Feed",セールスサービス注文ステータスフィードのデータを収集します
+"Discount amount is distributed among subtotal and shipping amount. Cases when multiple discounts applied to shipping amount are not supported. The option is going to be removed in future releases.",割引額は小計と送料に配分されます。送料に複数の割引が適用されない場合。このオプションは、今後のリリースで削除される予定です。
+"Logo for PDF Print-outs",PDFプリントアウト用のロゴ
+"Admin > Create Order",管理者 > 注文を作成
+"Report URI","レポート URI"
+"We strongly recommend to enable a <a href=""https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","この機能の不正使用を防ぐため、「友達にメール」を有効にするのと同時に <a href=""https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html"" target=""_blank "">CAPTCHA ソリューション</a>を有効にすることを強くお勧めします。"
+"Saas Services Proxy","Saas サービスプロキシー"
+"Identifies the secure cloud storage project and data space used by Commerce Services Connector for this instance.","このインスタンスの Commerce Services Connector で使用される安全なクラウドストレージプロジェクトとデータ領域を識別します。"
+"Staging Preview",ステージングプレビュー
+"Stores Feed",ストアフィード
+"Collects data for a Stores Feed",ストアフィードのデータを収集します
+"Swagger UI","Swagger UI"
+"Not all browsers support all these formats! Note: ICO file type is supported by ImageMagik adapter that can be set from Store / Configuration / Developer / Image Processing Settings.","すべてのブラウザーでこれらのフォーマットがサポートされているわけではありません。注意： ICO ファイルタイプは、ストア / 設定 / 開発者向け / 画像プロセス設定から設定できる ImageMagik アダプターでサポートされています。"
+"Use {YYYY} to insert the current year (updates on cache refresh).","{YYYY} を使用して現在の年を挿入します（キャッシュ更新時に更新）。"
+"Gateway REST URL","ゲートウェイ REST URL"
+"Tracking REST URL","REST URL のトラッキング"
+"Last Logged in",最終ログイン日時
