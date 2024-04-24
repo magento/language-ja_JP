@@ -6310,7 +6310,7 @@ Invalid domain name: %1,不正なドメイン名: %1
 Invalid download link type.,不正なダウンロードリンクです。
 Invalid EAV attribute,不正なEAV属性です
 Invalid email address,不正なメールアドレス
-Invalid email format,無効なE メールフォーマット
+Invalid email format,無効なメールフォーマット
 Invalid entity supplied,不正なエンティティが提供されました
 Invalid entity supplied: %1,不正なエンティティが与えられました: %1
 Invalid entity type,不正なエンティティタイプです
@@ -15927,7 +15927,7 @@ Suspended,保留中
 "Cart does not contain products.",カートに商品が含まれていません。
 "Current user is not authorized to cancel this order",現在のユーザーには、この注文をキャンセルする権限がありません
 "Order already closed, complete, cancelled or on hold",注文は既にクローズ済み、完了済み、キャンセル済みまたは保留中です
-"Order with one or more items shipped cannot be cancelled","1 つ以上の商品が発送された注文はキャンセルできません"
+"Order with one or more items shipped cannot be cancelled","1 つ以上の商品が配送された注文はキャンセルできません"
 "Order cancellation is not enabled for requested store.",要求されたストアでは注文のキャンセルが有効になっていません。
 "CancelOrderInput is missing.","CancelOrderInput がありません。"
 "Required parameter ""%field"" is missing or incorrect.","必須パラメーター「%field」がないか、正しくありません。"
@@ -15945,13 +15945,13 @@ Suspended,保留中
 "Secure and up-to-date extension with SaaS","SaaS によるセキュアで最新の拡張"
 Sandbox,サンドボックス
 Production,実稼動
-"Note: More configuration options are available in Payment Service's %1.","注意：支払サービスの %1 では、より多くの構成オプションを利用できます。"
+"Note: More configuration options are available in Payment Service's %1.","注意：支払いサービスの %1 では、より多くの構成オプションを利用できます。"
 "Your session has expired. Please refresh the page and try again.",セッションの有効期限が切れました。ページを再読み込みし、再度お試しください。
 "Product is out of stock. Please try again later.",商品の在庫がありません。後ほど再試行してください。
 "We can't add this item to your shopping cart right now. Please try again later.",現在、このアイテムをカートに追加できません。後ほど再試行してください。
 "Can't create PayPal order. Please try again.","PayPal 注文を作成できません。再度お試しください。"
 "We can't process the order right now. Please try again later.",現在、注文を処理できません。後ほど再試行してください。
-"Can't update shipping method. Please try again.",発送方法を更新できません。再度お試しください。
+"Can't update shipping method. Please try again.",配送方法を更新できません。再度お試しください。
 "Can't update quote. Please try again.",見積もりを更新できません。再度お試しください。
 "Not logged in",ログインしていません
 "Your payment was not successful. Ensure you have entered your details correctly and try again, or try a different payment method. If you have continued problems, contact the issuing bank for your payment method.",支払いが失敗しました。詳細が正しく入力されていることを確認してから、もう一度やり直すか、別の支払い方法をお試しください。問題が続く場合は、発行銀行にお問い合わせください。
@@ -15972,7 +15972,7 @@ pill,ピル
 "Order auto-canceled due to technical issues.",技術的な問題により、注文が自動キャンセルされました。
 "Invalid methodCode","無効な methodCode"
 "Can't initialize checkout. Please try again.",チェックアウトを初期化できません。再度お試しください。
-"Payment Services can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",支払サービスは、未払い残高がゼロの注文を処理できません。購入を完了するには、通常のチェックアウトプロセスを実行してください。
+"Payment Services can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",支払いサービスは、未払い残高がゼロの注文を処理できません。購入を完了するには、通常のチェックアウトプロセスを実行してください。
 "Your payment was not successful. Try again.",お支払いが失敗しました。再度お試しください。
 "Secure transaction",安全な取引
 "Card Security Code",カードのセキュリティコード
@@ -16014,21 +16014,21 @@ pill,ピル
 "Unable to add comment: The status ""%1"" is not part of the order
             status history.","コメントを追加できません：ステータス「%1」は注文ステータス履歴に含まれていません。"
 "Credit Memo Information",クレジットメモ情報
-"The credit memo confirmation email was sent","クレジットメモ確認 E メールが送信されました"
-"The credit memo confirmation email is not sent","クレジットメモ確認 E メールは送信されません"
+"The credit memo confirmation email was sent","クレジットメモ確認メールが送信されました"
+"The credit memo confirmation email is not sent","クレジットメモ確認メールは送信されません"
 "Memo # %1","メモ # %1"
 "Credit Memo Date",クレジットメモの日付
 "Invoice Information",請求書情報
-"The invoice confirmation email was sent","請求書確認 E メールが送信されました"
-"The invoice confirmation email is not sent","請求書確認 E メールは送信されません"
+"The invoice confirmation email was sent","請求書確認メールが送信されました"
+"The invoice confirmation email is not sent","請求書確認メールは送信されません"
 "Invoice # %1",請求書 # %1
 "A status change or comment text is required to submit a comment.",コメントを送信するには、ステータス変更またはコメントテキストが必要です。
 "Invalid characters are not allowed as the file path.",ファイルパスに無効な文字は使用できません。
 "Commerce Services Connector Setup","Commerce Services Connector の設定"
 "View Shipment #%1","配送 #%1 の表示"
 "Shipment Information",配送情報
-"The shipment confirmation email was sent","配送確認 E メールが送信されました"
-"The shipment confirmation email is not sent","配送確認 E メールは送信されません"
+"The shipment confirmation email was sent","配送確認メールが送信されました"
+"The shipment confirmation email is not sent","配送確認メールは送信されません"
 "Shipment # %1",配送番号 # %1
 "Shipment Date",配送日
 "Operation not allowed",操作が許可されていません
@@ -16194,7 +16194,7 @@ Listing,リスト
 "Order cancellation through GraphQL",GraphQL を使用した注文のキャンセル
 "Order cancellation reasons",注文のキャンセル理由
 "Featured Adobe Payment solution:",注目の Adobe Payment ソリューション：
-"Accept debit/credit cards with Payment Services",支払サービスでデビットカード/クレジットカードを受け入れる
+"Accept debit/credit cards with Payment Services",支払いサービスでデビットカード/クレジットカードを受け入れる
 "Payment Services is your turnkey integrated solution for providing secure payment processing, robust reporting, and optimized online order payments.",支払いサービスは、安全な支払い処理、堅牢なレポート作成、最適化されたオンライン注文支払いを提供するためのターンキー統合ソリューションです。
 "General Configuration",一般設定
 "Sandbox Merchant ID","サンドボックスマーチャント ID"
