@@ -1,7 +1,7 @@
 "
                                     Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
                                 ","
-                                    許可される値: ""paypal"", ""primary"" (デフォルト), your_custom_value (あなたのマーチャントアカウントプロフィールのカスタムペイメントページスタイル).
+                                    許可される値: ""paypal"", ""primary"" (デフォルト), your_custom_value (マーチャントアカウントプロフィールのカスタムペイメントページスタイル).
                                 "
 "
                                     The background color for the checkout page around the header and payment form.
@@ -72,7 +72,7 @@
                             or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                         ","
                             <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングをなぜ宣伝するのか？</a><br/>
-                                            <strong>ファイナンシングを宣伝すると、御社の取引が加速します。</strong><br/>PayPalはPayPalクレジット®;からのファイナンシングによって潜在的顧客を購買者に変えることができます。加料金なしで、御社の顧客は支払のタイミングを遅らせることが出来ます。
+                                            <strong>ファイナンシングを宣伝すると、御社の取引が加速します。</strong><br/>PayPalはPayPalクレジット®;からのファイナンシングによって潜在的顧客を購買者に変えることができます。追加料金なしで、御社の顧客は支払のタイミングを遅らせることが出来ます。
                                             PayPalの無料バナー広告を使用すると、
 お客様がPayPalでチェックアウトする際に、支払いオプションとしてPayPal Credit®;ファイナンシングを宣伝することができます。
                                             PayPal広告プログラムによって顧客の追加購入が促され、顧客の購入量を15％以上増加させることが示されています。
@@ -175,7 +175,7 @@ Auto-redirect to Base URL"""
 "
                         Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
                     ","
-                        セミコロン (;) は値を区切った。<br/>空の最初のオプションのためにセミコロンを先頭にいれてください。<br/>オープンテキストのために空白にしてください。
+                        セミコロン (;) で値を区切ります。<br/>空の最初のオプションのためにセミコロンを先頭にいれてください。<br/>オープンテキストのために空白にしてください。
                     "
 "
                         This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
@@ -194,7 +194,7 @@ Auto-redirect to Base URL"""
 "
                         Usage limit enforced for logged in customers only.
                     ","
-                        使用可能数はログインしている顧客にのみ適用されます。
+                        使用制限はログインしている顧客にのみ適用されます。
                     "
 "
                     <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
@@ -545,7 +545,7 @@ dotmailer Email Marketing Automation。 Magento 2.2.2に含まれており、簡
 "
                         Usage limit enforced for logged in customers only.
                     ","
-                        使用可能数はログインしている顧客にのみ適用されます。
+                        使用制限はログインしている顧客にのみ適用されます。
                     "
 "
                     If you select and save the rule you will be able to generate multiple coupon codes.
@@ -564,7 +564,7 @@ dotmailer Email Marketing Automation。 Magento 2.2.2に含まれており、簡
 "
                     Usage limit enforced for logged in customers only.
                 ","
-                        使用可能数はログインしている顧客にのみ適用されます。
+                        使用制限はログインしている顧客にのみ適用されます。
                 "
  , 
     All Store Views,    すべてのストアビュー
@@ -1010,7 +1010,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
                                             or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
 <strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
 <br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
-PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
+PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングは PayPal 決済時のオプションです。
 PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -1020,7 +1020,7 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
                                 or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
 <strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
 <br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
-PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
+PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングは PayPal 決済時のオプションです。
 PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -1030,7 +1030,7 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
                             or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
 <strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
 <br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
-PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
+PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングは PayPal 決済時のオプションです。
 PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -1040,7 +1040,7 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
                         or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
 <strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
 <br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
-PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
+PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングは PayPal 決済時のオプションです。
 PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
 "<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","SignifydとMagentoを統合する方法については、<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">セットアップガイド</a>を参照してください。<br />サポートについては、<a href=""mailto:support@signifyd.com"">support@signifyd.com</a>までお問い合わせください。"
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
@@ -1062,7 +1062,7 @@ or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" t
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
 <strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
 <br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
-PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
+PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングは PayPal 決済時のオプションです。
 PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -1072,7 +1072,7 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
                             or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
 <strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
 <br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
-PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
+PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングは PayPal 決済時のオプションです。
 PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -1082,7 +1082,7 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
                         or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
 <strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
 <br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
-PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
+PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングは PayPal 決済時のオプションです。
 PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>"
 <a href=%url_about_us>About Us</a>,<a href=%url_about_us>会社概要</a>
@@ -1660,16 +1660,16 @@ Admin User Name,管理者ユーザー名
 Admin Webhook URL,管理者ウェブフック URL
 Adminhtml Themes List,Adminhtmlのテーマリスト
 Administrator,管理者
-Adobe API Key is invalid!,AdobeAPIキーが無効です。
-Adobe API login has expired!,AdobeAPIのログインが期限切れになりました。
-Adobe id is required.,AdobeIDが必要です。
-Adobe IMS,AdobeIMS
+Adobe API Key is invalid!,Adobe APIキーが無効です。
+Adobe API login has expired!,Adobe APIのログインが期限切れになりました。
+Adobe id is required.,Adobe IDが必要です。
+Adobe IMS,Adobe IMS
 Adobe Stock,Adobe Stock
 "Adobe Stock asset category with id ""%1"" does not exist.","IDが""%1""のAdobe Stockアセットカテゴリは存在しません。"
 "Adobe Stock asset creator with id ""%1"" does not exist.","IDが ""%1"" のAdobe Stockアセット作成者は存在しません。"
 Adobe Stock asset with id %id does not exist.,ID %id のAdobe Stockアセットは存在しません。
-Adobe Stock Integration,Adobe Stock統合
-Adobe Stock WebAPI,Adobe StockWebAPI
+Adobe Stock Integration,Adobe Stock 統合
+Adobe Stock WebAPI,Adobe Stock WebAPI
 Adult,成人
 Adult Signature Required,成人の署名が必須
 Advanced,高度な設定
@@ -1905,7 +1905,7 @@ An error occurred,エラーが起きました
 An error occurred at deleting links between the media asset and media content.,メディアアセットとメディアコンテンツ間のリンクを削除中にエラーが発生しました。
 An error occurred at getting asset used in content information.,コンテンツ情報で使用されているアセットを取得する際にエラーが発生しました。
 An error occurred at getting media asset to content relation by media asset id.,メディアアセットをメディアアセットIDによってコンテンツとの関係を取得する際にエラーが発生しました。
-An error occurred during adobe stock asset save.,Adobe Stockアセットの保存中にエラーが発生しました。
+An error occurred during adobe stock asset save.,Adobe Stock アセットの保存中にエラーが発生しました。
 An error occurred during get asset keywords: %1,アセットのキーワードの取得中にエラーが発生しました：%1
 An error occurred during get media asset list: %1,メディアアセットの取得中にエラーが発生しましたリスト:%1
 An error occurred during get user data. Contact support.,ユーザーデータの取得中にエラーが発生しました。サポートにお問い合わせください。
@@ -1915,9 +1915,9 @@ An error occurred during mass deletion of system reports. Please review log and 
 An error occurred during media asset save: %1,メディアアセットの保存中にエラーが発生しました：%1
 An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2,処理中にエラーが発生しました。 クーポンID %1 の有効期限が更新されていません。 エラーメッセージ: %2
 An error occurred during save asset keyword: %1,アセットキーワードの保存中にエラーが発生しました：%1
-An error occurred during test Adobe Stock API connection,Adobe StockAPI接続のテスト中にエラーが発生しました
+An error occurred during test Adobe Stock API connection,Adobe Stock API 接続のテスト中にエラーが発生しました
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.",許可を受諾中にエラーが発生しました。詳細については、例外ログを参照して下さい。
-An error occurred during the callback request from the Adobe service: %error,Adobeサービスからのコールバック要求中にエラーが発生しました：%error
+An error occurred during the callback request from the Adobe service: %error,Adobe サービスからのコールバック要求中にエラーが発生しました：%error
 An error occurred on attempt to create folder.,フォルダーを作成しようとした際にエラーが発生しました。
 An error occurred on attempt to delete image.,画像を削除しようとした際にエラーが発生しました。
 An error occurred on attempt to fetch related images.,関連する画像を取得しようとした際にエラーが発生しました。
@@ -2194,14 +2194,14 @@ Are you sure you want to unsubscribe the selected customers from the newsletter?
 Are you sure you want to void the payment?,決済データを取り消してもかまいませんか？
 Are you sure you would like to remove selected items from the requisition list?,選択した項目を購買依頼リストから削除しますか？
 Are you sure you would like to remove this item from the shopping cart?,このアイテムをショッピングカートから削除してもよろしいですか？
-Are you sure?,よろしいですか？
-Are you sure? This order will be canceled and a new one will be created instead.,本当によろしいですか？この注文はキャンセルされて新しい注文が代わりに作成されます
+Are you sure?,続行しますか？
+Are you sure? This order will be canceled and a new one will be created instead.,本当に続行しますか？この注文はキャンセルされて新しい注文が代わりに作成されます。
 Area code is already set,郵便番号は既にセットされております
 Area code is not set,郵便番号はセットされていません
-Area code not set: Area code must be set before starting a session.,郵便番号がセットされていません:郵便番号はセッションが始まる前に設定されてなければなりません
+Area code not set: Area code must be set before starting a session.,郵便番号がセットされていません:郵便番号はセッションが始まる前に設定されてなければなりません。
 Area is already set,地域は既に設定してあります
 Argument type duplication in class %1 in %2%3%4,クラス%1の%2%3%4変数タイプの複製
-Array root keys must not be numeric.,配列ルートキーは数字であってはいけません
+Array root keys must not be numeric.,配列ルートキーは数字であってはいけません。
 Art and Design,アートとデザイン
 As low as,同じかそれ以下
 As Low as,同じかそれ以下
@@ -2247,7 +2247,7 @@ Asynchronous indexing,非同期インデックシング
 Asynchronous sending,非同期送付
 At least one approver is required to configure this rule.,この規則を構成するには、少なくとも1人の承認者が必要です。
 At least one email address is needed. Enter an email address and try again.,少なくとも1つのメールアドレスが必要です。 メールアドレスを入力して再度お試し下さい。
-At least one two-factor authentication provider must be configured.,2要素認証プロバイダーを少なくとも1つ設定する必要があります。
+At least one two-factor authentication provider must be configured.,二要素認証プロバイダーを少なくとも1つ設定する必要があります。
 At least one website or store group needs to be selected. Select and try again.,少なくとも1つのウェブサイトかストアグループを選択する必要があります。選択して再度お試し下さい。
 "At minimum, you need to set a payment ID.",最低限として支払IDを設定する必要があります
 Athletic/Sporting Goods,運動・スポーツ用品
@@ -2375,8 +2375,8 @@ Average,平均
 Average (Approved),平均 (承認済み)
 Average Customer Rating,平均評価
 Average Customer Rating:,平均評価:
-Average Order,平均的オーダー
-Average Sale,平均売上
+Average Order,平均注文額
+Average Sale,平均売上額
 AVS Response,AVS レスポンス
 AVS result code,AVSリザルトコード
 AVS Street Does Not Match,AVS番地がマッチしません
@@ -2569,8 +2569,8 @@ Bottom/Left,下部/左
 Bottom/Right,下部/右
 Braintree,Braintree
 Braintree error response.,Braintreeのエラーレスポンス。
-Braintree Settlement,Braintree決済
-Braintree Settlement Report,Braintree決済報告書
+Braintree Settlement,Braintree 決済
+Braintree Settlement Report,Braintree 決済報告書
 BraintreeTwo,BraintreeTwo
 Brazil Installment Period,ブラジル分割払い
 Break bulk economy,バルクエコノミーを小分けする
@@ -2839,7 +2839,7 @@ Cannot resolve layered filter type,絞込のフィルタータイプを解決で
 Cannot resolve type,型を解決できません
 Cannot retrieve assets from Adobe Stock.,Adobe Stockからアセットを取得できません。
 Cannot retrieve shipping rates,配送レートを取得できませんでした。
-Cannot retrieve the field %1. It's not available in Adobe Stock SDK,フィールド%1を取得できません。Adobe StockSDKでは使用できません
+Cannot retrieve the field %1. It's not available in Adobe Stock SDK,フィールド%1を取得できません。Adobe Stock SDK では使用できません
 Cannot save attribute,属性は保存できません
 Cannot save attribute %1,属性 %1は保存できません
 Cannot save attributeGroup,属性グループは保存できません
@@ -3345,7 +3345,7 @@ Configuration reset,設定のリセット
 Configurations,設定
 "Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",ダウンロード可能なファイルを持つ標準商品の構成は作成できません。構成を作成するには、まずダウンロード可能なすべてのファイルを削除します。
 Configure,構成
-"Configure an Adobe Stock account on <a href=""https://console.adobe.io"" target=""_blank"">adobe.io</a> to get the API Key (Client ID) and Client Secret. You will not be able to use the integration without both the API Key and Client Secret.","<a href=""https://console.adobe.io""ターゲット=""_blank "">adobe.io</a>でAdobe Stockアカウントを構成し、APIキー（クライアントID）とクライアントの秘密鍵を取得します。APIキーとクライアントの秘密鍵の両方がないと、統合を使用できません。"
+"Configure an Adobe Stock account on <a href=""https://console.adobe.io"" target=""_blank"">adobe.io</a> to get the API Key (Client ID) and Client Secret. You will not be able to use the integration without both the API Key and Client Secret.","<a href=""https://console.adobe.io""ターゲット=""_blank "">adobe.io</a>で Adobe Stock アカウントを構成し、APIキー（クライアントID）とクライアントの秘密鍵を取得します。APIキーとクライアントの秘密鍵の両方がないと、統合を使用できません。"
 Configure and Add to Order,オプションを選択して追加する
 Configure Product,商品を構成する
 Confirm,承認
@@ -3510,9 +3510,9 @@ Could not create products collection.,商品コレクションを作成できま
 Could not create team,チームを作成できまでんした
 Could not create the directory.,ディレクトリを作成できませんでした。
 "Could not delete ""%image"": destination directory is restricted.","""%image ""を削除できませんでした：宛先ディレクトリは制限されています。"
-Could not delete Adobe Stock asset category with id %id,ID %id のAdobe Stockアセットカテゴリを削除できませんでした
-Could not delete Adobe Stock asset creator with id %id,ID %id のAdobe Stockアセット作成者を削除できませんでした
-Could not delete Adobe Stock asset with id %id,ID %id のAdobe Stockアセットを削除できませんでした
+Could not delete Adobe Stock asset category with id %id,ID %id の Adobe Stock アセットカテゴリを削除できませんでした
+Could not delete Adobe Stock asset creator with id %id,ID %id の Adobe Stock アセット作成者を削除できませんでした
+Could not delete Adobe Stock asset with id %id,ID %id の Adobe Stock アセットを削除できませんでした
 Could not delete coupon code,クーポンコードは削除出来ませんでした
 Could not delete credit memo,クレジットメモを削除出来ませんでした
 Could not delete directories: %paths,ディレクトリを削除できませんでした：%paths
@@ -3573,7 +3573,7 @@ Could not load Sales Channels for Stock,在庫のSales Channelを読み込めま
 Could not load Source Item Configuration.,倉庫項目の設定を読み込めませんでした。
 Could not load Sources for Stock,在庫の倉庫を読み込めませんでした
 Could not locate schema: '%1' at '%2',スキーマを見つけることが出来ませんでした: '%1' の '%2'
-Could not login to Adobe IMS.,AdobeのIMSにログインできませんでした。
+Could not login to Adobe IMS.,Adobe の IMS にログインできませんでした。
 Could not move category,カテゴリを移動できませんでした
 Could not parse resource url.,リソースのURLを解析できませんでした。
 Could not parse the image file for metadata: %path,メタデータの画像ファイルを解析できませんでした：%path
@@ -4752,8 +4752,8 @@ Email Address,メールアドレス
 "Email address impact. The customer uses a free email provider, or the email address is risky",メールアドレスの影響。顧客が無料のメールプロバイダを使用している、またはメールアドレスが危険です。
 Email Address:,メールアドレス:
 "Email addresses, separated by commas","メールアドレスは「,」で区切る必要があります"
-Email Associated with PayPal Merchant Account,PayPal出店者アカウントにひもづいたメールアドレス
-Email Associated with PayPal Merchant Account (Optional),PayPalマーチャントアカウントに紐付けられたメール(オプション)
+Email Associated with PayPal Merchant Account,PayPal マーチャントアカウントにひもづいたメールアドレス
+Email Associated with PayPal Merchant Account (Optional),PayPal マーチャントアカウントに紐付けられたメール (オプション)
 Email Copy of Credit Memo,返金完了済メールを送信する
 Email Copy of Invoice,領収済メールを送信する
 Email Copy of Shipment,配送連絡メールを送信する
@@ -5219,7 +5219,7 @@ Failed Email Receiver,失敗メール受信者
 Failed Email Sender,失敗メール送信者
 Failed Email Template,失敗メールテンプレート
 Failed Messages Lifetime,失敗したメッセージの存続期間
-"Failed to authenticate to Adobe Stock API. <br> Please correct the API credentials in <a href=""%url"">Configuration → System → Adobe Stock Integration.</a>","Adobe StockAPIへの認証に失敗しました。 <br> <a href=""%url "">設定→システム→Adobe Stock統合でAPI資格情報を修正してください。</a>"
+"Failed to authenticate to Adobe Stock API. <br> Please correct the API credentials in <a href=""%url"">Configuration → System → Adobe Stock Integration.</a>","Adobe Stock API への認証に失敗しました。 <br> <a href=""%url "">設定→システム→Adobe Stock 統合でAPI資格情報を修正してください。</a>"
 Failed to create backup,バックアップ作成に失敗しました
 Failed to create directory %1,ディレクトリを作製できませんでした %1
 Failed to create Order from Purchase Order #%increment_id with Error - %error_message,発注書 #%increment_id から注文を作成できませんでした。エラー - %error_message
@@ -5928,7 +5928,7 @@ ID required,ID 必須
 ID: %s,ID :%s
 Identifier,識別子
 Identifying Fields required,身分証明フィールド必須
-Identity link URL,アイデンティティリンクURL
+Identity link URL,アイデンティティリンク URL
 "Identity morphing. Multiple values of an  dentity element are linked to a value of a different identity element. For example, m ltiple phone numbers are linked to a single account number",アイデンティティモーフィング。識別要素の複数の値は、異なる識別要素の値にリンクされています。たとえば、複数の電話番号が単一の口座番号にリンクされています
 If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:,%1 %2 %3 のサブセレクションのカート内商品でこれらの条件の%4にマッチする時:
 If %1 of these conditions are %2:,もし以下の %1 の条件が %2 であるなら:
@@ -6401,7 +6401,7 @@ Invalid token to except,予期された不正なトークン
 Invalid token.,無効なトークンです。
 Invalid transaction ID.,無効なトランザクション ID.
 Invalid transactional email code: %1,不正なトランザクション用メールコード: %1
-Invalid two-factor authorization token,2要素認証トークンが無効です
+Invalid two-factor authorization token,二要素認証トークンが無効です
 Invalid type,不正なタイプ
 "Invalid type for value: ""%value"". Expected Type: ""%type"".","値のタイプが無効です： ""%value""。期待されるタイプ： ""%type""。"
 "Invalid type of tax class ""%1""","無効なタイプの税区分 ""%1"""
@@ -6703,7 +6703,7 @@ Lib js unused,Libは使用されていません
 Library Mail,図書メール
 License,ライセンス
 "License """,ライセンス「」
-License Adobe Stock Images?,Adobe Stock・イメージズのライセンスは？
+License Adobe Stock Images?,Adobe Stock 画像のライセンスは？
 License and Save,ライセンスと保存
 License images,ライセンス画像
 License Status,ライセンスステータス
@@ -8159,7 +8159,7 @@ Paths file cannot be created,パスファイルを作成できません
 Pause,ポーズ
 Paused,ポーズ
 Pay,支払う
-Pay with PayPal,PayPal決済
+Pay with PayPal,PayPal 決済
 Payer Address ID,支払人住所ID
 Payer Address Status,支払人住所ステータス
 Payer Email,支払人メール
@@ -8201,7 +8201,7 @@ Payment Method,お支払方法
 Payment method is not defined for instance purchase.,支払い方法は、インスタンス購入のために定義されていません。
 Payment method nonce can't be retrieved.,支払い方法nonceは取得できません。
 Payment method nonce can\'t be retrieved.,Payment method nonce can\'t be retrieved.
-Payment method with vault and instant purchase support should be enabled.,vaultによる支払い方法と即時購入サポートを有効にする必要があります。
+Payment method with vault and instant purchase support should be enabled.,vault による支払い方法と即時購入サポートを有効にする必要があります。
 Payment Method:,支払方法 :
 Payment Methods,支払方法
 Payment Methods Section,支払方法セクション
@@ -8212,7 +8212,7 @@ Payment Refund initiated by merchant,マーチャントによる支払返金実�
 Payment refunding error.,支払い返金エラー
 Payment Response Password,支払いレスポンスパスワード
 Payment Review,決済レビュー
-Payment Services,支払いサービス
+Payment Services,Payment Services
 Payment Token Build Error.,支払いトークンのビルドエラー。
 Payment Transaction Failed,支払トランザクション失敗
 Payment Transaction Failed Reminder,支払い処理の失敗通知
@@ -8301,9 +8301,9 @@ PayPal response hasn't required fields.,PayPalレスポンスはフィールド�
 PayPal retains reports for 45 days.,PayPalは45日レポートを保持します。
 PayPal Reversed,Paypal による返金
 PayPal Section,PayPalセクション
-PayPal Settlement,PayPal決済
-PayPal Settlement Reports,PayPal決済レポート
-PayPal through Braintree,Braintree経由のPayPal決済
+PayPal Settlement,PayPal 決済
+PayPal Settlement Reports,PayPal 決済レポート
+PayPal through Braintree,Braintree 経由の PayPal 決済
 "PayPal will automatically display each enabled funding option to eligible buyers.
                                 For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
                                 offered and the currency offered by the merchant is USD.","PayPalは、有効な各資金調達オプションを適格な購入者に自動的に表示します。
@@ -8776,7 +8776,7 @@ Please select one of the options above.,1つ以上のオプションを選択し
 Please select one of the options.,オプションを1つ選択してください。
 Please select one or more hierarchies to delete.,削除する階層を1つ以上選択してください。
 Please select one or more subscribers.,一人以上の購読者を選択してください
-Please select one or more Two-Factor Authorization providers to be used to authorize admin users,管理者ユーザーの認証に使用する2要素認証プロバイダーを1つ以上選択してください
+Please select one or more Two-Factor Authorization providers to be used to authorize admin users,管理者ユーザーの認証に使用する二要素認証プロバイダーを1つ以上選択してください
 Please Select Order,注文を選択してください
 Please Select Product,商品を選択してください
 Please select products,商品を選択してください
@@ -10002,11 +10002,11 @@ Sales Order Status,注文ステータス
 Sales Orders,注文
 Sales Rep,販売担当者
 Sales Rep.:,販売担当者.:
-Sales Report,セールスレポート
+Sales Report,販売レポート
 Sales Representative,販売担当者
 Sales Representative Contact Email,セールス担当者メールアドレス
 Sales Representative Contact Name,セールス担当者名
-Sales Rule,セールスルール
+Sales Rule,販売ルール
 Sales Section,販売セクション
 Sales Shipments,配送
 Sales Shipping,送料
@@ -12926,9 +12926,9 @@ TTL for public content,パブリックコンテントのためのTTL
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl値 ""%1""は有効ではありません。ゼロと同じかそれ以上の数字のみ使って下さい"
 Turn Off,オフにする
 Two,ツー
-Two Factor Auth,2要素認証
+Two Factor Auth,二要素認証プ
 Two-factor authorization providers for admin users to use during login,二要素認証プロバイダーは管理者がログインする際に使用します
-Two-Factory Authorization providers have been successfully configured,2工場認証プロバイダーが正常に設定されました
+Two-Factory Authorization providers have been successfully configured,二要素認証プロバイダーが正常に設定されました
 Type,種別
 Type %1 has no internal representation declared.,タイプ%1には内部表現が宣言されていません。
 Type %1 is not an instance of %2,タイプ %1 は %2 のインスタンスではありません
@@ -13248,7 +13248,7 @@ URL Rewrites,URL 書き換え
 URL should be in correct format and must start with HTTPS.,URLは正しい形式で、HTTPSとの開始が必要です。
 URL to redirect user to link their 3rd party account with this Magento integration credentials.,サードパーティのアカウントとこのMagento統合の認証情報をリンクするためにユーザーをリダイレクトするURL
 US state codes must be two characters to meet PayPal Seller Protection requirements.,PayPalの売り手保護の要件を満たすには、米国の州コードは2文字でなければなりません。
-Usage limit enforced for logged in customers only.,使用可能数はログインしている顧客にのみ適用されます。
+Usage limit enforced for logged in customers only.,使用制限はログインしている顧客にのみ適用されます。
 Use {{name}} and {{description}} as Product Name and Product Description placeholders,{{name}}と{{description}}を商品名と商品詳細プレースホルダーとして使う
 Use {{name}} as Product Name or {{sku}} as Product SKU placeholders,{{name}} を商品名として使うあるいは {{sku}}を商品SKUプレースホルダーとして使う
 Use {{name}} as Product Name placeholder,{{name}} を商品名プレースホルダーとして使用する
@@ -13463,9 +13463,9 @@ VAT Request Identifier,VATリクエスト識別番号
 VAT/TAX ID,VAT/税ID:
 VAT/TAX ID:,VAT/税ID:
 VAT/TAX ID: ,VAT/税ID: 
-Vault enabled,Vault有効
-Vault Enabled,Vault有効
-Vault Title,Vaultのタイトル
+Vault enabled,Vault 有効
+Vault Enabled,Vault 有効
+Vault Title,Vault のタイトル
 Velocity. The account number was use  many times in the past 15 minutes,速度。 過去15分間にアカウント番号が何度も使用されていました
 Vendor,ベンダー
 ver. %1,バージョン%1
@@ -13592,8 +13592,8 @@ Warning: No message defined for %s,警告: %sのためのメッセージが定�
 "Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",警告：税を含む価格に割引を適用し、割引後に税金を適用するには、カタログ価格を「税込」に設定します。
 Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.,警告!この機能を稼働環境で有効にすることは推奨されていません。なぜなら情報漏えい事故の恐れがあるからです。
 Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information,注意！HTTPSを使っていないインテグレーションは危険であり個人情報を晒してしまう可能性があります
-Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,警告!\r\nユーザーが割り当てられているアクションを削除しようとしています。\r\nよろしいですか？
-Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,警告!\r\n以下のユーザーが割り当てられているアクションを削除しようとしています。\r\nよろしいですか？
+Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,警告!\r\nユーザーが割り当てられているアクションを削除しようとしています。\r\n続行しますか？
+Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,警告!\r\n以下のユーザーが割り当てられているアクションを削除しようとしています。\r\n続行しますか？
 was,あった
 was approved but an error occurred when converting it to an Order.,は承認されましたが、注文に変換中にエラーが発生しました。
 was not,なかった
@@ -14166,7 +14166,7 @@ Wrong Region,無効な地域
 Wrong request.,間違ったリクエスト。
 Wrong response type,間違ったレスポンスの種類
 Wrong rule specified.,不正なクーポンが指定されました
-"Wrong store code specified for cart ""%masked_cart_id""",買い物かご「%masked_cart_id 」に指定されたストアコードが正しくありません
+"Wrong store code specified for cart ""%masked_cart_id""",買い物かご「%masked_cart_id」に指定されたストアコードが正しくありません
 Wrong transaction status,間違った取引ステータス
 Wrong type specified: '%1',不正なタイプが指定されました: '%1'
 Wrong value %value for alias,エイリアスの値 %value が正しくありません
@@ -14189,7 +14189,7 @@ Yes (only price with tax),はい (税込み価格のみ)
 Yes (PayPal recommends this option),はい (PayPalはこのオプションを推奨します)
 "Yes, for Everyone",はい、誰にでも
 "Yes, for Specified Customer Groups",はい、顧客グループを指定します
-Yes. Matched Address and five-didgit ZIP,住所と５桁の郵便番号
+Yes. Matched Address and five-didgit ZIP,はい、住所と５桁の郵便番号が合致
 Yes. Matched Address and five-digit ZIP,はい、５桁の郵便番号と住所が合致
 Yes/No,はい/いいえ
 You added %1 item(s) to your shopping cart.,ショッピングカートに %1 の商品を追加しました。
@@ -14214,8 +14214,8 @@ You are not allowed to change CMS pages design settings,CMSページのデザイ
 You are not allowed to do this.,この操作は許可されていません
 You are not an owner of this quote. You cannot edit it or take any actions on it.,あなたはこの見積もりの所有者ではありません。これを編集したり、いずれの操作もできません。
 You are not using store credit in your shopping cart.,ショッピングカートでストアクレジットを使用していません。
-You are required to configure personal Two-Factor Authorization in order to login to %store,%store にログインするには、個人の2要素認証を構成する必要があります。
-You are required to configure website-wide and personal Two-Factor Authorization in order to login to %store,%store にログインするには、Webサイト全体および個人用の2要素認証を設定する必要があります。
+You are required to configure personal Two-Factor Authorization in order to login to %store,%store にログインするには、個人の二要素認証を構成する必要があります。
+You are required to configure website-wide and personal Two-Factor Authorization in order to login to %store,%store にログインするには、Webサイト全体および個人用の二要素認証を設定する必要があります。
 You are signed out,ログアウトしています
 You are signed out.,サインアウトしました。
 "You are subscribed to ""General Subscription"".","""全般購読""を購読しています。"
@@ -14458,7 +14458,7 @@ You have successfully removed the folder.,フォルダーは正常に削除さ�
 You have successfully removed the images.,画像は正常に削除されました。
 "You have successfully saved the image ""%image""",画像「%image 」は正常に保存されました
 You have successfully saved your edits.,編集は保存されました
-You have to select at least one Two-Factor Authorization provider,2要素認証プロバイダーを少なくとも1つ選択する必要があります
+You have to select at least one Two-Factor Authorization provider,二要素認証プロバイダーを少なくとも1つ選択する必要があります
 You have unassigned the order status.,注文ステータスをアサインから外しました
 You have updated the items in the quote.,見積もりの商品を更新しました。
 You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.,最近のシステム通知をすべて表示して解決しました。 通知警告をクリアするには、Webページを更新してください。
@@ -14525,7 +14525,7 @@ You need more permissions to save this setting.,この設定を保存するに�
 You need more permissions to set All Scopes to a Role.,すべてのスコープをロールに設定するには、さらに多くの権限が必要です。
 You need more permissions to view this item.,このアイテムを表示するにはさらに権限が必要です。
 You need to choose options for your item.,商品のためにオプションを選択しなければなりません。
-You need to configure Two-Factor Authorization in order to proceed to your store's admin area,ストアの管理領域に進むには、Two-Factor Authorizationを設定する必要があります。
+You need to configure Two-Factor Authorization in order to proceed to your store's admin area,ストアの管理領域に進むには、二要素認証を設定する必要があります。
 You need to enter sender data.,送信者データを入力する必要があります。
 You need to refresh the cache.,キャッシュを更新する必要があります。
 You need to select at least one image,少なくとも1つの画像を選択する必要があります
@@ -14996,9 +14996,9 @@ The coupon code has been removed.,クーポンコードは削除されました�
 Requested store is not found (%1),要求されたストアが見つかりません(%1)
 "Theme not found: ""%1"".","テーマが見つかりません：""%1""。"
 Status Updated On:,ステータス更新日：
-Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?,警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>よろしいですか？
-Warning!<br>This action will remove those users from already assigned roles.<br>Are you sure?,警告！<br>この操作を実行すると、既に割り当てられているロールからこれらのユーザーが削除されます。<br>よろしいですか？
-Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?,警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>よろしいですか？
+Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?,警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>続行しますか？
+Warning!<br>This action will remove those users from already assigned roles.<br>Are you sure?,警告！<br>この操作を実行すると、既に割り当てられているロールからこれらのユーザーが削除されます。<br>続行しますか？
+Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?,警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>続行しますか？
 """model"" should be a ""%instance"" instance",「モデル」は「%instance 」インスタンスである必要があります
 "The wishlist item with ID ""%id"" does not belong to the wishlist",IDが「%id 」のほしい物項目は、ほしい物リストに属していません
 System Messages,システムメッセージ
@@ -15200,7 +15200,7 @@ System Messages,システムメッセージ
                             <strong>融資の広告を出すことで、売上を伸ばすことができます。</strong><br/>PayPalは、PayPal Credit&#174により、ブラウザーを資金調達で購入者に変えるのに役立ちます。あなたのお客様は支払いするまでの時間が長く取れ、その一方でお客様に対して前払いを行い、追加の費用はかかりません。
                         PayPalの無料バナー広告を利用して、PayPalクレジット&#174の広告を出す事ができ、あなたのお客様がPayPalでチェックアウトする際に、支払い方法として融資を受けることができます。
                         PayPal 広告プログラムは、追加購入を生み出し、消費者の平均購入規模を15% 以上引き上げた事があります。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を表示</a>."
-Adobe Api Key is required!,Adobe APIキーが必要です。
+Adobe Api Key is required!,Adobe API キーが必要です。
 Please enable your Store View before using this Web Site as Default,この Web サイトをデフォルトとして使用する前に、お使いのストア表示を有効にしてください
 Incorrect value of input.type,input.type の不正な値
 Product relations processor must implement %1.,商品関係プロセッサは %1 を実装する必要があります。
@@ -15945,7 +15945,7 @@ Suspended,保留中
 "Secure and up-to-date extension with SaaS","SaaS によるセキュアで最新の拡張"
 Sandbox,サンドボックス
 Production,実稼動
-"Note: More configuration options are available in Payment Service's %1.","注意：支払いサービスの %1 では、より多くの構成オプションを利用できます。"
+"Note: More configuration options are available in Payment Service's %1.","注意：Payment Services の %1 では、より多くの構成オプションを利用できます。"
 "Your session has expired. Please refresh the page and try again.",セッションの有効期限が切れました。ページを再読み込みし、再度お試しください。
 "Product is out of stock. Please try again later.",商品の在庫がありません。後ほど再試行してください。
 "We can't add this item to your shopping cart right now. Please try again later.",現在、このアイテムをカートに追加できません。後ほど再試行してください。
@@ -15972,7 +15972,7 @@ pill,ピル
 "Order auto-canceled due to technical issues.",技術的な問題により、注文が自動キャンセルされました。
 "Invalid methodCode","無効な methodCode"
 "Can't initialize checkout. Please try again.",チェックアウトを初期化できません。再度お試しください。
-"Payment Services can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",支払いサービスは、未払い残高がゼロの注文を処理できません。購入を完了するには、通常のチェックアウトプロセスを実行してください。
+"Payment Services can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",Payment Services は、未払い残高がゼロの注文を処理できません。購入を完了するには、通常のチェックアウトプロセスを実行してください。
 "Your payment was not successful. Try again.",お支払いが失敗しました。再度お試しください。
 "Secure transaction",安全な取引
 "Card Security Code",カードのセキュリティコード
@@ -16115,7 +16115,7 @@ Resolver,リゾルバー
 "Is Optional",オプション
 "Webhooks Response Cache",ウェブフックレスポンスキャッシュ
 "Caches responses to webhook requests","ウェブフックリクエストへのレスポンスをキャッシュします"
-"Adobe IO Events Configuration","AdobeI/O イベントの設定"
+"Adobe IO Events Configuration","Adobe IO イベントの設定"
 "Configuration Check",設定チェック
 "Adobe Services","Adobe Services"
 "General configuration",一般設定
@@ -16194,14 +16194,14 @@ Listing,リスト
 "Order cancellation through GraphQL",GraphQL を使用した注文のキャンセル
 "Order cancellation reasons",注文のキャンセル理由
 "Featured Adobe Payment solution:",注目の Adobe Payment ソリューション：
-"Accept debit/credit cards with Payment Services",支払いサービスでデビットカード/クレジットカードを受け入れる
-"Payment Services is your turnkey integrated solution for providing secure payment processing, robust reporting, and optimized online order payments.",支払いサービスは、安全な支払い処理、堅牢なレポート作成、最適化されたオンライン注文支払いを提供するためのターンキー統合ソリューションです。
+"Accept debit/credit cards with Payment Services",Payment Services でデビットカード/クレジットカードを受け入れる
+"Payment Services is your turnkey integrated solution for providing secure payment processing, robust reporting, and optimized online order payments.",Payment Services は、安全な支払い処理、堅牢なレポート作成、最適化されたオンライン注文支払いを提供するためのターンキー統合ソリューションです。
 "General Configuration",一般設定
 "Sandbox Merchant ID","サンドボックスマーチャント ID"
 "Production Merchant ID","生産マーチャント ID"
-"Payment Services is your turnkey integrated solution for providing secure payment processing, robust reporting, and optimized online order payments. Payment Services can be configured in the settings page under <b>Sales > Payment Services</b>.","支払いサービスは、安全な支払い処理、堅牢なレポート作成、最適化されたオンライン注文支払いを提供するためのターンキー統合ソリューションです。支払いサービスは、<b> セールス > 支払いサービス </b> の設定ページで設定できます。"
-"Go to Payment Services",支払いサービスに移動
-"Pay with Payment Services",支払いサービスによる支払い
+"Payment Services is your turnkey integrated solution for providing secure payment processing, robust reporting, and optimized online order payments. Payment Services can be configured in the settings page under <b>Sales > Payment Services</b>.","Payment Services は、安全な支払い処理、堅牢なレポート作成、最適化されたオンライン注文支払いを提供するためのターンキー統合ソリューションです。Payment Services は、<b> セールス > Payment Services  </b> の設定ページで設定できます。"
+"Go to Payment Services",Payment Services に移動
+"Pay with Payment Services",Payment Services による支払い
 "Soft Descriptor",ソフト記述子
 "Enable asynchronous status updates",非同期ステータス更新を有効にする
 "Credit Card Fields",クレジットカードフィールド
@@ -16268,22 +16268,234 @@ Venmo,Venmo
 "Stores Feed",ストアフィード
 "Collects data for a Stores Feed",ストアフィードのデータを収集します
 "Swagger UI","Swagger UI"
-"Not all browsers support all these formats! Note: ICO file type is supported by ImageMagik adapter that can be set from Store / Configuration / Developer / Image Processing Settings.","すべてのブラウザーでこれらのフォーマットがサポートされているわけではありません。注意： ICO ファイルタイプは、ストア / 設定 / 開発者向け / 画像プロセス設定から設定できる ImageMagik アダプターでサポートされています。"
+"Not all browsers support all these formats! Note: ICO file type is supported by ImageMagik adapter that can be set from Store / Configuration / Developer / Image Processing Settings.","すべてのブラウザーでこれらのフォーマットがサポートされているわけではありません。注意： ICO ファイルタイプは、ストア / 設定 / 開発者向け / 画像処理設定から設定できる ImageMagik アダプターでサポートされています。"
 "Use {YYYY} to insert the current year (updates on cache refresh).","{YYYY} を使用して現在の年を挿入します（キャッシュ更新時に更新）。"
 "Gateway REST URL","ゲートウェイ REST URL"
 "Tracking REST URL","REST URL のトラッキング"
 "Last Logged in",最終ログイン日時
-"Invalid Identity Link URL", "不正なアイデンティティリンクURLです"
-"Invalid data type","不正なデータ型です"
-"Payment Services Sandbox ID","ペイメントサービス サンドボックスID"
-"Reset Payment Services Sandbox ID","ペイメントサービス サンドボックスIDをリセットする"
-"Payment Services Production ID","ペイメントサービス プロダクションID"
-"Reset Payment Services Production ID","ペイメントサービス プロダクションIDをリセットする"
-"This value will be automatically populated after setting up the Commerce Connector and visiting the Payment Services dashboard for the first time. This value associates your SaaS ID to Payment Services.","この値はコマースコネクタをセットアップし、ペイメントサービスのダッシュボードに初めてアクセスした際に評価されます。 この値はあなたのSaaS IDをペイメントサービスに関連付けます。"
-"Your unique Production Merchant ID for Adobe Commerce Payment Services","あなたのAdobeコマースサービス用のユニークなプロダクションマーチャントID"
-"Payment Services ID can't be reset right now","ペイメントサービスIDは今リセットできません"
-"Configuration for TwoFactorAuth retry attempts","二要素認証リトライ回数設定"
-"Configuration for TwoFactorAuth lock expire time","二要素認証ロック失効時間設定"
-"TwoFactorAuth Configuration","二要素認証設定"
-"Security configurations for TwoFactorAuth page","二要素認証画面のセキュリティ設定"
-"Your account is temporarily disabled.","あなたのアカウントは一時的に無効です。"
+"'Are you sure?'",「続行しますか？」
+"Unable to find Sales Order with ID ""%1""","ID ""%1""の注文が見つかりません"
+"Execute Synchronization",同期の実行
+"Wrong configuration in ""%1"" section of app/etc/env.php or app/etc/config.php files for the event ""%2"". The configuration must be in array format with at least one field configured.","イベント「%2」のapp/etc/env.phpまたはapp/etc/config.phpファイルの「%1」セクションの設定が間違っています。設定は、少なくとも 1 つのフィールドが設定された配列形式である必要があります。"
+"Events Status",イベントステータス
+"Events List",イベントリスト
+"An event provider is not configured",イベントプロバイダーが設定されていません
+"No event provider is configured. Please configure the event provider before unsubscribing from events.",イベントプロバイダーが設定されていません。イベントを登録解除する前に、イベントプロバイダーを設定してください。
+"Failed to get event subscriptions. Error: %1","イベント配信登録を取得できませんでした。エラー： %1"
+"Unable to read the list of current event subscriptions: %1","現在のイベント配信登録の一覧を読み取れません： %1"
+"Unable to update the event subscription. A subscription for %1 does not exist","イベント配信登録を更新できません。%1 のサブスクリプションが存在しません"
+"Unable to update the event subscription. The subscription for %1 is not enabled","イベント配信登録を更新できません。%1 の配信登録は有効になっていません"
+"Event code ""%1"" must consist of a type label and an event code separated by a dot: ""<type>.<event_code>"". Valid types: %2","イベントコード""%1""は、種類ラベルとドットで区切られたイベントコード""<type>.<event_code> ""で構成する必要があります。有効な種類： %2"
+"Invalid event type ""%1"" in the provided event code ""%2"". Valid types: %3","提供されたイベントコード""%2""のイベントタイプ""%1""が無効です。有効な種類： %3"
+"""%1"" cannot be used as the event code for an alias or a rule-based event. This event code is already reserved for supported events.","""%1""はエイリアスまたはルールベースイベントのイベントコードとして使用できません。このイベントコードは、サポートされるイベント用に既に予約されています。"
+"Cannot unsubscribe ""%1"" because it is not registered in the ""%2"" section of the config.php or env.php files.","""%1""は、config.php または env.php ファイルの""%2""セクションに登録されていないため、購読解除できません。"
+"A parent event name must be set for rule-based event subscriptions",ルールベースのイベント配信登録用に親イベント名を設定する必要があります
+"Unable to update the event as it is registered in an io_events.xml file. Events registered in io_events.xml files are required and can not be modified.","io_events .xml ファイルに登録されているため、イベントを更新できません。io_events .xml ファイルに登録されているイベントは必須で、変更できません。"
+"Private key not found",秘密鍵が見つかりません
+"Instance ID not found","インスタンス ID が見つかりません"
+"Invalid configuration",無効な設定
+"Synchronization failed",同期できませんでした
+"Regenerate key pair",キーペアを再生成
+"Generate key pair",キーペアを生成
+"The new pair of keys have been successfully generated",新しいキーのペアが正常に生成されました
+"Creating a webhook with method name ""%1"" is not allowed.","メソッド名""%1""のウェブフックの作成は許可されていません。"
+"Create Event Provider",イベントプロバイダーを作成
+"'Event Provider created with ID ' .","「ID 」でイベントプロバイダーが作成されました。"
+". 'See logs for details'",". '詳細はログを参照してください'"
+"The %1 and %2 of this account have been modified successfully.","このアカウントの%1 と%2 は正常に変更されました。"
+"The %1 of this account has been modified successfully.","このアカウントの%1 は正常に変更されました。"
+"Only X of Y available","Y の X のみが使用可能"
+"Not enough items for sale",売り物が足りない
+"Product %name is out of stock.","商品 %name は在庫切れです。"
+"The requested qty. is not available",リクエストされた数量は使用できません
+"Add Permission",権限を追加
+"Sharing catalog rules information is disabled or not configured.",カタログルール情報の共有が無効になっているか、構成されていません。
+"Special Price update from %1 to %2","%1 から%2 への特別価格の更新"
+"The parent product SKU is required for linking child products. Please ensure the parent product SKU is provided and try again.","子商品をリンクするには、親商品の SKU が必要です。親商品 SKU が提供されていることを確認し、再度お試しください。"
+"Reset Is Default",デフォルトにリセット
+"Refresh registrations",登録を更新
+"Please select maximum %1 customer(s) before executing this mass action.","この一括アクションを実行する前に、最大 %1 件の顧客を選択してください。"
+"Admin UI SDK log","管理 UI SDK ログ"
+"menu' 'items' 'page' 'title' '","メニュー' '項目' 'ページ' 'タイトル'"
+"Registrations refreshed successfully.",登録が更新されました。
+Draft,下書き
+Retracted,撤回
+"The mass action request doesn't exist. Verify the request id and try again.","マスアクションリクエストが存在しません。リクエスト ID を確認して、もう一度試してください。"
+"'customer_id' is required.","'customer_id 'が必要です。"
+"The specified customer group is invalid or does not exist.",指定した顧客グループは無効か、存在しません。
+"Sharing customer group information is disabled or not configured.",顧客グループ情報の共有が無効か、設定されていません。
+"Unable to retrieve customer groups.",顧客グループを取得できません。
+"Email address is not valid",メールアドレスが無効です
+"There is no user registered with that email address.",そのメールアドレスで登録されたユーザーはいません。
+"There was an error when sending the confirmation email",確認メールの送信中にエラーが発生しました
+"Applied customer segments are not enabled in configuration.",適用された顧客セグメントが設定で有効になっていません。
+"Report for product view event is disabled.",商品表示イベントのレポートは無効です。
+"The email address is required to create a customer account.",顧客アカウントを作成するには、メールアドレスが必要です。
+"Compilation from source: %1","ソースからのコンパイル： %1"
+"Email template is not defined.",メールテンプレートが定義されていません。
+"Transport error: Unable to send mail at this time.",トランスポートエラー：現時点ではメールを送信できません。
+"The product model is not available.",商品モデルが使用できません。
+"The product model is not available.",商品モデルが使用できません。
+"Unable to parse the request.",リクエストを解析できません。
+"Import History id","インポート履歴 ID"
+"Invalid Identity Link URL","無効なアイデンティティリンク URL"
+"""%column"" contains incorrect value","""%column ""には不正な値が含まれています"
+"Not enough items for sale",商品が足りない
+"Provided email does not match with invited email.",提供されたメールは招待されたメールと一致しません。
+"File validation failed. Check Image Processing Settings in the Store Configuration.",ファイルの検証に失敗しました。ストア設定の画像処理設定を確認してください。
+"The order cancellation could not be confirmed.",注文のキャンセルを確認できませんでした。
+"ConfirmCancelOrderInput is missing.","ConfirmCancelOrderInput がありません。"
+"GuestOrderCancelInput is missing.","GuestOrderCancelInput がありません。"
+"Order cancellation reason is invalid.",注文のキャンセル理由が無効です。
+"Email sending failed: %1","メールの送信に失敗しました： %1"
+"If you have product questions or need help with setup, follow this link and fill out the form",商品に関する質問がある場合や、設定に関するサポートが必要な場合は、このリンクに従ってフォームに入力します
+"Payment Services ID can't be reset right now","現在、Payment Services ID をリセットできません"
+"Payment Services ID was reset successfully","Payment Services ID が正常にリセットされました"
+Storeview,ストアビュー
+"Error while trying to access the page.",ページにアクセスしようとした際にエラーが発生しました。
+"Order is missing and can not be captured. Try again later.",注文が見つからないためキャプチャーできません。後でもう一度試してください。
+"Order is missing and can not be authorized. Try again later.",注文が見つからないため承認できません。後でもう一度試してください。
+"Please confirm your email address on your <a href=""https://www.paypal.com/businessprofile/settings"" target=""_blank"">Paypal Profile Settings</a> in order to receive payments.","お支払いを受け取るには、<a href=""https://www.paypal.com/businessprofile/settings"" target=""_blank "">Paypal プロファイル設定</a> でメールアドレスを確認してください。"
+ERROR,エラー
+"There is an issue with your PayPal account. Please reach out to Adobe sales for assistance.","PayPal アカウントに問題があります。サポートが必要な場合は、アドビセールスにお問い合わせください。"
+"Please finish onboarding by using your Adobe generated scope onboarding link.",アドビが生成した範囲のオンボーディングリンクを使用して、オンボーディングを完了してください。
+"No config provider found for vault method ""%1"".","Vault メソッド""%1""の構成プロバイダーが見つかりません。"
+"Save New Card",新しいカードを保存
+"Card Information",カード情報
+"Card Description",カードの説明
+"Card Expiration Date",カードの有効期限
+"Card Security Number",カードのセキュリティ番号
+"Add New Card",新しいカードの追加
+"The requested qty. is not available",リクエストされた数量は使用できません
+"Could not use ""use_for_shipping"" option, as multiple shipping addresses have already been set.","「use_for_shipping」オプションを使用できませんでした。複数の送付先住所が既に設定されています。"
+"The ""model"" value or pricing details are missing or invalid.",「モデル」値または価格の詳細がないか、無効です。
+"The cart is locked for processing. Please try again later.",カートが処理のためにロックされています。後ほど再試行してください。
+"Please check input parameters.",入力パラメーターを確認してください。
+"Configuration for provided captcha type can not be retrieved.","提供された Captcha タイプの設定を取得できません。"
+"'customer_id' is required.","'customer_id 'が必要です。"
+"Return cannot be confirmed.",返品を確認できません。
+"You entered an invalid email address: ""%field""","無効なメールアドレス""%field""を入力しました。"
+"The order return could not be confirmed.",注文の返品を確認できませんでした。
+"Email sending failed: %1","メールの送信に失敗しました： %1"
+"This product is currently out of stock or not available.",この商品は現在在庫が無いか、在庫がありません。
+"Sharing Cart Rules information is disabled or not configured.",カートルール情報の共有が無効になっているか、設定されていません。
+"Category (Parent Only)",カテゴリ（親のみ）
+"%1 (Parent Only)","%1（親のみ）"
+"%1 (Children Only)","%1（子のみ）"
+"Unable to add comment: The status ""%1"" is not part of the order status history.","コメントを追加できません：ステータス""%1""は注文ステータス履歴に含まれていません。"
+"Update Comment",コメントを更新
+"Reset Is Default",デフォルトにリセット
+"Using Default Theme",デフォルトのテーマを使用
+"User session not found.",ユーザーセッションが見つかりません。
+"The Leeway must be a numeric value.",Leeway は数値である必要があります。
+"Invalid Leeway value. It must be between 1 and %1 as default period is %2","無効な Leeway 値です。デフォルト期間は%2 なので、1 から%1 の間にする必要があります"
+"2FA Unavailable. Confirm Duo client/secret/host values are correct","2FA 使用不可。Duo クライアント/シークレット/ホストの値が正しいことを確認してください"
+"Duo Auth URL created successfully.","Duo 認証 URL が正常に作成されました。"
+"More permissions are needed to access this item.",この項目にアクセスするには、さらにアクセス許可が必要です。
+VAT,VAT
+T,真
+F,偽
+VAT,VAT
+"Confirm Your %store_name Order Cancellation","%store_name の注文のキャンセルの確認"
+"It seems that you'd like to cancel your order #%order_id. If this is correct, please <a href=""%guest_order_url"" target=""_blank"">click here</a> to confirm your cancellation request.","注文 #%order_id をキャンセルされる場合は、<a href=""%guest_order_url "" target=""_blank "">ここをクリック</a> してキャンセルリクエストを確認してください。"
+"Confirm Your %store_name Order Return","%store_name の返品の確認"
+"It seems that you'd like to return your order #%order_id. If this is correct, please <a
+                href=""%url_to_confirm"">click here</a> to confirm your return request.","注文 #%order_id を返品される場合は、<a
+                href=""%url_to_confirm "">ここをクリック</a> して、返品リクエストを確認します。"
+"We have received a request to reset the %changes associated with your account at %store_name.","%store_name のアカウントに関連付けられた %changes をリセットするリクエストを受信しました。"
+"The ID can contain only alphanumeric characters and underscores.","ID に含めることができるのは、英数字とアンダースコアのみです。"
+"This search engine option is no longer supported by Adobe. It is recommended to use OpenSearch as a search engine instead.","この検索エンジンオプションは、アドビではサポートされなくなりました。検索エンジンには OpenSearch を使用することをお勧めします。"
+"Invalid message",無効なメッセージ
+"Please use only letters (a-z or A-Z), numbers (0-9), dots (.), commas(,), underscores (_), dashes (-), and spaces on this field.","このフィールドには、文字 (a ～ z、A ～ Z)、数字 (0 ～ 9)、ドット (.)、コンマ (,)、アンダースコア (_) 、ダッシュ (-)、スペースのみを使用してください。"
+"Please use only letters (a-z or A-Z), numbers (0-9), dots (.), commas(,), underscores (_) and dashes(-) on this field.","このフィールドには、文字 (a ～ z、A ～ Z)、数字 (0 ～ 9)、ドット (.)、コンマ (,)、アンダースコア (_) 、ダッシュ (-) のみを使用してください。"
+"Please use only letters (a-z or A-Z), numbers (0-9), dots (.), commas(,), underscores (_), dashes(-) and spaces on this field.","このフィールドには、文字 (a ～ z、A ～ Z)、数字 (0 ～ 9)、ドット (.)、コンマ (,)、アンダースコア (_) 、ダッシュ (-)、スペースのみを使用してください。"
+"Reset Payment Services ID","Payment Services ID のリセット"
+"This will reset your configuration for Payment Services in ","これにより、Payment Services の設定がリセットされます "
+"CreditCard Vault is not available.","CreditCard Vault は使用できません。"
+"Error while vaulting the card, please try again.",カードをヴォルティング中にエラーが発生しました。もう一度やり直してください。
+"Card vaulted successfully. Please wait to be redirected to the Stored Payment Methods page.",カードが正常に保存されました。保存されている支払い方法ページにリダイレクトされるまでお待ちください。
+"Error rendering Payment SDK, please reload the page and try again.",Payment SDKのレンダリングエラー。ページを再読み込みし、再度お試しください。
+"Error initializing Payment SDK, please reload the page and try again.",Payment SDKの初期化エラー。ページを再読み込みし、再度お試しください。
+"Custom Fee",通関手数料
+"Unsubscribe from an event",イベント配信登録を解除
+"Event Status",イベントステータス
+"API to get event subscriptions","イベント配信登録を取得する API"
+"Synchronize Events",イベントの同期
+"Get Event Provider List",イベントプロバイダーリストの取得
+"Event ID","イベント ID"
+"Retries Count",再試行回数
+Info,情報
+"Webhooks Digital Signature",ウェブフックのデジタル署名
+"Webhooks Digital Signature Settings",ウェブフックのデジタル署名設定
+"Webhooks Digital Signature Generate Keys",ウェブフックのデジタル署名がキーを生成します
+"Webhooks Management",ウェブフック管理
+"Webhooks Logs",ウェブフックログ
+"Get list of Webhooks",ウェブフックのリストを取得
+"Digital Signature configuration",デジタル署名の設定
+"Public key",公開鍵
+"Database logging configuration",データベースログの構成
+"Log retention time (in days)",ログ保持時間（日数）
+"Save full log messages",完全なログメッセージを保存
+"Log record id","ログレコード ID"
+"Log level",ログレベル
+"Request Id","リクエスト ID"
+"Adobe I/O Event Provider Instance ID","Adobe I/O Event Provider インスタンス ID"
+"Event Provider",イベントプロバイダー
+"Short Description",短い説明
+"Not Available Message",メッセージを利用できません
+"GraphQl Configurations","GraphQl 設定"
+"Share all Catalog Rules via GraphQl","GraphQl を使用したすべてのカタログルールを共有"
+"Share the Applied Catalog Rules via GraphQl","適用されたカタログルールを GraphQl で共有"
+"Product URL Rewrite Scope","商品 URL 書き換えスコープ"
+"When editing a product URL rewrites can be generated in website or in view scope.","商品の編集時に、URL の書き換えを Web サイトまたはビュー範囲で生成できます。"
+"Apply transliteration for product URL","商品 URL の表記変換を適用"
+"TinyMCE 6","TinyMCE 6"
+"Admin UI SDK Management","管理 UI SDK管理"
+"Admin UI SDK Logs","管理 UI SDK ログ"
+"Database logging configuration",データベースログの構成
+"Enable logs",ログを有効にする
+"Minimum logs level",最小ログレベル
+"Log retention period (in days)",ログ保持期間（日数）
+Testing,テスト
+"Enable testing",テストを有効にする
+"Testing mode",テストモード
+"App status",アプリのステータス
+"Select all the app statuses you wish to load for sandbox testing from your organization.",組織からサンドボックステスト用に読み込むすべてのアプリステータスを選択します。
+"Log record id","ログレコード ID"
+"Log level",ログレベル
+Timestamp,Timestamp
+"Allow to retrieve applied customer segments via GraphQL API","GraphQL API を使用して適用された顧客セグメントを取得することを許可します"
+"Allow to retrieve all customer segments via GraphQL API","GraphQL API を使用してすべての顧客セグメントを取得することを許可します"
+"Share all customer groups via GraphQl","GraphQl を使用してすべての顧客グループを共有"
+"Share the customer group via GraphQl for a customer","GraphQl を使用して顧客グループを顧客と共有する"
+"Enable Tracking API credentials","トラッキング API 認証情報の有効化"
+"Tracking API Key","トラッキング API キー"
+"Tracking API Secret Key","トラッキング API 秘密鍵"
+"Admin Data Transfer Export",管理データ転送のエクスポート
+"Image Attribute Width",画像属性の幅
+"Image Attribute Height",画像属性の高さ
+"Mobile Image Attribute Width",モバイル画像属性の幅
+"Mobile Image Attribute Height",モバイル画像属性の高さ
+"Payment Services Sandbox ID","Payment Services サンドボックス ID"
+"Your unique Sandbox Merchant ID for Adobe Commerce Payment Services.","Adobe Commerce Payment Services 用の一意のサンドボックスマーチャント ID。"
+"Reset Payment Services Sandbox ID","Payment Services サンドボックス ID をリセット"
+"Payment Services Production ID","Payment Services プロダクション ID"
+"Your unique Production Merchant ID for Adobe Commerce Payment Services.","Adobe Commerce Payment Services 用の一意のマーチャント ID。"
+"Reset Payment Services Production ID","Payment Services プロダクション ID をリセット"
+"Multiple business account scoping level",複数のビジネスアカウント範囲レベル
+"Scope type to partition <a href=""https://experienceleague.adobe.com/en/docs/commerce-merchant-services/payment-services/configure/settings#use-multiple-paypal-accounts"" target=""_blank"">multiple PayPal business accounts</a> by: Website or Storeview. This configuration can only be updated from the terminal.","<a href=""https://experienceleague.adobe.com/en/docs/commerce-merchant-services/payment-services/configure/settings#use-multiple-paypal-accounts"" target=""_blank "">複数の PayPal ビジネスアカウント</a> のパーティションを作成するスコープの種類：Web サイトまたはストアビュー。この設定は、端末からのみ更新できます。"
+"Paypal Merchant ID","Paypal マーチャント ID"
+"Enable sending L2 L3 Data to Payments Service (Not visible in Admin UI)","L2 L3 データの Payments Serviceへの送信を有効にします（管理 UI には表示されません）"
+"Url of the Payment Services SDK","Payment Services SDKの URL"
+"Enable for Resend Confirmation Email",再送信確認メールの有効化
+"GraphQl Configurations","GraphQl 設定"
+"Share All Sales Rules",すべての販売ルールを共有
+"Share Applied Sales Rules",適用された販売ルールの共有
+"Order Save API","注文保存 API"
+"Retry attempt limit for Two-Factor Authentication","二要素認証の再試行回数の制限"
+"Two-Factor Authentication lockout time (seconds)","二要素認証のロックアウト時間（秒）"
+Leeway,Leeway
+"This sets the time drift leeway for OTPs. A leeway of 29 with a period of 30 means OTPs are valid within ±29 seconds from the current time. The leeway must be smaller than the period","これにより、OTP のタイムドリフトの Leeway が設定されます。Leewayが 29 で期間が 30 の場合、OTP は現在の時間から±29 秒以内に有効になります。Leewayは期間より小さくなければなりません"
+"Duo Security Universal Prompt","Duo Security Universal Prompt"
+"Client Id","クライアント ID"
+"Integration Key",統合キー
