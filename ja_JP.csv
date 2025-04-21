@@ -1660,16 +1660,16 @@ Admin User Name,管理者ユーザー名
 Admin Webhook URL,管理者ウェブフック URL
 Adminhtml Themes List,Adminhtmlのテーマリスト
 Administrator,管理者
-Adobe API Key is invalid!,AdobeAPIキーが無効です。
-Adobe API login has expired!,AdobeAPIのログインが期限切れになりました。
-Adobe id is required.,AdobeIDが必要です。
-Adobe IMS,AdobeIMS
+Adobe API Key is invalid!,Adobe APIキーが無効です。
+Adobe API login has expired!,Adobe APIのログインが期限切れになりました。
+Adobe id is required.,Adobe IDが必要です。
+Adobe IMS,Adobe IMS
 Adobe Stock,Adobe Stock
 "Adobe Stock asset category with id ""%1"" does not exist.","IDが""%1""のAdobe Stockアセットカテゴリは存在しません。"
 "Adobe Stock asset creator with id ""%1"" does not exist.","IDが ""%1"" のAdobe Stockアセット作成者は存在しません。"
 Adobe Stock asset with id %id does not exist.,ID %id のAdobe Stockアセットは存在しません。
-Adobe Stock Integration,Adobe Stock統合
-Adobe Stock WebAPI,Adobe StockWebAPI
+Adobe Stock Integration,Adobe Stock 統合
+Adobe Stock WebAPI,Adobe Stock WebAPI
 Adult,成人
 Adult Signature Required,成人の署名が必須
 Advanced,高度な設定
@@ -1905,7 +1905,7 @@ An error occurred,エラーが起きました
 An error occurred at deleting links between the media asset and media content.,メディアアセットとメディアコンテンツ間のリンクを削除中にエラーが発生しました。
 An error occurred at getting asset used in content information.,コンテンツ情報で使用されているアセットを取得する際にエラーが発生しました。
 An error occurred at getting media asset to content relation by media asset id.,メディアアセットをメディアアセットIDによってコンテンツとの関係を取得する際にエラーが発生しました。
-An error occurred during adobe stock asset save.,Adobe Stockアセットの保存中にエラーが発生しました。
+An error occurred during adobe stock asset save.,Adobe Stock アセットの保存中にエラーが発生しました。
 An error occurred during get asset keywords: %1,アセットのキーワードの取得中にエラーが発生しました：%1
 An error occurred during get media asset list: %1,メディアアセットの取得中にエラーが発生しましたリスト:%1
 An error occurred during get user data. Contact support.,ユーザーデータの取得中にエラーが発生しました。サポートにお問い合わせください。
@@ -1915,9 +1915,9 @@ An error occurred during mass deletion of system reports. Please review log and 
 An error occurred during media asset save: %1,メディアアセットの保存中にエラーが発生しました：%1
 An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2,処理中にエラーが発生しました。 クーポンID %1 の有効期限が更新されていません。 エラーメッセージ: %2
 An error occurred during save asset keyword: %1,アセットキーワードの保存中にエラーが発生しました：%1
-An error occurred during test Adobe Stock API connection,Adobe StockAPI接続のテスト中にエラーが発生しました
+An error occurred during test Adobe Stock API connection,Adobe Stock API 接続のテスト中にエラーが発生しました
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.",許可を受諾中にエラーが発生しました。詳細については、例外ログを参照して下さい。
-An error occurred during the callback request from the Adobe service: %error,Adobeサービスからのコールバック要求中にエラーが発生しました：%error
+An error occurred during the callback request from the Adobe service: %error,Adobe サービスからのコールバック要求中にエラーが発生しました：%error
 An error occurred on attempt to create folder.,フォルダーを作成しようとした際にエラーが発生しました。
 An error occurred on attempt to delete image.,画像を削除しようとした際にエラーが発生しました。
 An error occurred on attempt to fetch related images.,関連する画像を取得しようとした際にエラーが発生しました。
@@ -2194,14 +2194,14 @@ Are you sure you want to unsubscribe the selected customers from the newsletter?
 Are you sure you want to void the payment?,決済データを取り消してもかまいませんか？
 Are you sure you would like to remove selected items from the requisition list?,選択した項目を購買依頼リストから削除しますか？
 Are you sure you would like to remove this item from the shopping cart?,このアイテムをショッピングカートから削除してもよろしいですか？
-Are you sure?,よろしいですか？
-Are you sure? This order will be canceled and a new one will be created instead.,本当によろしいですか？この注文はキャンセルされて新しい注文が代わりに作成されます
+Are you sure?,続行しますか？
+Are you sure? This order will be canceled and a new one will be created instead.,本当に続行しますか？この注文はキャンセルされて新しい注文が代わりに作成されます。
 Area code is already set,郵便番号は既にセットされております
 Area code is not set,郵便番号はセットされていません
-Area code not set: Area code must be set before starting a session.,郵便番号がセットされていません:郵便番号はセッションが始まる前に設定されてなければなりません
+Area code not set: Area code must be set before starting a session.,郵便番号がセットされていません:郵便番号はセッションが始まる前に設定されてなければなりません。
 Area is already set,地域は既に設定してあります
 Argument type duplication in class %1 in %2%3%4,クラス%1の%2%3%4変数タイプの複製
-Array root keys must not be numeric.,配列ルートキーは数字であってはいけません
+Array root keys must not be numeric.,配列ルートキーは数字であってはいけません。
 Art and Design,アートとデザイン
 As low as,同じかそれ以下
 As Low as,同じかそれ以下
@@ -2839,7 +2839,7 @@ Cannot resolve layered filter type,絞込のフィルタータイプを解決で
 Cannot resolve type,型を解決できません
 Cannot retrieve assets from Adobe Stock.,Adobe Stockからアセットを取得できません。
 Cannot retrieve shipping rates,配送レートを取得できませんでした。
-Cannot retrieve the field %1. It's not available in Adobe Stock SDK,フィールド%1を取得できません。Adobe StockSDKでは使用できません
+Cannot retrieve the field %1. It's not available in Adobe Stock SDK,フィールド%1を取得できません。Adobe Stock SDK では使用できません
 Cannot save attribute,属性は保存できません
 Cannot save attribute %1,属性 %1は保存できません
 Cannot save attributeGroup,属性グループは保存できません
@@ -3345,7 +3345,7 @@ Configuration reset,設定のリセット
 Configurations,設定
 "Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",ダウンロード可能なファイルを持つ標準商品の構成は作成できません。構成を作成するには、まずダウンロード可能なすべてのファイルを削除します。
 Configure,構成
-"Configure an Adobe Stock account on <a href=""https://console.adobe.io"" target=""_blank"">adobe.io</a> to get the API Key (Client ID) and Client Secret. You will not be able to use the integration without both the API Key and Client Secret.","<a href=""https://console.adobe.io""ターゲット=""_blank "">adobe.io</a>でAdobe Stockアカウントを構成し、APIキー（クライアントID）とクライアントの秘密鍵を取得します。APIキーとクライアントの秘密鍵の両方がないと、統合を使用できません。"
+"Configure an Adobe Stock account on <a href=""https://console.adobe.io"" target=""_blank"">adobe.io</a> to get the API Key (Client ID) and Client Secret. You will not be able to use the integration without both the API Key and Client Secret.","<a href=""https://console.adobe.io""ターゲット=""_blank "">adobe.io</a>で Adobe Stock アカウントを構成し、APIキー（クライアントID）とクライアントの秘密鍵を取得します。APIキーとクライアントの秘密鍵の両方がないと、統合を使用できません。"
 Configure and Add to Order,オプションを選択して追加する
 Configure Product,商品を構成する
 Confirm,承認
@@ -3510,9 +3510,9 @@ Could not create products collection.,商品コレクションを作成できま
 Could not create team,チームを作成できまでんした
 Could not create the directory.,ディレクトリを作成できませんでした。
 "Could not delete ""%image"": destination directory is restricted.","""%image ""を削除できませんでした：宛先ディレクトリは制限されています。"
-Could not delete Adobe Stock asset category with id %id,ID %id のAdobe Stockアセットカテゴリを削除できませんでした
-Could not delete Adobe Stock asset creator with id %id,ID %id のAdobe Stockアセット作成者を削除できませんでした
-Could not delete Adobe Stock asset with id %id,ID %id のAdobe Stockアセットを削除できませんでした
+Could not delete Adobe Stock asset category with id %id,ID %id の Adobe Stock アセットカテゴリを削除できませんでした
+Could not delete Adobe Stock asset creator with id %id,ID %id の Adobe Stock アセット作成者を削除できませんでした
+Could not delete Adobe Stock asset with id %id,ID %id の Adobe Stock アセットを削除できませんでした
 Could not delete coupon code,クーポンコードは削除出来ませんでした
 Could not delete credit memo,クレジットメモを削除出来ませんでした
 Could not delete directories: %paths,ディレクトリを削除できませんでした：%paths
@@ -3573,7 +3573,7 @@ Could not load Sales Channels for Stock,在庫のSales Channelを読み込めま
 Could not load Source Item Configuration.,倉庫項目の設定を読み込めませんでした。
 Could not load Sources for Stock,在庫の倉庫を読み込めませんでした
 Could not locate schema: '%1' at '%2',スキーマを見つけることが出来ませんでした: '%1' の '%2'
-Could not login to Adobe IMS.,AdobeのIMSにログインできませんでした。
+Could not login to Adobe IMS.,Adobe の IMS にログインできませんでした。
 Could not move category,カテゴリを移動できませんでした
 Could not parse resource url.,リソースのURLを解析できませんでした。
 Could not parse the image file for metadata: %path,メタデータの画像ファイルを解析できませんでした：%path
@@ -5219,7 +5219,7 @@ Failed Email Receiver,失敗メール受信者
 Failed Email Sender,失敗メール送信者
 Failed Email Template,失敗メールテンプレート
 Failed Messages Lifetime,失敗したメッセージの存続期間
-"Failed to authenticate to Adobe Stock API. <br> Please correct the API credentials in <a href=""%url"">Configuration → System → Adobe Stock Integration.</a>","Adobe StockAPIへの認証に失敗しました。 <br> <a href=""%url "">設定→システム→Adobe Stock統合でAPI資格情報を修正してください。</a>"
+"Failed to authenticate to Adobe Stock API. <br> Please correct the API credentials in <a href=""%url"">Configuration → System → Adobe Stock Integration.</a>","Adobe Stock API への認証に失敗しました。 <br> <a href=""%url "">設定→システム→Adobe Stock 統合でAPI資格情報を修正してください。</a>"
 Failed to create backup,バックアップ作成に失敗しました
 Failed to create directory %1,ディレクトリを作製できませんでした %1
 Failed to create Order from Purchase Order #%increment_id with Error - %error_message,発注書 #%increment_id から注文を作成できませんでした。エラー - %error_message
@@ -6703,7 +6703,7 @@ Lib js unused,Libは使用されていません
 Library Mail,図書メール
 License,ライセンス
 "License """,ライセンス「」
-License Adobe Stock Images?,Adobe Stock・イメージズのライセンスは？
+License Adobe Stock Images?,Adobe Stock 画像のライセンスは？
 License and Save,ライセンスと保存
 License images,ライセンス画像
 License Status,ライセンスステータス
@@ -8201,7 +8201,7 @@ Payment Method,お支払方法
 Payment method is not defined for instance purchase.,支払い方法は、インスタンス購入のために定義されていません。
 Payment method nonce can't be retrieved.,支払い方法nonceは取得できません。
 Payment method nonce can\'t be retrieved.,Payment method nonce can\'t be retrieved.
-Payment method with vault and instant purchase support should be enabled.,vaultによる支払い方法と即時購入サポートを有効にする必要があります。
+Payment method with vault and instant purchase support should be enabled.,vault による支払い方法と即時購入サポートを有効にする必要があります。
 Payment Method:,支払方法 :
 Payment Methods,支払方法
 Payment Methods Section,支払方法セクション
@@ -13463,9 +13463,9 @@ VAT Request Identifier,VATリクエスト識別番号
 VAT/TAX ID,VAT/税ID:
 VAT/TAX ID:,VAT/税ID:
 VAT/TAX ID: ,VAT/税ID: 
-Vault enabled,Vault有効
-Vault Enabled,Vault有効
-Vault Title,Vaultのタイトル
+Vault enabled,Vault 有効
+Vault Enabled,Vault 有効
+Vault Title,Vault のタイトル
 Velocity. The account number was use  many times in the past 15 minutes,速度。 過去15分間にアカウント番号が何度も使用されていました
 Vendor,ベンダー
 ver. %1,バージョン%1
@@ -13592,8 +13592,8 @@ Warning: No message defined for %s,警告: %sのためのメッセージが定�
 "Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",警告：税を含む価格に割引を適用し、割引後に税金を適用するには、カタログ価格を「税込」に設定します。
 Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.,警告!この機能を稼働環境で有効にすることは推奨されていません。なぜなら情報漏えい事故の恐れがあるからです。
 Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information,注意！HTTPSを使っていないインテグレーションは危険であり個人情報を晒してしまう可能性があります
-Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,警告!\r\nユーザーが割り当てられているアクションを削除しようとしています。\r\nよろしいですか？
-Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,警告!\r\n以下のユーザーが割り当てられているアクションを削除しようとしています。\r\nよろしいですか？
+Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,警告!\r\nユーザーが割り当てられているアクションを削除しようとしています。\r\n続行しますか？
+Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,警告!\r\n以下のユーザーが割り当てられているアクションを削除しようとしています。\r\n続行しますか？
 was,あった
 was approved but an error occurred when converting it to an Order.,は承認されましたが、注文に変換中にエラーが発生しました。
 was not,なかった
@@ -14996,9 +14996,9 @@ The coupon code has been removed.,クーポンコードは削除されました�
 Requested store is not found (%1),要求されたストアが見つかりません(%1)
 "Theme not found: ""%1"".","テーマが見つかりません：""%1""。"
 Status Updated On:,ステータス更新日：
-Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?,警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>よろしいですか？
-Warning!<br>This action will remove those users from already assigned roles.<br>Are you sure?,警告！<br>この操作を実行すると、既に割り当てられているロールからこれらのユーザーが削除されます。<br>よろしいですか？
-Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?,警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>よろしいですか？
+Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?,警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>続行しますか？
+Warning!<br>This action will remove those users from already assigned roles.<br>Are you sure?,警告！<br>この操作を実行すると、既に割り当てられているロールからこれらのユーザーが削除されます。<br>続行しますか？
+Warning!<br>This action will remove this user from already assigned role.<br>Are you sure?,警告！<br>この操作を実行すると、このユーザーは既に割り当てられている役割から削除されます。<br>続行しますか？
 """model"" should be a ""%instance"" instance",「モデル」は「%instance 」インスタンスである必要があります
 "The wishlist item with ID ""%id"" does not belong to the wishlist",IDが「%id 」のほしい物項目は、ほしい物リストに属していません
 System Messages,システムメッセージ
@@ -15200,7 +15200,7 @@ System Messages,システムメッセージ
                             <strong>融資の広告を出すことで、売上を伸ばすことができます。</strong><br/>PayPalは、PayPal Credit&#174により、ブラウザーを資金調達で購入者に変えるのに役立ちます。あなたのお客様は支払いするまでの時間が長く取れ、その一方でお客様に対して前払いを行い、追加の費用はかかりません。
                         PayPalの無料バナー広告を利用して、PayPalクレジット&#174の広告を出す事ができ、あなたのお客様がPayPalでチェックアウトする際に、支払い方法として融資を受けることができます。
                         PayPal 広告プログラムは、追加購入を生み出し、消費者の平均購入規模を15% 以上引き上げた事があります。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を表示</a>."
-Adobe Api Key is required!,Adobe APIキーが必要です。
+Adobe Api Key is required!,Adobe API キーが必要です。
 Please enable your Store View before using this Web Site as Default,この Web サイトをデフォルトとして使用する前に、お使いのストア表示を有効にしてください
 Incorrect value of input.type,input.type の不正な値
 Product relations processor must implement %1.,商品関係プロセッサは %1 を実装する必要があります。
@@ -16115,7 +16115,7 @@ Resolver,リゾルバー
 "Is Optional",オプション
 "Webhooks Response Cache",ウェブフックレスポンスキャッシュ
 "Caches responses to webhook requests","ウェブフックリクエストへのレスポンスをキャッシュします"
-"Adobe IO Events Configuration","AdobeI/O イベントの設定"
+"Adobe IO Events Configuration","Adobe IO イベントの設定"
 "Configuration Check",設定チェック
 "Adobe Services","Adobe Services"
 "General configuration",一般設定
@@ -16273,14 +16273,14 @@ Venmo,Venmo
 "Gateway REST URL","ゲートウェイ REST URL"
 "Tracking REST URL","REST URL のトラッキング"
 "Last Logged in",最終ログイン日時
-"'Are you sure?'",「よろしいでしょうか？」
+"'Are you sure?'",「続行しますか？」
 "Unable to find Sales Order with ID ""%1""","ID ""%1""の注文が見つかりません"
 "Execute Synchronization",同期の実行
 "Wrong configuration in ""%1"" section of app/etc/env.php or app/etc/config.php files for the event ""%2"". The configuration must be in array format with at least one field configured.","イベント「%2」のapp/etc/env.phpまたはapp/etc/config.phpファイルの「%1」セクションの設定が間違っています。設定は、少なくとも 1 つのフィールドが設定された配列形式である必要があります。"
 "Events Status",イベントステータス
 "Events List",イベントリスト
 "An event provider is not configured",イベントプロバイダーが設定されていません
-"No event provider is configured. Please configure the event provider before unsubscribing from events.",イベントプロバイダーが構成されていません。イベントを登録解除する前に、イベントプロバイダーを設定してください。
+"No event provider is configured. Please configure the event provider before unsubscribing from events.",イベントプロバイダーが設定されていません。イベントを登録解除する前に、イベントプロバイダーを設定してください。
 "Failed to get event subscriptions. Error: %1","イベント配信登録を取得できませんでした。エラー： %1"
 "Unable to read the list of current event subscriptions: %1","現在のイベント配信登録の一覧を読み取れません： %1"
 "Unable to update the event subscription. A subscription for %1 does not exist","イベント配信登録を更新できません。%1 のサブスクリプションが存在しません"
@@ -16315,7 +16315,7 @@ Venmo,Venmo
 "Reset Is Default",デフォルトにリセット
 "Refresh registrations",登録を更新
 "Please select maximum %1 customer(s) before executing this mass action.","この一括アクションを実行する前に、最大 %1 件の顧客を選択してください。"
-"Admin UI SDK log","管理 UI SDKログ"
+"Admin UI SDK log","管理 UI SDK ログ"
 "menu' 'items' 'page' 'title' '","メニュー' '項目' 'ページ' 'タイトル'"
 "Registrations refreshed successfully.",登録が更新されました。
 Draft,下書き
@@ -16357,8 +16357,8 @@ Storeview,ストアビュー
 "Order is missing and can not be authorized. Try again later.",注文が見つからないため承認できません。後でもう一度試してください。
 "Please confirm your email address on your <a href=""https://www.paypal.com/businessprofile/settings"" target=""_blank"">Paypal Profile Settings</a> in order to receive payments.","お支払いを受け取るには、<a href=""https://www.paypal.com/businessprofile/settings"" target=""_blank "">Paypal プロファイル設定</a> でメールアドレスを確認してください。"
 ERROR,エラー
-"There is an issue with your PayPal account. Please reach out to Adobe sales for assistance.","PayPal アカウントに問題があります。サポートが必要な場合は、Adobeセールスにお問い合わせください。"
-"Please finish onboarding by using your Adobe generated scope onboarding link.",Adobe が生成した範囲のオンボーディングリンクを使用して、オンボーディングを完了してください。
+"There is an issue with your PayPal account. Please reach out to Adobe sales for assistance.","PayPal アカウントに問題があります。サポートが必要な場合は、アドビセールスにお問い合わせください。"
+"Please finish onboarding by using your Adobe generated scope onboarding link.",アドビが生成した範囲のオンボーディングリンクを使用して、オンボーディングを完了してください。
 "No config provider found for vault method ""%1"".","Vault メソッド""%1""の構成プロバイダーが見つかりません。"
 "Save New Card",新しいカードを保存
 "Card Information",カード情報
@@ -16404,7 +16404,7 @@ VAT,VAT
                 href=""%url_to_confirm "">ここをクリック</a> して、返品リクエストを確認します。"
 "We have received a request to reset the %changes associated with your account at %store_name.","%store_name のアカウントに関連付けられた %changes をリセットするリクエストを受信しました。"
 "The ID can contain only alphanumeric characters and underscores.","ID に含めることができるのは、英数字とアンダースコアのみです。"
-"This search engine option is no longer supported by Adobe. It is recommended to use OpenSearch as a search engine instead.","この検索エンジンオプションは、Adobeではサポートされなくなりました。検索エンジンには OpenSearch を使用することをお勧めします。"
+"This search engine option is no longer supported by Adobe. It is recommended to use OpenSearch as a search engine instead.","この検索エンジンオプションは、アドビではサポートされなくなりました。検索エンジンには OpenSearch を使用することをお勧めします。"
 "Invalid message",無効なメッセージ
 "Please use only letters (a-z or A-Z), numbers (0-9), dots (.), commas(,), underscores (_), dashes (-), and spaces on this field.","このフィールドには、文字 (a ～ z、A ～ Z)、数字 (0 ～ 9)、ドット (.)、コンマ (,)、アンダースコア (_) 、ダッシュ (-)、スペースのみを使用してください。"
 "Please use only letters (a-z or A-Z), numbers (0-9), dots (.), commas(,), underscores (_) and dashes(-) on this field.","このフィールドには、文字 (a ～ z、A ～ Z)、数字 (0 ～ 9)、ドット (.)、コンマ (,)、アンダースコア (_) 、ダッシュ (-) のみを使用してください。"
@@ -16413,7 +16413,7 @@ VAT,VAT
 "This will reset your configuration for Payment Services in ","これにより、Payment Services の設定がリセットされます "
 "CreditCard Vault is not available.","CreditCard Vault は使用できません。"
 "Error while vaulting the card, please try again.",カードをヴォルティング中にエラーが発生しました。もう一度やり直してください。
-"Card vaulted successfully. Please wait to be redirected to the Stored Payment Methods page.",カードが正常にヴォルティングされました。保存されている支払い方法ページにリダイレクトされるまでお待ちください。
+"Card vaulted successfully. Please wait to be redirected to the Stored Payment Methods page.",カードが正常に保存されました。保存されている支払い方法ページにリダイレクトされるまでお待ちください。
 "Error rendering Payment SDK, please reload the page and try again.",Payment SDKのレンダリングエラー。ページを再読み込みし、再度お試しください。
 "Error initializing Payment SDK, please reload the page and try again.",Payment SDKの初期化エラー。ページを再読み込みし、再度お試しください。
 "Custom Fee",通関手数料
