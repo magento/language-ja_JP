@@ -3556,7 +3556,7 @@ Could not fetch media content links data,メディアコンテンツのリンク
 "Could not find a cart address with ID ""%cart_address_id""","カート住所をID ""%cart_address_id"" で見つけられませんでした"
 "Could not find a cart with ID ""%masked_cart_id""","IDが ""%masked_cart_id""のカートが見つかりませんでした"
 "Could not find a product with ID ""%1""","ID ""%1""の商品が見つかりませんでした"
-"Could not find a product with SKU ""%sku""","SKUが""sku""の商品が見つかりませんでした"
+"Could not find a product with SKU ""%sku""","SKUが""%sku""の商品が見つかりませんでした"
 Could not find a token using public hash: %1,公開ハッシュを使用したトークンが見つかりませんでした: %1
 "Could not find a wishlist item with ID ""%id""",IDが「%id 」のほしい物リストアイテムが見つかりませんでした
 "Could not find an implementation type for connection ""%name"".","接続 ""%name""の実装タイプを見つけることができませんでした。"
